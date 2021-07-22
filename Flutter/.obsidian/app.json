@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/Inbox",
+  "showUnsupportedFiles": true
+}
