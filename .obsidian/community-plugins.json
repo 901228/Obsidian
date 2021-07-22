@@ -2,5 +2,7 @@
   "obsidian-indent-lines",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "templater-obsidian",
+  "calendar"
 ]

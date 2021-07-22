@@ -6,6 +6,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "/Inbox",
-  "showUnsupportedFiles": true
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }
