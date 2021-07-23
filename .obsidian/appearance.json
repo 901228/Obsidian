@@ -9,6 +9,7 @@
     "dot_relationship_line",
     "theme_dark_grapgview",
     "smaller_headings",
-    "font-family"
+    "font-family",
+    "graphView_line"
   ]
 }

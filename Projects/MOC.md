@@ -12,3 +12,7 @@ Note Type :: #📘 <br>
 	- [[Obsidian 使用規則]]
 	- [[Markdown 語法]]
 - [[Template]]
+
+# Projects
+- [[Flutter_MOC|Flutter]]
+- [[Proce55ing_MOC|Proce55ing]]

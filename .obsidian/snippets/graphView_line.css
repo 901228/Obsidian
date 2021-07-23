@@ -1,0 +1,9 @@
+/*color for the connecting line when not hover*/
+.graph-view.color-line {
+  color: darkturquoise;
+}
+
+/*color for the connecting line when hover*/
+.graph-view.color-line-highlight {
+  color: darkslateblue;
+}

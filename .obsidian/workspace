@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/MOC.md",
-            "mode": "preview"
+            "file": "Archives/使用規則/使用規則.md",
+            "mode": "source"
           }
         },
         "group": "761546aac55c70cf"
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/MOC.md",
+            "file": "Archives/使用規則/使用規則.md",
             "mode": "preview"
           }
         },
@@ -75,19 +75,16 @@
             "id": "c180d2592a547e92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/使用規則/Obsidian 使用規則.md",
-                "mode": "preview"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -103,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/MOC.md",
+                "file": "Archives/使用規則/使用規則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/MOC.md"
+                "file": "Archives/使用規則/使用規則.md"
               }
             }
           },
@@ -159,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/MOC.md",
+                "file": "Archives/使用規則/使用規則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +167,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#📘",
@@ -194,18 +191,18 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.00066079059829,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48037869379832554,
-                  "close": true
+                  "scale": 0.33576579988116645,
+                  "close": false
                 }
               }
             }
@@ -214,14 +211,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.7157287597656,
-    "collapsed": true
+    "width": 333.7157287597656
   },
   "active": "bf8b9e2bdeeaa2f3",
   "lastOpenFiles": [
+    "Archives/使用規則/使用規則.md",
     "MOC.md",
     "README.md",
-    "Archives/使用規則/使用規則.md",
     "Inbox/Markdown 語法.md",
     "Inbox/使用規則.md",
     "Inbox/Untitled.md",
