@@ -8,5 +8,9 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "smartIndentList": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "Attachments"
 }

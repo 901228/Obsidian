@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a025eeea0c7bf3a4",
+        "id": "bf8b9e2bdeeaa2f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Flutter MOC.md",
-            "mode": "source"
+            "file": "Projects/MOC.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "761546aac55c70cf"
+      },
+      {
+        "id": "1073178efccbd03a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/MOC.md",
+            "mode": "preview"
+          }
+        },
+        "group": "761546aac55c70cf"
       }
     ],
     "direction": "vertical"
@@ -57,12 +70,24 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "c180d2592a547e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/使用規則/Obsidian 使用規則.md",
+                "mode": "preview"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -78,23 +103,15 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Flutter MOC.md",
+                "file": "Projects/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "7782f52c9f363be2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -103,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📝",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,12 +135,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Flutter MOC.md"
+                "file": "Projects/MOC.md"
               }
             }
+          },
+          {
+            "id": "82a4a253bf933845",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3ef55ca7bb803050",
@@ -135,19 +159,41 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Flutter MOC.md",
+                "file": "Projects/MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#📘",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4251903
+                      }
+                    },
+                    {
+                      "query": "path:Template",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "tag:#📝",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8388736
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -158,7 +204,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.48037869379832554,
                   "close": true
                 }
               }
@@ -168,19 +214,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.7157287597656
+    "width": 333.7157287597656,
+    "collapsed": true
   },
-  "active": "a025eeea0c7bf3a4",
+  "active": "bf8b9e2bdeeaa2f3",
   "lastOpenFiles": [
-    "Inbox/Flutter MOC.md",
-    "Inbox/named_route_return_value.md",
-    "Obsidian 使用規則.md",
-    "Template/default_template.md",
+    "MOC.md",
+    "README.md",
+    "Archives/使用規則/使用規則.md",
+    "Inbox/Markdown 語法.md",
+    "Inbox/使用規則.md",
     "Inbox/Untitled.md",
-    "named_route_return_value.md",
-    "Untitled.md",
-    "Tricks.md",
-    "named_route.md",
-    "Untitled 1.md"
+    "Obsidian 使用規則.md",
+    "Inbox/someurl.md",
+    "Flutter/Flutter_MOC.md",
+    "Flutter/Attributes.md"
   ]
 }

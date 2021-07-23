@@ -1,1 +1,1 @@
-Obsidian
+Obsidian 筆記

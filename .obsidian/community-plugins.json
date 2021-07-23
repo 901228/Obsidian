@@ -4,5 +4,10 @@
   "dataview",
   "obsidian-emoji-toolbar",
   "templater-obsidian",
-  "calendar"
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-plugin-toc",
+  "note-refactor-obsidian"
 ]
