@@ -10,3 +10,4 @@ Parent Link :: [[MOC]]<br>
 # Template
 - [[default_template|Default Template]]
 	- [[thought_template|Thought Template]]
+	- [[moc_template|Moc Template]]

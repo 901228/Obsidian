@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8b9e2bdeeaa2f3",
+        "id": "6a22b77c6b38badf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archives/使用規則/使用規則.md",
+            "file": "Projects/Flutter/Flutter_MOC.md",
             "mode": "source"
           }
-        },
-        "group": "761546aac55c70cf"
-      },
-      {
-        "id": "1073178efccbd03a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Archives/使用規則/使用規則.md",
-            "mode": "preview"
-          }
-        },
-        "group": "761546aac55c70cf"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -100,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/使用規則/使用規則.md",
+                "file": "Projects/Flutter/Flutter_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/使用規則/使用規則.md"
+                "file": "Projects/Flutter/Flutter_MOC.md"
               }
             }
           },
@@ -144,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ef55ca7bb803050",
@@ -156,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archives/使用規則/使用規則.md",
+                "file": "Projects/Flutter/Flutter_MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +154,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#📘",
@@ -177,7 +164,7 @@
                       }
                     },
                     {
-                      "query": "path:Template",
+                      "query": "path:Archives/Template",
                       "color": {
                         "a": 1,
                         "rgb": 11392604
@@ -191,18 +178,18 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 2.00066079059829,
+                  "lineSizeMultiplier": 1.8,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.33576579988116645,
-                  "close": false
+                  "scale": 0.48037869379832554,
+                  "close": true
                 }
               }
             }
@@ -213,17 +200,17 @@
     "direction": "horizontal",
     "width": 333.7157287597656
   },
-  "active": "bf8b9e2bdeeaa2f3",
+  "active": "6a22b77c6b38badf",
   "lastOpenFiles": [
+    "Projects/Flutter/Flutter_MOC.md",
+    "Projects/MOC.md",
+    "Archives/Template/Template.md",
+    "Inbox/moc_template.md",
+    "Archives/Template/thought_template.md",
+    "Inbox/Untitled.md",
+    "Archives/Template/default_template.md",
     "Archives/使用規則/使用規則.md",
     "MOC.md",
-    "README.md",
-    "Inbox/Markdown 語法.md",
-    "Inbox/使用規則.md",
-    "Inbox/Untitled.md",
-    "Obsidian 使用規則.md",
-    "Inbox/someurl.md",
-    "Flutter/Flutter_MOC.md",
-    "Flutter/Attributes.md"
+    "README.md"
   ]
 }
