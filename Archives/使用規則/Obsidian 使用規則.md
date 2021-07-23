@@ -46,3 +46,6 @@ Parent Link :: [[使用規則]]<br>
 	- 📘 `tag:#📘` -> <strong style="color: rgb(64,224,255)">Map Of Content</strong>
 	- 📝 `tag:#📝` -> <strong style="color: rgb(128,0,128)">我的所有筆記</strong>
 	- 🔲 <strong style="color: rgb(255,160,122)">Template</strong>
+
+### Reference
+[Obsidian使用教學--朱騏 | Medium](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/tagged/obsidian)

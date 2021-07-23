@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Flutter/Flutter_MOC.md",
+            "file": "Archives/使用規則/Obsidian 使用規則.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md",
+                "file": "Archives/使用規則/Obsidian 使用規則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md"
+                "file": "Archives/使用規則/Obsidian 使用規則.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md",
+                "file": "Archives/使用規則/Obsidian 使用規則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48037869379832554,
+                  "scale": 0.2807131894625505,
                   "close": true
                 }
               }
@@ -202,6 +202,8 @@
   },
   "active": "6a22b77c6b38badf",
   "lastOpenFiles": [
+    "Archives/使用規則/Obsidian 使用規則.md",
+    "README.md",
     "Projects/Flutter/Flutter_MOC.md",
     "Projects/MOC.md",
     "Archives/Template/Template.md",
@@ -209,8 +211,6 @@
     "Archives/Template/thought_template.md",
     "Inbox/Untitled.md",
     "Archives/Template/default_template.md",
-    "Archives/使用規則/使用規則.md",
-    "MOC.md",
-    "README.md"
+    "Archives/使用規則/使用規則.md"
   ]
 }
