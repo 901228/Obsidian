@@ -1,7 +1,7 @@
 ---
 title : Text
 date : 2021-07-22_Thu 21:24
-aliases : [text, widget]
+aliases : [Text, widget]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: #📝 <br>

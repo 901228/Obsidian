@@ -1,7 +1,7 @@
 ---
 title : MainAxisAlignment
 date : 2021-07-22_Thu 21:33
-aliases : [alignment, attribute]
+aliases : [Alignment, attribute]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: #📝 <br>

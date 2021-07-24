@@ -1,7 +1,7 @@
 ---
 title : InkWell with backgroundColor
 date : 2021-07-24_Sat 16:19
-aliases : []
+aliases : [IntWell, color]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: <br>
