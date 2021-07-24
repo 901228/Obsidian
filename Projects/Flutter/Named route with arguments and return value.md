@@ -5,7 +5,7 @@ aliases : [named route, route, argument]
 ---
 Source Type :: #📥/💭<br>
 Note Type :: #📝<br>
-Topics :: [[Flutter_MOC]]<br>
+Topics :: [[Flutter MOC]]<br>
 Parent Link :: [[Tricks]]<br>
 
 # Named route with arguments and return value

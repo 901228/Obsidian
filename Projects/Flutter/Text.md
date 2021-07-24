@@ -5,7 +5,7 @@ aliases : [text, widget]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: #📝 <br>
-Topics :: [[Flutter_MOC]]<br>
+Topics :: [[Flutter MOC]]<br>
 Parent Link :: [[Widgets]]<br>
 
 ---

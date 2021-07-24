@@ -6,7 +6,7 @@ aliases : []
 Source Type :: #📥/📄 #📥/💭 <br>
 Source URL :: [pub.dev](https://pub.dev)<br>
 Note Type :: #📝 <br>
-Topics :: [[Flutter_MOC]]<br>
+Topics :: [[Flutter MOC]]<br>
 Parent Link :: [[Tricks]]<br>
 
 ---

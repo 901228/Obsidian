@@ -5,7 +5,7 @@ aliases : [alignment, attribute]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: #📝 <br>
-Topics :: [[Flutter_MOC]]<br>
+Topics :: [[Flutter MOC]]<br>
 Parent Link :: [[Attributes]]<br>
 
 ---

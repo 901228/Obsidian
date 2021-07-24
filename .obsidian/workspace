@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Flutter usable package list.md",
+            "file": "Inbox/InkWell with backgroundColor.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Flutter usable package list.md",
+                "file": "Inbox/InkWell with backgroundColor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Flutter usable package list.md"
+                "file": "Inbox/InkWell with backgroundColor.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Flutter usable package list.md",
+                "file": "Inbox/InkWell with backgroundColor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,15 +218,15 @@
   },
   "active": "a98879f86e6f1156",
   "lastOpenFiles": [
+    "Inbox/InkWell with backgroundcolor.md",
+    "Projects/Flutter/Tricks.md",
+    "Projects/Flutter/Named route with arguments and return value.md",
+    "Projects/Flutter/Flutter_MOC.md",
     "Inbox/Untitled.md",
     "Archives/使用規則/Obsidian 使用規則.md",
     "Projects/MOC.md",
     "Archives/使用規則/使用規則.md",
-    "Projects/Flutter/Flutter_MOC.md",
     "Archives/People/People.md",
-    "Inbox/@Github.md",
-    "Archives/Template/thought_template.md",
-    "Archives/Template/Template.md",
-    "Archives/Template/moc_template.md"
+    "Inbox/@Github.md"
   ]
 }

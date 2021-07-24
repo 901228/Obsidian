@@ -9,5 +9,4 @@ Parent Link :: [[MOC]]<br>
 
 ---
 # Flutter MOC
-- [[Tricks]]
-	- [[Named route with arguments and return value|Named Route]]
+- ![[Tricks#Tricks]]
