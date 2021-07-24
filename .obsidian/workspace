@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Flutter/Flutter_MOC.md",
+            "file": "Inbox/Git push remote to github with ssh key.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "f9679b4d0abe1c30"
+      },
+      {
+        "id": "9b35b9b9052577b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Git push remote to github with ssh key.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f9679b4d0abe1c30"
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md",
+                "file": "Inbox/Git push remote to github with ssh key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md"
+                "file": "Inbox/Git push remote to github with ssh key.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/Flutter_MOC.md",
+                "file": "Inbox/Git push remote to github with ssh key.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,10 +212,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.7157287597656
+    "width": 333.7157287597656,
+    "collapsed": true
   },
   "active": "6a22b77c6b38badf",
   "lastOpenFiles": [
+    "Inbox/Git push remote to github with ssh key.md",
+    "Inbox/Untitled.md",
     "Projects/Flutter/Flutter_MOC.md",
     "Projects/MOC.md",
     "Archives/使用規則/使用規則.md",
@@ -209,8 +226,6 @@
     "README.md",
     "Archives/Template/Template.md",
     "Inbox/moc_template.md",
-    "Archives/Template/thought_template.md",
-    "Inbox/Untitled.md",
-    "Archives/Template/default_template.md"
+    "Archives/Template/thought_template.md"
   ]
 }
