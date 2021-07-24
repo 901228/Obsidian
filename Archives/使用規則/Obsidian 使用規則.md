@@ -41,6 +41,9 @@ Parent Link :: [[使用規則]]<br>
 - ⚙️ Settings | 設定、規則
 - 👨 People | 用來標記人名的筆記
 
+#### Something Else
+- 🚧 Under Construction | 未完成、還沒研究…
+
 ### 網狀圖相關
 - 🕸️
 	- 📘 `tag:#📘` -> <strong style="color: rgb(64,224,255)">Map Of Content</strong>

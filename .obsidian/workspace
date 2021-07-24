@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Flutter usable package list.md",
-            "mode": "source"
+            "file": "Inbox/Flutter build and release.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,11 +69,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Flutter usable package list.md",
+                "file": "Inbox/Flutter build and release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Flutter usable package list.md"
+                "file": "Inbox/Flutter build and release.md"
               }
             }
           },
@@ -145,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Flutter usable package list.md",
+                "file": "Inbox/Flutter build and release.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,19 +216,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 348,
+    "collapsed": true
   },
   "active": "a98879f86e6f1156",
   "lastOpenFiles": [
+    "Inbox/Flutter build and release.md",
+    "Archives/使用規則/Git push remote to github with ssh key.md",
     "Inbox/Flutter usable package list.md",
+    "Archives/使用規則/Obsidian 使用規則.md",
+    "Inbox/Untitled.md",
     "Inbox/InkWell with backgroundColor.md",
     "Projects/Flutter/MainAxisAlignment.md",
     "Projects/Flutter/Text.md",
     "Projects/Flutter/Attributes.md",
-    "Projects/Flutter/Flutter MOC.md",
-    "Projects/Flutter/Tricks.md",
-    "Projects/Flutter/Named route with arguments and return value.md",
-    "Inbox/InkWell with backgroundcolor.md",
-    "Projects/Flutter/Flutter_MOC.md"
+    "Projects/Flutter/Flutter MOC.md"
   ]
 }

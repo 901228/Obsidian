@@ -1,3 +1,185 @@
+:root {
+    --line-height-header-preview:    2em;
+}
+
+.theme-light,
+.theme-dark {
+  --font-size-h1:                   1em;
+  --font-size-h2:                   1em;
+  --font-size-h3:                   1em;
+  --font-size-h4:                   1em;
+  --font-size-h5:                   1em;
+  --font-size-h6:                   1em;
+  --font-size-preview-h1:           2.1em;
+  --font-size-preview-h2:           1.9em;
+  --font-size-preview-h3:           1.6em;
+  --font-size-preview-h4:           1.3em;
+  --font-size-preview-h5:           1.2em;
+  --font-size-preview-h6:           1.1em;
+  --header-before-size-h1:          0.9em;
+  --header-before-size-h2:          0.8em;
+  --header-before-size-h3:          0.7em;
+  --header-before-size-h4:          0.6em;
+  --header-before-size-h5:          0.6em;
+  --header-before-size-h6:          0.6em;
+  --text-title-h1:                  purple;
+  --text-title-h2:                  #3fcc1c;
+  --text-title-h3:                  #e73d1f;
+  --text-title-h4:                  #d79921;
+  --text-title-h5:                  #458588;
+  --text-title-h6:                  #b16286;
+  /*
+  --text-title-h1:                  #d65d0e;
+  --text-title-h2:                  #d79921;
+  --text-title-h3:                  #98971a;
+  --text-title-h4:                  #689d6a;
+  --text-title-h5:                  #458588;
+  --text-title-h6:                  #b16286;
+  */
+}
+
+/* headings for editor and preview */
+.cm-s-obsidian pre.HyperMD-header.HyperMD-header-1,
+.cm-s-obsidian pre.HyperMD-header.HyperMD-header-2,
+.cm-s-obsidian pre.HyperMD-header.HyperMD-header-3 {
+
+	font-size: inherit;
+}
+
+.cm-header-1 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h1) !important;
+  color: var(--text-title-h1);
+}
+
+.cm-header-2 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h2) !important;
+  color: var(--text-title-h2);
+}
+
+.cm-header-3 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h3) !important;
+  color: var(--text-title-h3);
+}
+
+.cm-header-4 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h4) !important;
+  color: var(--text-title-h4);
+}
+
+.cm-header-5 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h5) !important;
+  color: var(--text-title-h5);
+}
+
+.cm-header-6 {
+
+  font-weight: 500;
+  font-size: var(--font-size-h6) !important;
+  color: var(--text-title-h6);
+  
+}
+
+
+.markdown-preview-view h1 {
+
+  font-weight: 500;
+  font-size: var(--font-size-preview-h1) !important;
+  color: var(--text-title-h1);
+  line-height: var(--line-height-header-preview);
+}
+
+.markdown-preview-view h2 {
+
+  font-weight: 500;
+  font-size: var(--font-size-preview-h2) !important;
+  color: var(--text-title-h2);
+  line-height: var(--line-height-header-preview);
+}
+
+.markdown-preview-view h3 {
+
+  font-weight: 500;
+  font-size: var(--font-size-preview-h3) !important;
+  color: var(--text-title-h3);
+  line-height: var(--line-height-header-preview);
+}
+
+.markdown-preview-view h4
+{
+  font-family: var(--font-family-mdpreview);
+  font-weight: 500;
+  font-size: var(--font-size-preview-h4) !important;
+  color: var(--text-title-h4);
+  line-height: var(--line-height-header-preview);
+}
+
+.markdown-preview-view h5 {
+
+  font-weight: 500;
+  font-size: var(--font-size-preview-h5) !important;
+  line-height: var(--line-height-header-preview);
+}
+
+
+.markdown-preview-view h6 {
+
+  font-weight: 500;
+  font-size: var(--font-size-preview-h6) !important;
+  color: var(--text-title-h6);
+  line-height: var(--line-height-header-preview);
+}
+
+/* _scale                              */
+/*-------------------------------------*/
+
+h1:before {
+
+    content: "§ ";
+    font-size: var(--header-before-size-h1);
+    color: var(--header-before-color);
+}
+h2:before {
+
+    content: "## ";
+    font-size: var(--header-before-size-h2);
+    color: var(--header-before-color);
+}
+h3:before {
+
+    content: "### ";
+    font-size: var(--header-before-size-h3);
+    color: var(--header-before-color);
+}
+h4:before {
+
+    content: "#### ";
+    font-size: var(--header-before-size-h4);
+    color: var(--header-before-color);
+}
+h5:before {
+
+    content: "##### ";
+    font-size: var(--header-before-size-h5);
+    color: var(--header-before-color);
+}
+h6:before {
+
+    content: "###### ";
+    font-size: var(--header-before-size-h6);
+    color: var(--header-before-color);
+}
+
+/*
 .markdown-preview-view h2,
 .markdown-preview-view h3,
 .markdown-preview-view h4,
@@ -20,3 +202,4 @@
 .cm-header-1 {
     color: purple;
 }
+*/
