@@ -20,3 +20,6 @@ Parent Link :: [[Tricks]]<br>
 - [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [flutter_widgetkit | IOS](https://pub.dev/packages/flutter_widgetkit)
+- [provider](https://pub.dev/packages/provider)
+- [riverpod](https://pub.dev/packages/riverpod)
+- [spannable_grid](https://pub.dev/packages/spannable_grid)
