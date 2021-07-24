@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "add0708588339e4a",
+        "id": "501938b0505caa7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Git push remote to github with ssh key.md",
+            "file": "Projects/MOC.md",
             "mode": "source"
           }
         },
-        "group": "34b02fab21332226"
+        "group": "51b86d0f3cf041c3"
       },
       {
-        "id": "e9db5043e61bdb40",
+        "id": "76eaf665150ea0ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Git push remote to github with ssh key.md",
+            "file": "Projects/MOC.md",
             "mode": "preview"
           }
         },
-        "group": "34b02fab21332226"
+        "group": "51b86d0f3cf041c3"
       }
     ],
     "direction": "vertical"
@@ -82,12 +82,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Git push remote to github with ssh key.md",
+                "file": "Projects/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Git push remote to github with ssh key.md"
+                "file": "Projects/MOC.md"
               }
             }
           },
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3ef55ca7bb803050",
@@ -160,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Git push remote to github with ssh key.md",
+                "file": "Projects/MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,10 +180,10 @@
                       }
                     },
                     {
-                      "query": "path:Archives/Template",
+                      "query": "path:Template",
                       "color": {
                         "a": 1,
-                        "rgb": 11392604
+                        "rgb": 16752762
                       }
                     },
                     {
@@ -192,6 +191,20 @@
                       "color": {
                         "a": 1,
                         "rgb": 8388736
+                      }
+                    },
+                    {
+                      "query": "tag:#👨",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "tag:#⚙️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084269
                       }
                     }
                   ],
@@ -205,7 +218,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2807131894625505,
+                  "scale": 0.4016151595359217,
                   "close": true
                 }
               }
@@ -215,20 +228,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.7157287597656,
+    "width": 348,
     "collapsed": true
   },
-  "active": "add0708588339e4a",
+  "active": "76eaf665150ea0ab",
   "lastOpenFiles": [
-    "Inbox/Git push remote to github with ssh key.md",
-    "Archives/使用規則/Obsidian 使用規則.md",
-    "Inbox/Untitled.md",
-    "Projects/Flutter/Flutter_MOC.md",
     "Projects/MOC.md",
     "Archives/使用規則/使用規則.md",
-    "README.md",
+    "Projects/Flutter/Flutter_MOC.md",
+    "Archives/People/People.md",
+    "Inbox/@Github.md",
+    "Archives/Template/thought_template.md",
     "Archives/Template/Template.md",
-    "Inbox/moc_template.md",
-    "Archives/Template/thought_template.md"
+    "Archives/Template/moc_template.md",
+    "Archives/Template/default_template.md",
+    "Archives/使用規則/Markdown 語法.md"
   ]
 }

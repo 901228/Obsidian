@@ -1,14 +1,14 @@
 ---
-title : <% tp.file.title %>
-date : <%tp.date.now("YYYY-MM-DD_ddd kk:mm")%>
+title : someurl
+date : 2021-07-24_Sat 13:08
 aliases : []
 ---
 Source Type :: <br>
 Source URL :: <br>
-Source Author :: [[]]<br>
+Source Author :: <br>
 Note Type :: <br>
 Topics :: [[]]<br>
 Parent Link :: [[]]<br>
 
 ---
-# <% tp.file.title %>
+# someurl

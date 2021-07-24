@@ -18,7 +18,7 @@
       "query": "path:Template",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 16752762
       }
     },
     {
@@ -26,6 +26,20 @@
       "color": {
         "a": 1,
         "rgb": 8388736
+      }
+    },
+    {
+      "query": "tag:#👨",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#⚙️",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1216266417608145,
+  "scale": 1.3415966213054946,
   "close": false
 }

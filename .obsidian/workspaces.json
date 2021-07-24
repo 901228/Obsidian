@@ -6,7 +6,7 @@
         "type": "split",
         "children": [
           {
-            "id": "6a22b77c6b38badf",
+            "id": "501938b0505caa7a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,12 +58,12 @@
                 }
               },
               {
-                "id": "c180d2592a547e92",
+                "id": "6a22b77c6b38badf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 使用規則.md",
+                    "file": "Archives/使用規則/Obsidian 使用規則.md",
                     "mode": "preview"
                   }
                 }
@@ -129,8 +129,7 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "3ef55ca7bb803050",
@@ -165,7 +164,7 @@
                           "query": "path:Template",
                           "color": {
                             "a": 1,
-                            "rgb": 11392604
+                            "rgb": 16752762
                           }
                         },
                         {
@@ -173,6 +172,20 @@
                           "color": {
                             "a": 1,
                             "rgb": 8388736
+                          }
+                        },
+                        {
+                          "query": "tag:#👨",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#⚙️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
                           }
                         }
                       ],
@@ -186,7 +199,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.48037869379832554,
+                      "scale": 0.4016151595359217,
                       "close": true
                     }
                   }
@@ -196,38 +209,38 @@
           }
         ],
         "direction": "horizontal",
-        "width": 333.7157287597656
+        "width": 348
       },
-      "active": "6a22b77c6b38badf"
+      "active": "501938b0505caa7a"
     },
-    "Note / Preview Workspace": {
+    "Code / Preview Workspace": {
       "main": {
         "id": "0ad16e1efa6e0720",
         "type": "split",
         "children": [
           {
-            "id": "bf8b9e2bdeeaa2f3",
+            "id": "501938b0505caa7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "Projects/MOC.md",
                 "mode": "source"
               }
             },
-            "group": "761546aac55c70cf"
+            "group": "51b86d0f3cf041c3"
           },
           {
-            "id": "1073178efccbd03a",
+            "id": "76eaf665150ea0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "Projects/MOC.md",
                 "mode": "preview"
               }
             },
-            "group": "761546aac55c70cf"
+            "group": "51b86d0f3cf041c3"
           }
         ],
         "direction": "vertical"
@@ -274,12 +287,12 @@
                 }
               },
               {
-                "id": "c180d2592a547e92",
+                "id": "6a22b77c6b38badf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 使用規則.md",
+                    "file": "Archives/使用規則/Obsidian 使用規則.md",
                     "mode": "preview"
                   }
                 }
@@ -305,208 +318,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "MOC.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": true,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "e17449a36e71194b",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "940097cba855b9c2",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "MOC.md"
-                  }
-                }
-              },
-              {
-                "id": "82a4a253bf933845",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "3ef55ca7bb803050",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "95e184baf4348ac9",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "MOC.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#📘",
-                          "color": {
-                            "a": 1,
-                            "rgb": 4251903
-                          }
-                        },
-                        {
-                          "query": "path:Template",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#📝",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8388736
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1.8,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.48037869379832554,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 333.7157287597656,
-        "collapsed": true
-      },
-      "active": "1073178efccbd03a"
-    },
-    "Graph View Workspace": {
-      "main": {
-        "id": "0ad16e1efa6e0720",
-        "type": "split",
-        "children": [
-          {
-            "id": "4fb047a2e814ac75",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "ee2b32f7fdbc684f",
-        "type": "split",
-        "children": [
-          {
-            "id": "052ea64d2daac878",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ba4cabdc66f470a",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {}
-                }
-              },
-              {
-                "id": "830700c23275786a",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "0fb25f870fc10d16",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a27c0b3b807e3216",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "c180d2592a547e92",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 321,
-        "collapsed": true
-      },
-      "right": {
-        "id": "63a8dc02e73a8bff",
-        "type": "split",
-        "children": [
-          {
-            "id": "4a32d2700c4ddcff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59824c9d8d2125be",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
+                    "file": "Projects/MOC.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -537,7 +349,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Projects/MOC.md"
+                  }
                 }
               },
               {
@@ -548,16 +362,92 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
+          },
+          {
+            "id": "3ef55ca7bb803050",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "95e184baf4348ac9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Projects/MOC.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#📘",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4251903
+                          }
+                        },
+                        {
+                          "query": "path:Template",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16752762
+                          }
+                        },
+                        {
+                          "query": "tag:#📝",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8388736
+                          }
+                        },
+                        {
+                          "query": "tag:#👨",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#⚙️",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084269
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1.8,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.4016151595359217,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 333.7157287597656,
+        "width": 348,
         "collapsed": true
       },
-      "active": "4fb047a2e814ac75"
+      "active": "76eaf665150ea0ab"
     }
   },
-  "active": "Default Workspace"
+  "active": "Code / Preview Workspace"
 }

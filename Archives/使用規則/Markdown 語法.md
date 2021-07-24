@@ -3,8 +3,8 @@ title : Markdown 語法
 date : 2021-07-23_Fri 17:06
 aliases : [settings]
 ---
-Note Type :: #📘 <br>
-Topics :: [[MOC]]<br>
+Note Type :: #⚙️ <br>
+Topics :: [[使用規則]]<br>
 Parent Link :: [[使用規則]]<br>
 
 ---
@@ -36,10 +36,10 @@ Parent Link :: [[使用規則]]<br>
 > Quote...
 
 ### 超連結
-> [something](someurl)
+> [something]("https://someurl")
 
 ### 圖片超連結
-> ![something](someurl)
+> ![something]("https://someurl")
 
 ### 粗體
 > **粗體**
