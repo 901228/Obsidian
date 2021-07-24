@@ -14,20 +14,22 @@ Parent Link :: [[]]<br>
 # Git push remote to github with ssh key
 
 Generate ssh key
-```shell
-$ ssh-keygen -t rsa -C "your_email@example.com"
+```bash
+$ ssh-keygen -t rsa -C "your_email@example.com"                   #產生金鑰
+Enter file in which to save the key (/home/harry90/.ssh/id_rsa):  #預設就好
+Enter passphrase (empty for no passphrase):                       #不要輸入密碼
+Enter same passphrase again:                                      #不要輸入密碼
 ```
 <br>
 
-```shell
-Enter passphrase:
-```
-
-
-Copy the ssh key
-```shell
+Copy the ssh key to the github ssh key page
+```bash
 $ cat ~/.ssh/id_rsa.pub
+ssh-rsa ~一連串金鑰~ ~"your_email@example.com"~
 ```
+<br>
 
-```shell
+Run and test (==Important==)
+```bash
+$ ssh -T git@github.com
 ```
