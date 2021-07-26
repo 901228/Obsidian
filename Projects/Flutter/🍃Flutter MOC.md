@@ -1,5 +1,5 @@
 ---
-title : Flutter_MOC
+title : 🍃Flutter_MOC
 date : 2021-07-22_Thu 20:05
 aliases : [flutter, moc]
 ---
@@ -9,6 +9,6 @@ Parent Link :: [[MOC]]<br>
 
 ---
 # Flutter MOC
-- ![[Tricks#Tricks]]
-- ![[Widgets#Widgets]]
-- ![[Attributes#Attributes]]
+- ![[🍃Tricks#Tricks]]
+- ![[🍃Widgets#Widgets]]
+- ![[🍃Attributes#Attributes]]

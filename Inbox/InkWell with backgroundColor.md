@@ -5,8 +5,8 @@ aliases : [IntWell, color]
 ---
 Source Type :: #📥/💭 <br>
 Note Type :: <br>
-Topics :: [[Flutter MOC]]<br>
-Parent Link :: [[Tricks]]<br>
+Topics :: [[🍃Flutter MOC]]<br>
+Parent Link :: [[🍃Tricks]]<br>
 
 ---
 # InkWell with backgroundColor

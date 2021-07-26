@@ -6,8 +6,8 @@ aliases : []
 Source Type :: #📥/📄 #📥/💭 <br>
 Source URL :: [pub.dev](https://pub.dev)<br>
 Note Type :: #📝 <br>
-Topics :: [[Flutter MOC]]<br>
-Parent Link :: [[Tricks]]<br>
+Topics :: [[🍃Flutter MOC]]<br>
+Parent Link :: [[🍃Tricks]]<br>
 
 ---
 # Flutter usable package list

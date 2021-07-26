@@ -7,8 +7,11 @@
         "id": "8d0e40f977331d5d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Flutter usable package list.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Flutter usable package list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Flutter usable package list.md"
+              }
             }
           },
           {
@@ -140,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/Flutter usable package list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,15 +219,15 @@
   },
   "active": "8d0e40f977331d5d",
   "lastOpenFiles": [
-    "Inbox/Flutter build and release.md",
-    "Projects/Flutter/Flutter MOC.md",
-    "Projects/Flutter/MainAxisAlignment.md",
-    "Projects/Flutter/Attributes.md",
     "Inbox/Flutter usable package list.md",
     "Inbox/InkWell with backgroundColor.md",
-    "Archives/使用規則/Git push remote to github with ssh key.md",
+    "Inbox/Flutter build and release.md",
+    "Inbox/🖼️Trick.md",
+    "Inbox/🖼Trick.md",
+    "Archives/使用規則/Markdown 語法.md",
     "Archives/使用規則/Obsidian 使用規則.md",
-    "Inbox/Untitled.md",
-    "Projects/Flutter/Text.md"
+    "Projects/Flutter/🍃Widgets.md",
+    "Inbox/trick_proce55ing.md",
+    "Projects/Flutter/Widgets.md"
   ]
 }
