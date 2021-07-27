@@ -167,7 +167,7 @@
 h1:before {
 
   content: "§ ";
-  font-size: var(--header-before-size-h1);
+  font-size: 1em;
   color: var(--header-before-color);
 }/*
 h2:before {
