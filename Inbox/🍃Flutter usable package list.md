@@ -14,12 +14,21 @@ Parent Link :: [[🍃Tricks]]<br>
 - [math_expressions](https://pub.dev/packages/math_expressions)
 - [epubx](https://pub.dev/packages/epubx)
 	- [epub_viewer](https://pub.dev/packages/epub_viewer)
-- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
 - [intl](https://pub.dev/packages/intl)
-- [google_fonts](https://pub.dev/packages/google_fonts)
 - [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [flutter_widgetkit | IOS](https://pub.dev/packages/flutter_widgetkit)
-- [provider](https://pub.dev/packages/provider)
+
+## State Manager
 - [riverpod](https://pub.dev/packages/riverpod)
+
+## picker
+- [flutter_iconpicker](https://pub.dev/packages/flutter_iconpicker)
+- [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)
+
+## view arrange
+- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
 - [spannable_grid](https://pub.dev/packages/spannable_grid)
+
+## style
+- [google_fonts](https://pub.dev/packages/google_fonts)
