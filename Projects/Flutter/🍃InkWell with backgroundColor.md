@@ -1,5 +1,5 @@
 ---
-title : InkWell with backgroundColor
+title : 🍃InkWell with backgroundColor
 date : 2021-07-24_Sat 16:19
 aliases : [IntWell, color]
 ---
@@ -10,6 +10,7 @@ Parent Link :: [[🍃Tricks]]<br>
 
 ---
 # InkWell with backgroundColor
+
 ```dart
 Container(
 	color: ,                                             // backgroundColor

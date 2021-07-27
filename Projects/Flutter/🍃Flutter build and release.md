@@ -1,5 +1,5 @@
 ---
-title : Flutter build and release
+title : 🍃Flutter build and release
 date : 2021-07-24_Sat 21:54
 aliases : [build, release]
 ---
