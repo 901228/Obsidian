@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d0e40f977331d5d",
+        "id": "84b14cbe3a6ac931",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Inbox/🍃Flutter usable package list.md",
+=======
+            "file": "Inbox/Arduino MOC.md",
+>>>>>>> main
             "mode": "source"
           }
         }
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 263.00000190734863
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,7 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Inbox/🍃Flutter usable package list.md",
+=======
+                "file": "Inbox/Arduino MOC.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Inbox/🍃Flutter usable package list.md"
+=======
+                "file": "Inbox/Arduino MOC.md"
+>>>>>>> main
               }
             }
           },
@@ -146,7 +158,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "Inbox/🍃Flutter usable package list.md",
+=======
+                "file": "Inbox/Arduino MOC.md",
+>>>>>>> main
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,10 +231,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 288.3279113769531
   },
-  "active": "8d0e40f977331d5d",
+  "active": "84b14cbe3a6ac931",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Inbox/🍃Flutter usable package list.md",
     "Inbox/🖼️Trick.md",
     "Projects/MOC.md",
@@ -229,5 +246,17 @@
     "Inbox/InkWell with backgroundColor.md",
     "Inbox/Flutter usable package list.md",
     "Inbox/🖼Trick.md"
+=======
+    "Inbox/Arduino MOC.md",
+    "Inbox/🖼️Trick.md",
+    "Inbox/🍃Flutter usable package list.md",
+    "Inbox/Untitled.md",
+    "Inbox/Arduino MOC.md",
+    "Projects/Flutter/🍃Flutter build and release.md",
+    "Archives/Template/thought_template.md",
+    "Archives/Template/Template.md",
+    "Archives/Template/default_template.md",
+    "Projects/Flutter/🍃Widgets.md"
+>>>>>>> main
   ]
 }
