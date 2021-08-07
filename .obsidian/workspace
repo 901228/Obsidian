@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "501938b0505caa7a",
+        "id": "f29a528c4c8339fb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/🖼️Trick.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖼️Trick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/🖼️Trick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +139,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖼️Trick.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,11 +209,17 @@
     "direction": "horizontal",
     "width": 348
   },
-  "active": "501938b0505caa7a",
+  "active": "f29a528c4c8339fb",
   "lastOpenFiles": [
-    "Inbox/🖼️Trick.md",
-    "Inbox/Arduino MOC.md",
+    "Inbox/Untitled.md",
+    "Anki/anki test.md",
+    "Archives/Template/Templates.md",
+    "Archives/People/@朱騏.md",
     "Projects/MOC.md",
-    "Inbox/🍃Flutter usable package list.md"
+    "Archives/People/@People.md",
+    "Archives/Template/anki_basic_template.md",
+    "Archives/Template/anki_basic_template 1.md",
+    "Archives/Template/anki_template.md",
+    "Archives/Template/thought_template.md"
   ]
 }
