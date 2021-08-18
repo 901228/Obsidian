@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Arduino MOC.md",
-            "mode": "source"
+            "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+            "mode": "preview"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Arduino MOC.md",
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Arduino MOC.md"
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Arduino MOC.md",
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,6 +227,7 @@
   },
   "active": "84b14cbe3a6ac931",
   "lastOpenFiles": [
+    "Archives/使用規則/Git push remote to github with ssh key.md",
     "Inbox/Arduino MOC.md",
     "conflict-files-obsidian-git.md",
     "Inbox/🖼️Trick.md",
@@ -235,7 +236,6 @@
     "Inbox/Arduino MOC.md",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Archives/Template/thought_template.md",
-    "Archives/Template/Template.md",
-    "Archives/Template/default_template.md"
+    "Archives/Template/Template.md"
   ]
 }
