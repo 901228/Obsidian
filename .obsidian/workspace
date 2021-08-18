@@ -130,6 +130,14 @@
             "id": "82a4a253bf933845",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce4ac70a858fce3c",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
