@@ -76,9 +76,5 @@ Hi 901228! You\'ve successfully authenticated, but GitHub does not provide shell
 > ==generate personal token on github== <p style="font-size:12">(Settings > Developer Settings > Personal Access Token > Generate New Token > Fillup the form > click Generate token > Copy the generated Token)<\p>
 
 ```shell
-$ git push
- Username for 'https://github.com': 901228
- Password for 'https://901228@github.com': <personal token>
-...
-...
+$ git remote set-url origin https://<token>@github.com/<username>/<repo>
 ```
