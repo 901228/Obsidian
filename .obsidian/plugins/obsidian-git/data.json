@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Elementary OS : vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPullInterval": 60,
