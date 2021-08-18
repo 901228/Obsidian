@@ -61,11 +61,24 @@ Hi 901228! You\'ve successfully authenticated, but GitHub does not provide shell
 ```
 <br>
 
-## (==Important==) Run and test (git push)
+
+> ## (==Important==) Run and test (git push)
+> ```shell
+> $ git push
+> Username for 'https://github.com': 901228
+> Password for 'https://901228@github.com':    #password
+> ...
+> ...
+> ```
+
+## (==Important==) Personal Token (replace above)
+
+> ==generate personal token on github== (Settings > Developer Settings > Personal Access Token > Generate New Token > Fillup the form > click Generate token > Copy the generated Token)
+
 ```shell
 $ git push
-Username for 'https://github.com': 901228
-Password for 'https://901228@github.com':    #password
+ Username for 'https://github.com': 901228
+ Password for 'https://901228@github.com': <personal token>
 ...
 ...
 ```
