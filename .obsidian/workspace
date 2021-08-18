@@ -12,20 +12,7 @@
             "file": "Archives/使用規則/Git push remote to github with ssh key.md",
             "mode": "source"
           }
-        },
-        "group": "92779eba623c3e45"
-      },
-      {
-        "id": "c9c019bb547f5ec9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Archives/使用規則/Git push remote to github with ssh key.md",
-            "mode": "preview"
-          }
-        },
-        "group": "92779eba623c3e45"
+        }
       }
     ],
     "direction": "vertical"
