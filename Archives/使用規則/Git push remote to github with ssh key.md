@@ -73,7 +73,7 @@ Hi 901228! You\'ve successfully authenticated, but GitHub does not provide shell
 
 ## (==Important==) Personal Token (replace above)
 
-> ==generate personal token on github== (Settings > Developer Settings > Personal Access Token > Generate New Token > Fillup the form > click Generate token > Copy the generated Token)
+> ==generate personal token on github== <p style="font-size:12">(Settings > Developer Settings > Personal Access Token > Generate New Token > Fillup the form > click Generate token > Copy the generated Token)<\p>
 
 ```shell
 $ git push
