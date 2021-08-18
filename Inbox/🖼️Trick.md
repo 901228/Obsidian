@@ -7,8 +7,8 @@ Source Type :: <br>
 Source URL :: <br>
 Source Author :: [[]]<br>
 Note Type :: <br>
-Topics :: [[Proce55ing_MOC]]<br>
-Parent Link :: [[Proce55ing_MOC]]<br>
+Topics :: [[Proce55ing MOC]]<br>
+Parent Link :: [[Proce55ing MOC]]<br>
 
 ---
 # Trick

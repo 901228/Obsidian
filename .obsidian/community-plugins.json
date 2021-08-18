@@ -10,5 +10,6 @@
   "obsidian-plugin-toc",
   "note-refactor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "obsidian-to-anki-plugin"
 ]
