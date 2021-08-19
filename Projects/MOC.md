@@ -18,3 +18,4 @@ Note Type :: #📘 <br>
 - [[🍃Flutter MOC|Flutter]]
 - [[Proce55ing MOC|Proce55ing]]
 - [[Arduino MOC|Arduino]]
+- [[Anki MOC|Anki]]

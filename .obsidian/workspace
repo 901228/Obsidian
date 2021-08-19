@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Something.md",
+            "file": "Inbox/Anki Add-ons.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Something.md",
+                "file": "Inbox/Anki Add-ons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Something.md"
+                "file": "Inbox/Anki Add-ons.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Something.md",
+                "file": "Inbox/Anki Add-ons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#📘",
@@ -219,15 +219,15 @@
   },
   "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
+    "Inbox/Anki Add-ons.md",
+    "Projects/MOC.md",
+    "Inbox/Untitled.md",
     "Inbox/Something.md",
     "Inbox/2021-08-19.md",
-    "Inbox/Untitled.md",
     "Inbox/🖼️Trick.md",
     "Projects/Flutter/🍃Flutter MOC.md",
     "Projects/Flutter/🍃Flutter SDK Installation.md",
     "Projects/Flutter/🍃Flutter build and release.md",
-    "Inbox/🍃Flutter SDK Installation.md",
-    "Inbox/🍃Flutter usable package list.md",
-    "Inbox/Arduino MOC.md"
+    "Inbox/🍃Flutter SDK Installation.md"
   ]
 }
