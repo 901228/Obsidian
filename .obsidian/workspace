@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🍃Flutter SDK Installation.md",
-            "mode": "source"
+            "file": "Inbox/🍃Flutter usable package list.md",
+            "mode": "preview"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🍃Flutter SDK Installation.md",
+                "file": "Inbox/🍃Flutter usable package list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🍃Flutter SDK Installation.md"
+                "file": "Inbox/🍃Flutter usable package list.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🍃Flutter SDK Installation.md",
+                "file": "Inbox/🍃Flutter usable package list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,8 +227,8 @@
   },
   "active": "84b14cbe3a6ac931",
   "lastOpenFiles": [
-    "Inbox/🍃Flutter SDK Installation.md",
     "Inbox/🍃Flutter usable package list.md",
+    "Inbox/🍃Flutter SDK Installation.md",
     "Projects/Flutter/🍃Attributes.md",
     "Inbox/Flutter SDK Installation.md",
     "Inbox/🖼️Trick.md",
