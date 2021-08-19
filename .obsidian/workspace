@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,6 +219,7 @@
   },
   "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
+    "Inbox/Something.md",
     "Inbox/2021-08-19.md",
     "Inbox/Untitled.md",
     "Inbox/🖼️Trick.md",
@@ -226,7 +228,6 @@
     "Projects/Flutter/🍃Flutter build and release.md",
     "Inbox/🍃Flutter SDK Installation.md",
     "Inbox/🍃Flutter usable package list.md",
-    "Inbox/Arduino MOC.md",
-    "Projects/Flutter/🍃Attributes.md"
+    "Inbox/Arduino MOC.md"
   ]
 }

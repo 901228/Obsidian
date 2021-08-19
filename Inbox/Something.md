@@ -4,8 +4,8 @@ date : 2021-08-19_Thu 19:53
 aliases : []
 ---
 Source Type :: #📥/💭 <br>
-Note Type :: <br>
-Topics :: [[]]<br>
+Note Type :: #📝 <br>
+Topics :: [[MOC]]<br>
 Parent Link :: [[]]<br>
 
 ---
