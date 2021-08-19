@@ -7,8 +7,11 @@
         "id": "b3ad35aa091a087b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Something.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -86,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Something.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Something.md"
+              }
             }
           },
           {
@@ -139,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/Something.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,15 +218,15 @@
   },
   "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
+    "Inbox/2021-08-19.md",
+    "Inbox/Untitled.md",
+    "Inbox/🖼️Trick.md",
     "Projects/Flutter/🍃Flutter MOC.md",
     "Projects/Flutter/🍃Flutter SDK Installation.md",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Inbox/🍃Flutter SDK Installation.md",
     "Inbox/🍃Flutter usable package list.md",
     "Inbox/Arduino MOC.md",
-    "Inbox/🖼️Trick.md",
-    "Projects/Flutter/🍃Attributes.md",
-    "Inbox/Flutter SDK Installation.md",
-    "Projects/Flutter/🍃MainAxisAlignment.md"
+    "Projects/Flutter/🍃Attributes.md"
   ]
 }
