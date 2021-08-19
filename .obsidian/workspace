@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84b14cbe3a6ac931",
+        "id": "b3ad35aa091a087b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/🍃Flutter usable package list.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,12 +66,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🍃Flutter usable package list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,21 +116,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/🍃Flutter usable package list.md"
-              }
-            }
-          },
-          {
-            "id": "82a4a253bf933845",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "ce4ac70a858fce3c",
+            "id": "82a4a253bf933845",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -154,7 +139,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🍃Flutter usable package list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,17 +152,17 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:Template",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16752762
-                      }
-                    },
-                    {
                       "query": "tag:#📘",
                       "color": {
                         "a": 1,
                         "rgb": 4251903
+                      }
+                    },
+                    {
+                      "query": "path:Template",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16752762
                       }
                     },
                     {
@@ -213,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48037869379832354,
+                  "scale": 0.4016151595359217,
                   "close": true
                 }
               }
@@ -223,19 +207,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.3279113769531
+    "width": 348
   },
-  "active": "84b14cbe3a6ac931",
+  "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
-    "Inbox/🍃Flutter usable package list.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Projects/Flutter/🍃Flutter SDK Installation.md",
+    "Projects/Flutter/🍃Flutter build and release.md",
     "Inbox/🍃Flutter SDK Installation.md",
+    "Inbox/🍃Flutter usable package list.md",
+    "Inbox/Arduino MOC.md",
+    "Inbox/🖼️Trick.md",
     "Projects/Flutter/🍃Attributes.md",
     "Inbox/Flutter SDK Installation.md",
-    "Inbox/🖼️Trick.md",
-    "Projects/Flutter/🍃MainAxisAlignment.md",
-    "Inbox/Untitled.md",
-    "Inbox/Arduino MOC.md",
-    "Projects/Flutter/🍃Widgets.md",
-    "Projects/Flutter/🍃Tricks.md"
+    "Projects/Flutter/🍃MainAxisAlignment.md"
   ]
 }

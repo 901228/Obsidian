@@ -5,7 +5,6 @@ aliases : [build, release]
 ---
 Source Type :: #📥/📄 <br>
 Source URL :: [Build and release an Android app](https://flutter.dev/docs/deployment/android)<br>
-Source Author :: [[@Flutter]]<br>
 Note Type :: <br>
 Topics :: [[🍃Flutter MOC]]<br>
 Parent Link :: [[🍃Flutter MOC]]<br>
