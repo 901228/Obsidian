@@ -32,3 +32,6 @@ Snapshots -> Settings -> Auto-save current state to Quickboot - NO.
 
 ## 4.
 chose `Hardware` Graphics Renderer instead of `Auto`.
+
+## ==5.==
+`AVD Manager` -> `Actions` -> `More(triangle)` -> `Cold Boot now`
