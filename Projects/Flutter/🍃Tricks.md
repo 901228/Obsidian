@@ -11,3 +11,4 @@ Parent Link :: [[🍃Flutter MOC]]<br>
 # Tricks
 - [[🍃Named route with arguments and return value]]
 - [[🍃InkWell with backgroundColor]]
+- [[🍃Error-compileDebugKotlin]]

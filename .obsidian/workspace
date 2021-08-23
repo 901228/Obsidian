@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Anki Add-ons.md",
+            "file": "Inbox/🍃Android emulator CPU HIGH usage.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Anki Add-ons.md",
+                "file": "Inbox/🍃Android emulator CPU HIGH usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Anki Add-ons.md"
+                "file": "Inbox/🍃Android emulator CPU HIGH usage.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Anki Add-ons.md",
+                "file": "Inbox/🍃Android emulator CPU HIGH usage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +219,15 @@
   },
   "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
-    "Inbox/Anki Add-ons.md",
-    "Projects/MOC.md",
+    "Inbox/Android emulator CPU HIGH usage.md",
+    "Inbox/🍃Flutter usable package list.md",
     "Inbox/Untitled.md",
-    "Inbox/Something.md",
-    "Inbox/2021-08-19.md",
     "Inbox/🖼️Trick.md",
-    "Projects/Flutter/🍃Flutter MOC.md",
-    "Projects/Flutter/🍃Flutter SDK Installation.md",
-    "Projects/Flutter/🍃Flutter build and release.md",
-    "Inbox/🍃Flutter SDK Installation.md"
+    "Inbox/Anki Add-ons.md",
+    "Projects/Flutter/🍃Tricks.md",
+    "Projects/Flutter/🍃MainAxisAlignment.md",
+    "Projects/Flutter/🍃Text.md",
+    "Inbox/🍃Error_compileDebugKotlin.md",
+    "Projects/Flutter/🍃Widgets.md"
   ]
 }
