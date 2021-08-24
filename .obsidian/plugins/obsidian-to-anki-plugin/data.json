@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Japanese (recognition&recall)": "((?:(?!::)(?!<!--ID:).+\\n)*)::\\n((?:(?!::)(?!<!--ID:).+\\n)*)(?:::\\n((?:(?!::)(?!<!--ID:).+\\n)*))?(?:::\\n((?:(?!::)(?!<!--ID:).+\\n)*))?",
+      "Japanese (recognition)": "",
+      "克漏字": "",
+      "Basic": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Japanese (recognition&recall)": "Expression",
+      "Japanese (recognition)": "Expression",
+      "克漏字": "文字"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Archives": "",
+      "Area": "",
+      "Attachments": "",
+      "Inbox": "",
+      "Projects": "",
+      "Resources": "",
+      "Archives/People": "",
+      "Archives/Template": "",
+      "Archives/使用規則": "",
+      "Projects/Flutter": "",
+      "Anki": ""
+    },
+    "FOLDER_TAGS": {
+      "Archives": "",
+      "Area": "",
+      "Attachments": "",
+      "Inbox": "",
+      "Projects": "",
+      "Resources": "",
+      "Archives/People": "",
+      "Archives/Template": "",
+      "Archives/使用規則": "",
+      "Projects/Flutter": "",
+      "Anki": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "",
+      "Deck": "obstoanki_inbox",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": true
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "README.md": "5252c482c68d0881f33c83893d55eae7",
+    "Projects/MOC.md": "de2bee88e925f2d5c060bce6a4af57a0",
+    "Projects/Flutter/🍃Flutter build and release.md": "8516ef538baa28350548b0bfd4c4deba",
+    "Projects/Flutter/🍃Widgets.md": "9f15629e0e63122a7bad22d3ed7cd1ca",
+    "Projects/Flutter/🍃Tricks.md": "71dc31db7755ecde9581b6caae4a3bb2",
+    "Projects/Flutter/🍃Text.md": "3d8841032c3caf2e50e3f38cea17919b",
+    "Projects/Flutter/🍃Named route with arguments and return value.md": "a31b2e3a5b3253f16fa28cb2a45b4060",
+    "Projects/Flutter/🍃MainAxisAlignment.md": "0a9ea9cada386efcfad97bd3d441a7da",
+    "Projects/Flutter/🍃InkWell with backgroundColor.md": "e40150eb40b1ff83725b082ef3e560b3",
+    "Projects/Flutter/🍃Flutter MOC.md": "dc75746355202574ce8ce2c7dac52553",
+    "Projects/Flutter/🍃Attributes.md": "715bc82240849ebac0a970b9476333bb",
+    "Inbox/🍃Flutter usable package list.md": "1acddda4a4681b233a7c31102a576b39",
+    "Inbox/🖼️Trick.md": "8fa29afec45895473021f312897cce3a",
+    "Inbox/Arduino MOC.md": "d9b8064c02d8422748e637a3cced2d19",
+    "Archives/使用規則/使用規則.md": "47092575c31d5fbc7c3e18c6d3d1342a",
+    "Archives/使用規則/Obsidian 使用規則.md": "2c223147f69f04c4fbc0df41ea518407",
+    "Archives/使用規則/Markdown 語法.md": "7d42f83d1c1b3bf106a98a6910369780",
+    "Archives/使用規則/Git push remote to github with ssh key.md": "6db3718fd91018f1873cdd72f689db1a",
+    "Archives/Template/thought_template.md": "07bf0d0b797f6d1399419df2f35562ec",
+    "Archives/Template/moc_template.md": "3299914f79a90d7c9197fc3add50f744",
+    "Archives/Template/default_template.md": "56a11f2f2980376037864faf4fcd0267",
+    "Archives/Template/Template.md": "2e148e8ab1225c1aa87e697546eff06a",
+    "Archives/People/@朱騏.md": "1e8001c9c92e0c7892530a4c7cdc8a33",
+    "Archives/People/@People.md": "fdcf807bb775a25497a1c9a4509e6b52",
+    "Archives/People/@Github.md": "f12dea086791328727089892d0563441",
+    "Anki/anki test.md": "31d99fbed970683e05ddb537519083cd",
+    "Archives/Template/Templates.md": "36ad98e9bd89b13f9fd238a55a2d01eb",
+    "Archives/Template/anki_template.md": "e8fa2cabc4b8ba8be55a8baff914f7e4",
+    "Inbox/Japanese test.md": "53896bd4c029b7f26f4cfc683030ae63",
+    "Archives/Template/anki_japanese_template.md": "7456be3a538709eea9548977bc82fc7c",
+    "Archives/Template/anki_basic_template.md": "e8fa2cabc4b8ba8be55a8baff914f7e4"
+  },
+  "fields_dict": {
+    "Basic": [
+      "正面",
+      "背面"
+    ],
+    "Japanese (recognition&recall)": [
+      "Expression",
+      "Meaning",
+      "Reading"
+    ],
+    "Japanese (recognition)": [
+      "Expression",
+      "Meaning",
+      "Reading"
+    ],
+    "克漏字": [
+      "文字",
+      "背面額外"
+    ]
+  }
+}

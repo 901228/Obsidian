@@ -17,7 +17,11 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "compatibilityMode": false,
+<<<<<<< HEAD
   "loadCount": 80,
+=======
+  "loadCount": 89,
+>>>>>>> f622129359e5a886bd2a5f601768f18178eff4e8
   "drawingOpenCount": 1,
   "library": "{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}"
 }

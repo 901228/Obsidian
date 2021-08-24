@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6394c9e55b1e227b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Arduino MOC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Arduino MOC.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -146,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Arduino MOC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,8 +228,9 @@
     "direction": "horizontal",
     "width": 288.3279113769531
   },
-  "active": "84b14cbe3a6ac931",
+  "active": "6394c9e55b1e227b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Inbox/Arduino MOC.md",
     "Inbox/🖼️Trick.md",
     "Inbox/🍃Flutter usable package list.md",
@@ -227,7 +239,6 @@
     "Projects/Flutter/🍃Flutter build and release.md",
     "Archives/Template/thought_template.md",
     "Archives/Template/Template.md",
-    "Archives/Template/default_template.md",
-    "Projects/Flutter/🍃Widgets.md"
+    "Archives/Template/default_template.md"
   ]
 }
