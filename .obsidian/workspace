@@ -9,17 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🍃Android emulator CPU HIGH usage.md",
+            "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "ee421e275c25392a",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -98,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Flutter/🍃Named route with arguments and return value.md"
+              }
             }
           },
           {
@@ -151,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,17 +217,17 @@
     "direction": "horizontal",
     "width": 348
   },
-  "active": "ee421e275c25392a",
+  "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Inbox/🍃Android emulator CPU HIGH usage.md",
-    "Inbox/Genymotion Installation.md",
+    "Projects/Flutter/🍃Named route with arguments and return value.md",
+    "Inbox/🖼️Trick.md",
+    "Inbox/🍃Genymotion Installation.md",
     "Inbox/🍃Flutter usable package list.md",
+    "Inbox/🍃Android emulator CPU HIGH usage.md",
+    "conflict-files-obsidian-git.md",
+    "Inbox/Genymotion Installation.md",
     "Inbox/Untitled.md",
     "Inbox/Android emulator CPU HIGH usage.md",
-    "Inbox/🖼️Trick.md",
-    "Inbox/Anki Add-ons.md",
-    "Projects/Flutter/🍃Tricks.md",
-    "Projects/Flutter/🍃MainAxisAlignment.md"
+    "Inbox/Anki Add-ons.md"
   ]
 }
