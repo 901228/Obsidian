@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
+            "file": "Inbox/🍃Flutter usable package list.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
+                "file": "Inbox/🍃Flutter usable package list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Flutter/🍃Named route with arguments and return value.md"
+                "file": "Inbox/🍃Flutter usable package list.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/🍃Named route with arguments and return value.md",
+                "file": "Inbox/🍃Flutter usable package list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,10 +219,10 @@
   },
   "active": "b3ad35aa091a087b",
   "lastOpenFiles": [
+    "Inbox/🍃Flutter usable package list.md",
     "Projects/Flutter/🍃Named route with arguments and return value.md",
     "Inbox/🖼️Trick.md",
     "Inbox/🍃Genymotion Installation.md",
-    "Inbox/🍃Flutter usable package list.md",
     "Inbox/🍃Android emulator CPU HIGH usage.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Genymotion Installation.md",
