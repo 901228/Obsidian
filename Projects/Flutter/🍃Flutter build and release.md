@@ -101,6 +101,9 @@ Configure gradle to use your upload key when building your app in release mode b
    buildTypes {
 	   release {
 		   signingConfig signingConfigs.release
+		   minifyEnabled true
+		   useProguard true
+		   proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 	   }
    }
 ```
