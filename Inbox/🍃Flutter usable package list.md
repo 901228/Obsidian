@@ -19,9 +19,16 @@ Parent Link :: [[🍃Tricks]]<br>
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [flutter_widgetkit | IOS](https://pub.dev/packages/flutter_widgetkit)
 - [money2](https://pub.dev/packages/money2)
+- [mimie](https://pub.dev/packages/mime)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [permission_handler](https://pub.dev/packages/premission_handler)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
 
 ## State Manager
 - [riverpod](https://pub.dev/packages/riverpod)
+- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
 
 ## picker
 - [flutter_iconpicker](https://pub.dev/packages/flutter_iconpicker)
@@ -30,6 +37,8 @@ Parent Link :: [[🍃Tricks]]<br>
 ## view arrange
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
 - [spannable_grid](https://pub.dev/packages/spannable_grid)
+- [photo_view](https://pub.dev/packages/photo_view)
+- [preload_page_view](https://pub.dev/packages/preload_page_view)
 
 ## style
 - [google_fonts](https://pub.dev/packages/google_fonts)
