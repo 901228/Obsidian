@@ -12,3 +12,6 @@ Parent Link :: [[🍃Flutter MOC]]<br>
 - [[🍃Named route with arguments and return value]]
 - [[🍃InkWell with backgroundColor]]
 - [[🍃Error-compileDebugKotlin]]
+- [[🍃Android emulator CPU HIGH usage]]
+	- [[🍃Genymotion Installation]]
+- [[🍃Flutter usable package list]]

@@ -14,8 +14,24 @@ Parent Link :: [[🍃Flutter MOC]]<br>
 
 
 ## Adding a launcher icon #🚧 
-> TODO: Under Construstion
+[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
+### 1. Setup the config file
+```yaml
+dev_dependencies:
+  flutter_launcher_icons: <latest_version>
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+```
+
+### 2. Run the package
+```kotlin
+flutter pub get
+flutter pub run flutter_launcher_icons:main
+```
 
 ## Enabling Material Components
 1. Add the dependency on Android’s Material in `<my-app>/android/app/build.gradle`:
