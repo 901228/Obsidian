@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be891f227d447326",
+        "id": "a98651d97a6eb5a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Flutter/🍃Tricks.md",
-            "mode": "source"
-          }
-        },
-        "group": "dc1ad7a745f3e1e9"
-      },
-      {
-        "id": "8e3c5270c1525059",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Flutter/🍃Tricks.md",
-            "mode": "preview"
-          }
-        },
-        "group": "dc1ad7a745f3e1e9"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -103,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/🍃Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Flutter/🍃Tricks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +140,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/🍃Tricks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,10 +208,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348,
-    "collapsed": true
+    "width": 348
   },
-  "active": "be891f227d447326",
+  "active": "a98651d97a6eb5a8",
   "lastOpenFiles": [
     "Projects/Flutter/🍃Tricks.md",
     "Inbox/🍃Flutter 監聽音量按鈕事件.md",
