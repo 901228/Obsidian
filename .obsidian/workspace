@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a98651d97a6eb5a8",
+        "id": "823ae8eb30d4b837",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -210,8 +210,9 @@
     "direction": "horizontal",
     "width": 348
   },
-  "active": "a98651d97a6eb5a8",
+  "active": "823ae8eb30d4b837",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-09-22 16.51.02.excalidraw.md",
     "Projects/Flutter/🍃Tricks.md",
     "Inbox/🍃Flutter 監聽音量按鈕事件.md",
     "Projects/Flutter/🍃Named route with arguments and return value.md",
@@ -220,7 +221,6 @@
     "Inbox/🍃Flutter usable package list.md",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Projects/Flutter/🍃Flutter SDK Installation.md",
-    "Inbox/🍃Android emulator CPU HIGH usage.md",
-    "Inbox/🍃Genymotion Installation.md"
+    "Inbox/🍃Android emulator CPU HIGH usage.md"
   ]
 }
