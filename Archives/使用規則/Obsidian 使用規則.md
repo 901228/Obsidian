@@ -42,10 +42,11 @@ Parent Link :: [[使用規則]]<br>
 - 👨 People | 用來標記人名的筆記
 
 #### File Prefix
-| Category   | Icon |
-| ---------- | ---- |
-| Flutter    | 🍃   |
-| proce55ing | 🖼️   | 
+| Category          | Icon |
+| ----------------- | ---- |
+| Flutter           | 🍃   |
+| proce55ing        | 🖼️   |
+| Computer Graphics | 🖥️   |
 
 #### Something Else
 - 🚧 Under Construction | 未完成、還沒研究…

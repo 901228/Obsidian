@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "823ae8eb30d4b837",
+        "id": "ad4f263df20ce6c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/🖥️Computer Aided Design.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/🖥️Computer Aided Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/🖥️Computer Aided Design.md"
+              }
             }
           },
           {
@@ -140,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/🖥️Computer Aided Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,19 +215,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 348,
+    "collapsed": true
   },
-  "active": "823ae8eb30d4b837",
+  "active": "ad4f263df20ce6c9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-09-22 16.51.02.excalidraw.md",
-    "Projects/Flutter/🍃Tricks.md",
-    "Inbox/🍃Flutter 監聽音量按鈕事件.md",
-    "Projects/Flutter/🍃Named route with arguments and return value.md",
-    "Inbox/Untitled.md",
+    "Inbox/🖥️Computer Aided Design.md",
+    "Inbox/🖥️About Computer Garphics.md",
+    "Inbox/🖥️Introduction to Computer Graphics.md",
     "Inbox/Arduino MOC.md",
-    "Inbox/🍃Flutter usable package list.md",
-    "Projects/Flutter/🍃Flutter build and release.md",
-    "Projects/Flutter/🍃Flutter SDK Installation.md",
-    "Inbox/🍃Android emulator CPU HIGH usage.md"
+    "Inbox/Something.md",
+    "Inbox/Anki Add-ons.md",
+    "Projects/CG/🖥️Computer Graphics MOC.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Projects/MOC.md",
+    "Inbox/About Computer Garphics.md"
   ]
 }
