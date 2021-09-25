@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Computer Aided Design.md",
+            "file": "Inbox/🖥️Graphical User Interface.md",
             "mode": "source"
           }
         }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Computer Aided Design.md",
+                "file": "Inbox/🖥️Graphical User Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Computer Aided Design.md"
+                "file": "Inbox/🖥️Graphical User Interface.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Computer Aided Design.md",
+                "file": "Inbox/🖥️Graphical User Interface.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,15 +221,15 @@
   },
   "active": "ad4f263df20ce6c9",
   "lastOpenFiles": [
-    "Inbox/🖥️Computer Aided Design.md",
+    "Inbox/🖥️Graphical User Interface.md",
     "Inbox/🖥️About Computer Garphics.md",
+    "Inbox/🖥️Digital Media Technologies.md",
+    "Inbox/🖥️Visual simulation and training.md",
+    "Inbox/🖥️Computer Aided Design.md",
     "Inbox/🖥️Introduction to Computer Graphics.md",
     "Inbox/Arduino MOC.md",
     "Inbox/Something.md",
     "Inbox/Anki Add-ons.md",
-    "Projects/CG/🖥️Computer Graphics MOC.md",
-    "Projects/Flutter/🍃Flutter MOC.md",
-    "Projects/MOC.md",
-    "Inbox/About Computer Garphics.md"
+    "Projects/CG/🖥️Computer Graphics MOC.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
-title : 🖥️Computer Aided Design
-date : 2021-09-25_Sat 09:26
+title : 🖥️Visual Simulation and Training
+date : 2021-09-25_Sat 18:44
 aliases : []
 ---
 Source Type :: #📥/📄 <br>
@@ -10,9 +10,9 @@ Topics :: [[🖥️Computer Graphics MOC]]<br>
 Parent Link :: [[🖥️About Computer Garphics]]<br>
 
 ---
-# 🖥️Computer Aided Design
+# 🖥️Visual Simulation and Training
 
-+ Electronic blueprints
-+ Architectural CAD
-+ Mechanical CAD
-+ Electronical CAD
++ Apollo spacecraft
++ Flight simulators
++ Driving simulators
++ Surgical（外科） simulators

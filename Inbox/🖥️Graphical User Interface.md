@@ -1,6 +1,6 @@
 ---
-title : 🖥️Computer Aided Design
-date : 2021-09-25_Sat 09:26
+title : 🖥️Graphical User Interface
+date : 2021-09-25_Sat 18:59
 aliases : []
 ---
 Source Type :: #📥/📄 <br>
@@ -10,9 +10,4 @@ Topics :: [[🖥️Computer Graphics MOC]]<br>
 Parent Link :: [[🖥️About Computer Garphics]]<br>
 
 ---
-# 🖥️Computer Aided Design
-
-+ Electronic blueprints
-+ Architectural CAD
-+ Mechanical CAD
-+ Electronical CAD
+# 🖥️Graphical User Interface

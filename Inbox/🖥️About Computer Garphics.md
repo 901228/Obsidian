@@ -19,7 +19,18 @@ Parent Link :: [[🖥️Introduction to Computer Graphics]]<br>
 		- Movie Industry
 		- Game(online, mobile) Industry
 	- [[🖥️Computer Aided Design|Computer Aided Design]]
-	- training
-	- art
+	- [[🖥️Visual Simulation and Training|Visual simulation and training]]
+	- [[🖥️Digital Media Technologies|Digital Media Technologies]]
+	- [[🖥️Graphical User Interface|Graphical User Interface]]
+	- [[🖥️VR and AR|Virtual Reality and Augmented Reality]]
+	- [[🖥️Visualization|Visualization]]
+	- [[🖥️Innovation in Platforms|Innovation in Platforms]]
+	- [[🖥️Innovation in Hardware and Software|Innovation in Hardware and Software]]
+	- [[🖥️Interdisciplinary: Theory AND Practice]]
+	- Scientific Visualization
+	- Illustration
+	- NPR / Art
+	- Computational Photography
+	- Virtual Life
 	- advertising
 	- communication
