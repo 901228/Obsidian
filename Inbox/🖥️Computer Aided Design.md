@@ -11,3 +11,6 @@ Parent Link :: [[🖥️About Computer Garphics]]<br>
 
 ---
 # 🖥️Computer Aided Design
+
++ Compter Aided Design (CAD)
+	- 
