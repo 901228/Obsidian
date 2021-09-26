@@ -10,4 +10,5 @@ Parent Link :: [[MOC]]<br>
 ---
 # 🖥️Computer Graphics MOC
 
-- ![[🖥️Introduction to Computer Graphics#🖥️Introduction to Computer Graphics]]
+- [[🖥️Introduction to Computer Graphics|Introduction to Computer Graphics]]
+- [[🖥️Image|Image]]

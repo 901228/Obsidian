@@ -12,7 +12,3 @@ Parent Link :: [[🖥️About Computer Garphics]]<br>
 ---
 # 🖥️Visual Simulation and Training
 
-+ Apollo spacecraft
-+ Flight simulators
-+ Driving simulators
-+ Surgical（外科） simulators

@@ -1,5 +1,5 @@
 ---
-title : 🖥️About Computer Garphics
+title : 🖥️Introduction to Computer Graphics
 date : 2021-09-25_Sat 08:52
 aliases : []
 ---
@@ -10,20 +10,27 @@ Topics :: [[🖥️Computer Graphics MOC]]<br>
 Parent Link :: [[🖥️Introduction to Computer Graphics]]<br>
 
 ---
-# 🖥️About Computer Garphics
+# 🖥️Introduction to Computer Graphics
 
 Using computer to **generate** and **display** images. <br>
 Technically, it about the **production**, **manipulation** and **display** images using computers <br><br>
 + Practically（事實上）, it's about
 	- Entertainment
-		- Movie Industry
-		- Game(online, mobile) Industry
-	- [[🖥️Computer Aided Design|Computer Aided Design]]
-			+ Electronic blueprints
-			+ Architectural CAD
-			+ Mechanical CAD
-			+ Electronical CAD        
-	- [[🖥️Visual Simulation and Training|Visual simulation and training]]
+		+ Movie Industry
+		+ Game(online, mobile) Industry
+
+	- Computer Aided Design
+		+ Electronic blueprints
+		+ Architectural CAD
+		+ Mechanical CAD
+		+ Electronical CAD
+
+	- Visual Simulation and Training
+		+ Apollo spacecraft
+		+ Flight simulators
+		+ Driving simulators
+		+ Surgical（外科） simulators
+
 	- [[🖥️Digital Media Technologies|Digital Media Technologies]]
 	- [[🖥️Graphical User Interface|Graphical User Interface]]
 		- [[🖥️Ivan Edward Sutherland|Ivan Sutherland]]

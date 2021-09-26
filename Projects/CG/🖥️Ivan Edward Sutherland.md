@@ -6,7 +6,7 @@ aliases : []
 Source Type :: #📥/📄 <br>
 Note Type :: <br>
 Topics :: [[🖥️Computer Graphics MOC]]<br>
-Parent Link :: [[🖥️About Computer Garphics]]<br>
+Parent Link :: [[🖥️Introduction to Computer Graphics]]<br>
 
 ---
 # 🖥️Ivan Edward Sutherland

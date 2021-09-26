@@ -10,14 +10,14 @@
   --font-size-h4:                   1em;
   --font-size-h5:                   1em;
   --font-size-h6:                   1em;
-  --font-size-preview-h1:           2.1em;
-  --font-size-preview-h2:           1.6em;
+  --font-size-preview-h1:           1.6em;
+  --font-size-preview-h2:           1.5em;
   --font-size-preview-h3:           1.4em;
   --font-size-preview-h4:           1.3em;
   --font-size-preview-h5:           1.2em;
   --font-size-preview-h6:           1.1em;
-  --header-before-size-h1:          2.1em;
-  --header-before-size-h2:          1.6em;
+  --header-before-size-h1:          1.6em;
+  --header-before-size-h2:          1.5em;
   --header-before-size-h3:          1.4em;
   --header-before-size-h4:          1.3em;
   --header-before-size-h5:          1.2em;
@@ -102,10 +102,10 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h1) !important;
   color: var(--text-title-h1);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h1);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 .markdown-preview-view h2 {
@@ -113,10 +113,10 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h2) !important;
   color: var(--text-title-h2);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h2);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 .markdown-preview-view h3 {
@@ -124,10 +124,10 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h3) !important;
   color: var(--text-title-h3);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h3);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 .markdown-preview-view h4 {
@@ -135,10 +135,10 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h4) !important;
   color: var(--text-title-h4);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h4);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 .markdown-preview-view h5 {
@@ -146,10 +146,10 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h5) !important;
   color: var(--text-title-h5);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h5);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 
@@ -158,19 +158,20 @@
   font-weight: 500;
   font-size: var(--font-size-preview-h6) !important;
   color: var(--text-title-h6);
-  line-height: var(--line-height-header-preview);
+  /* line-height: var(--line-height-header-preview);
   margin-top: var(--margin-top-preview-h6);
   padding-bottom: var(--padding-bottom-preview);
-  border-bottom: var(--border-bottom-preview);
+  border-bottom: var(--border-bottom-preview); */
 }
 
 
+/*
 h1:before {
 
   content: "§ ";
   font-size: 1em;
   color: var(--header-before-color);
-}/*
+}
 h2:before {
 
   content: "## ";
