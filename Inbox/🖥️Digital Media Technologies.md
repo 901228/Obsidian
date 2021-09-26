@@ -12,12 +12,13 @@ Parent Link :: [[🖥️About Computer Garphics]]<br>
 ---
 # 🖥️Digital Media Technologies
 
-+ Traditional media (analog to digital transition)
-	- Desktop publishing and printing
-	- Digital photography
-	- Digital video and HDTV
-+ New media
-	- Multimedia computer and media servers
-	- Networked graphics and the WWW
-	- Sharing photos (flickr) and videos (youtube)
-	- Virtual worlds (Google Earth, Second Life)
+## Traditional media (analog to digital transition)
+- Desktop publishing and printing
+- Digital photography
+- Digital video and HDTV
+
+## New media
+- Multimedia computer and media servers
+- Networked graphics and the WWW
+- Sharing photos (flickr) and videos (youtube)
+- Virtual worlds (Google Earth, Second Life)

@@ -1,6 +1,6 @@
 ---
-title : 🖥️Graphical User Interface
-date : 2021-09-25_Sat 18:59
+title : 🖥️Visualization
+date : 2021-09-26_Sun 10:28
 aliases : []
 ---
 Source Type :: #📥/📄 <br>
@@ -10,11 +10,5 @@ Topics :: [[🖥️Computer Graphics MOC]]<br>
 Parent Link :: [[🖥️About Computer Garphics]]<br>
 
 ---
-# 🖥️Graphical User Interface
+# 🖥️Visualization
 
-## Desktop metaphor（桌面比擬）
-+ Input
-	- keyboard
-	- mouse
-+ Output
-	- Cathode-ray tube (CRT)（映像管）
