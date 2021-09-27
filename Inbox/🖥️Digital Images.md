@@ -21,4 +21,19 @@ Many formats exist for storing images on a computer. <br>
 	- **Tracking ownership** may be important
 
 Most formats you are familiar with are [[🖥️Raster Images|raster images]]. <br>
-少數是[[🖥️|Vector Images|vector images]]。
+少數是[[🖥️Vector Images|vector images]]。
+
+## ??
++ Diffusion Curve
+	- Use curves to describe the color boundry: the color of both sides.
+	- Determine the color of a pixel based on its distance to all curve elements.
+	- Generally require to solve a Partial Differential Equation (PDE)（偏微分）
++ Radial Basis Function
+	- Use curve/points of constrained colors/samples to describe the image.
+	- Using scattering data interpolation to determine the color of each pixel.
++ Thin Plate Spline
+	- Deformation
+	- Color editing
+	- Stylization rendering
+
+## Ideal Images

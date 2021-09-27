@@ -13,3 +13,6 @@ Parent Link :: [[MOC]]<br>
 	- [[moc_template|Moc Template]]
 - [[anki_basic_template|Basic Anki Template]]
 	- [[anki_japanese_template|Japanese Anki Template]]
+
+- special templates
+	- [[computer_graphics_template]]
