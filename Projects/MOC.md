@@ -10,7 +10,7 @@ Note Type :: #📘 <br>
 - [[🍃Flutter MOC|Flutter]]
 - [[使用規則]]
 	- [[Obsidian 使用規則]]
-	- [[Markdown 語法]]
+	- [[語法]]
 	- [[Git push remote to github with ssh key]]
 - [[Templates]]
 

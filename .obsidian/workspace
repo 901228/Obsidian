@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Image.md",
+            "file": "Inbox/🖥️Raster Images.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Image.md",
+                "file": "Inbox/🖥️Raster Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Image.md"
+                "file": "Inbox/🖥️Raster Images.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Image.md",
+                "file": "Inbox/🖥️Raster Images.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "28a16ecef75b2562",
   "lastOpenFiles": [
-    "Inbox/🖥️Image.md",
+    "Inbox/🖥️Raster Images.md",
+    "Inbox/🖥️Digital Images.md",
     "Projects/CG/🖥️Introduction to Computer Graphics.md",
+    "Inbox/🖥️Image.md",
+    "Inbox/🖥️About Image.md",
+    "Archives/使用規則/語法.md",
+    "Archives/使用規則/Markdown 語法.md",
+    "Attachments/note.png",
     "Projects/CG/🖥️VR and AR.md",
-    "Projects/CG/🖥️Computer Graphics MOC.md",
-    "Archives/People/@朱騏.md",
-    "Archives/People/@賴祐吉.md",
-    "Inbox/@賴祐吉.md",
-    "Projects/CG/🖥️Digital Media Technologies.md",
-    "Archives/People/@Github.md",
-    "Archives/People/@People.md"
+    "Projects/CG/🖥️Computer Graphics MOC.md"
   ]
 }

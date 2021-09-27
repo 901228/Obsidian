@@ -11,3 +11,7 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 
 ---
 # 🖥️Image
+
+- [[🖥️About Image|About Image]]
+- [[🖥️Digital Images|Digital Images]]
+
