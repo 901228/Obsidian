@@ -14,4 +14,4 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 
 - [[🖥️About Image|About Image]]
 - [[🖥️Digital Images|Digital Images]]
-
+- [[🖥️Digitize Images|Digitize Images]]

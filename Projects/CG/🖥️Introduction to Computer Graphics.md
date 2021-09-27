@@ -48,7 +48,7 @@ Technically, it about the **production**, **manipulation** and **display** image
 	- Innovation in Hardware and Software
 		+ CPUs and GPUs (Nvidia Geforce)
 		+ Embedded systems (iPhone 3GS)
-	- [[🖥️Interdisciplinary Theory AND Practice|Interdisciplinary: Theory AND Practice]]
+	- [[🖥️Interdisciplinary Theory AND Practice|Interdisciplinary（跨學科）: Theory AND Practice]]
 	- Illustration
 	- NPR / Art
 	- Computational Photography

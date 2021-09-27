@@ -35,5 +35,3 @@ Most formats you are familiar with are [[🖥️Raster Images|raster images]]. <
 	- Deformation
 	- Color editing
 	- Stylization rendering
-
-## Ideal Images

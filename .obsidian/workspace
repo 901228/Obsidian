@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Digital Images.md",
+            "file": "Inbox/🖥️Digitize Images.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Digital Images.md",
+                "file": "Inbox/🖥️Digitize Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Digital Images.md"
+                "file": "Inbox/🖥️Digitize Images.md"
               }
             }
           },
@@ -148,9 +148,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Digital Images.md",
+                "file": "Inbox/🖥️Digitize Images.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -222,15 +222,15 @@
   },
   "active": "28a16ecef75b2562",
   "lastOpenFiles": [
-    "Inbox/🖥️Digital Images.md",
+    "Inbox/🖥️Digitize Images.md",
     "Inbox/🖥️Image.md",
+    "Inbox/🖥️Digital Images.md",
+    "Inbox/🖥️About Image.md",
+    "Projects/CG/🖥️Computer Graphics MOC.md",
+    "Projects/CG/🖥️Introduction to Computer Graphics.md",
+    "Projects/CG/🖥️Interdisciplinary Theory AND Practice.md",
+    "Projects/CG/🖥️Digital Media Technologies.md",
     "Inbox/🖥️Vector Images.md",
-    "Inbox/🖥️Raster Images.md",
-    "Inbox/🖥️.md",
-    "Archives/Template/computer_graphics_template.md",
-    "Archives/Template/anki_japanese_template.md",
-    "Archives/Template/default_template.md",
-    "Archives/Template/Templates.md",
-    "Archives/Template/default_template 1.md"
+    "Inbox/🖥️Raster Images.md"
   ]
 }
