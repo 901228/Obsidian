@@ -92,3 +92,7 @@ Parent Link :: [[]]<br>
 + The mapping from voltage to display is usually an **exponential function**: $$I_{display} \propto I_{to-monitor}^\gamma$$
 + To correct the problem, we pass the pixel values through a **gamma function** before converting them to the monitor $$I_{to-monitor} \propto I_{image}^\frac{1}{\gamma}$$
 + This process is called **gamma correction**
++ The parameter, $\gamma$, is controlled by the user
+	- It should be matched to a particular monitor
+	- Typical values are **between 2.2 and 2.5**
++ The mapping can be done in hardware or software
