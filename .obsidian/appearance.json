@@ -9,6 +9,14 @@
     "theme_dark_grapgview",
     "smaller_headings",
     "font-family",
-    "font-settings"
+    "font-settings",
+    "subtler-folding-gutter-arrows",
+    "enlarge-image-on-hover",
+    "image-cards",
+    "outliner-for-the-outline-and-file-explorer",
+    "tag-pills",
+    "bigger-link-popup-preview",
+    "custom-icons-differing-files-and-folders",
+    "custom-icons-differing-files-and-folders + custom-icons-for-specific-folders"
   ]
 }

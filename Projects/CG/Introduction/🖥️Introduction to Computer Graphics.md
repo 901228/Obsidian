@@ -19,7 +19,7 @@ Technically, it about the **production**, **manipulation** and **display** image
 		+ Movie Industry
 		+ Game(online, mobile) Industry
 
-	- Computer Aided Design
+	- Computer Aided Design (CAD)
 		+ Electronic blueprints
 		+ Architectural CAD
 		+ Mechanical CAD
@@ -35,19 +35,23 @@ Technically, it about the **production**, **manipulation** and **display** image
 	- [[🖥️Graphical User Interface|Graphical User Interface]]
 		- [[🖥️Ivan Edward Sutherland|Ivan Sutherland]]
 	- [[🖥️VR and AR|Virtual Reality and Augmented Reality]]
+
 	- Visualization
 		+ Science
 		+ Engineering
 		+ Medicine
 		+ Education
+
 	- Innovation（革新） in Platforms
 		+ Game machines (XBOX, PS4)
 		+ Personal computers (MaxBook Pro)
 		+ Consumer electronic (HD TV, Apple TV)
 		+ Handhelds (Smart phones, PS vita, iPads)
+
 	- Innovation in Hardware and Software
 		+ CPUs and GPUs (Nvidia Geforce)
 		+ Embedded systems (iPhone 3GS)
+
 	- [[🖥️Interdisciplinary Theory AND Practice|Interdisciplinary（跨學科）: Theory AND Practice]]
 	- Illustration
 	- NPR / Art

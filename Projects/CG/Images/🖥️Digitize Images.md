@@ -1,4 +1,4 @@
-盎ˇㄓㄤˊ---
+---
 title : 🖥️Digitize Images
 date : 2021-09-27_Mon 16:27
 aliases : []
@@ -28,7 +28,7 @@ Parent Link :: [[]]<br>
 	- No longer continuous in space or intensity
 + This process is fraught with danger, as we shall see
 
-![[digitize.png]]
+<span style="border: 1em"> ![[digitize.png]] </span>
 
 
 ## Issues

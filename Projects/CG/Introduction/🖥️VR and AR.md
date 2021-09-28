@@ -14,7 +14,7 @@ Parent Link :: [[🖥️Introduction to Computer Graphics]]<br>
 
 ## Immersive interfaces
 + Input
-	- 3D <ruby>6-DOF<rp> （ </rp><rt>Six Degree of Freedom</rt>（六自由度）<rp> ） </rp></ruby>tracking
+	- 3D <ruby>6-DOF<rp> （ </rp><rt>Six Degree of Freedom</rt>（六自由度）<rp> ） </rp></ruby> tracking
 	- gloves
 
 + Output
