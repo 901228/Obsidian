@@ -65,3 +65,30 @@ Parent Link :: [[]]<br>
 + **Image depth** refers to the number of bits available, but not how those bits map onto intensities
 + We can use those bits to represent a **large range at low resolution**, or a **small range at high resolution**
 + **Common display devices** can only show a limited dynamic range, so typically we fix the range at that of the display device and choose high resolution
+
+### More Dynamic Range
++ Real scenes have **very high and very low** intensities
++ Humans can see **contrast（對比）** at very low and very high light levels
+	- Can't see all levels all the time - **use adaptation to adjust**
+	- Still, high range even at one adaptation level
++ **Film** has **low dynamic range** ~ 100:1
++ **Monitors** are even worse
++ Many ways to deal with the problem
+
+![[High Dynamic Range Imaging.png]]
+![[Tone Mapping.png]]
+
+## Display on a Monitor
++ When images are createdm a **linear mapping** between **pixels and intensity** is assumed
++ Monitors, however, do not work that way
+	- For **analog monitors**, the pixel value is converted to a voltage
+	- The voltage is used to control the **intensity of the monitor pixels**
+	- But the voltage to display intensity is **not linear**
+	- Similar problem with other monitors, **different causes**
++ The outcome（結果）: A linear intensity scale in memory does not look linear on a monitor
++ Even worse, different monitors do different things
+
+### Gamma Control
++ The mapping from voltage to display is usually an **exponential function**: $$I_{display} \propto I_{to-monitor}^\gamma$$
++ To correct the problem, we pass the pixel values through a **gamma function** before converting them to the monitor $$I_{to-monitor} \propto I_{image}^\frac{1}{\gamma}$$
++ This process is called **gamma correction**
