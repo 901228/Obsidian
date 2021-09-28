@@ -28,7 +28,7 @@ Parent Link :: [[]]<br>
 	- No longer continuous in space or intensity
 + This process is fraught with danger, as we shall see
 
-<span style="border: 1em"> ![[digitize.png]] </span>
+![[digitize.png]]
 
 
 ## Issues

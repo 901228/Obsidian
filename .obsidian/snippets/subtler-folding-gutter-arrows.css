@@ -21,3 +21,32 @@
 .CodeMirror-foldgutter-open:after {
   content: "\25BC";
 }
+
+
+li {
+  line-height: 1.8em;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ul ul {
+  list-style-type: circle;
+}
+
+ul ul ul {
+  list-style-type: square;
+}
+
+ul ul ul ul {
+  list-style-type: disc;
+}
+
+ul ul ul ul ul {
+  list-style-type: circle;
+}
+
+ul ul ul ul ul ul {
+  list-style-type: square;
+}

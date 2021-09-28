@@ -10,22 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "Projects/CG/Images/🖥️Digitize Images.md",
-            "mode": "source"
-          }
-        },
-        "group": "5bc349ff2219aaec"
-      },
-      {
-        "id": "885022e7387783c4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/CG/Images/🖥️Digitize Images.md",
             "mode": "preview"
           }
-        },
-        "group": "5bc349ff2219aaec"
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
