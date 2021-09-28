@@ -4,7 +4,7 @@
 
 /* Emoji */
 /*.nav-file-title-content::before { content: '🗒 '; }*/
-.nav-file-title-content::before { content: '📄 '; }
+/*.nav-file-title-content::before { content: '📄 '; }*/
 .nav-folder-title-content::before { content: '📂 '; }
 
 /* Flat font */

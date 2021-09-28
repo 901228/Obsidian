@@ -14,7 +14,14 @@ Parent Link :: [[🖥️Digital Images]]<br>
 
 + A raster（光柵） is a regular grid of pixels (picture elements)
 + Raster image formats store the **color** at each pixel, and maybe some **other information**
+	- Image stored in memory as **2D pixel array**
 	- **Easiest** is to use a **simple array** of pixel values
+	- Value of each pixel controls color
+	- Depth of image is information per pixel
+		* &nbsp;1 bit : black and white display
+		* &nbsp;8 bits: 256 colors at any given time via colormap
+		* 16 bits: <ruby>5<rp> ( </rp><rt>R</rt><rp> ) </rp></ruby>, <ruby>6<rp> ( </rp><rt>G</rt><rp> ) </rp></ruby>, <ruby>5<rp> ( </rp><rt>B</rt><rp> ) </rp></ruby> bits
+		* 24 bits: 
 	- Some formats store the pixel information in **very different ways**
 	- [[#^cd42d4|e.g. a 5x3, floating pointm grayscale image]]
 

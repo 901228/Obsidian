@@ -12,3 +12,4 @@ Parent Link :: [[MOC]]<br>
 
 - [[🖥️Introduction to Computer Graphics|Introduction to Computer Graphics]]
 - [[🖥️Image|Image]]
+- [[🖥️File and Compression|File and Compression]]
