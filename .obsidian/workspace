@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/CG/Images/🖥️Raster Images.md",
+            "file": "Inbox/🖥️Indexed Color.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CG/Images/🖥️Raster Images.md",
+                "file": "Inbox/🖥️Indexed Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CG/Images/🖥️Raster Images.md"
+                "file": "Inbox/🖥️Indexed Color.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/CG/Images/🖥️Raster Images.md",
+                "file": "Inbox/🖥️Indexed Color.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "61b043540e924332",
   "lastOpenFiles": [
+    "Inbox/🖥️Indexed Color.md",
+    "Inbox/🖥️Image File Formats.md",
     "Projects/CG/Images/🖥️Raster Images.md",
+    "Inbox/🖥️The Simplest File.md",
+    "Archives/使用規則/使用規則.md",
     "Archives/使用規則/語法.md",
     "Projects/CG/Introduction/🖥️VR and AR.md",
-    "Archives/使用規則/使用規則.md",
     "Archives/使用規則/Git push remote to github with ssh key.md",
     "Archives/使用規則/Obsidian 使用規則.md",
-    "Inbox/🖥️Image File Formats.md",
-    "Inbox/🖥️File and Compression.md",
-    "Projects/CG/🖥️Computer Graphics MOC.md",
-    "Projects/CG/Introduction/🖥️Introduction to Computer Graphics.md"
+    "Inbox/🖥️File and Compression.md"
   ]
 }

@@ -20,4 +20,6 @@ Parent Link :: [[]]<br>
 	- Color tables, compression, codebooks, creator information ...
 + All image formats are a trade-off（權衡） between ease of use, size of file, and quality of reproduction（複製？）
 
-- [[🖥️Raster Images]]
+- [[🖥️Raster Images|Raster Images]]
+- [[🖥️The Simplest File|The Simplest File]]
+- [[🖥️Indexed Color|Indexed Color]]
