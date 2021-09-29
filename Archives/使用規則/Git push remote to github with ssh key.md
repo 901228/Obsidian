@@ -15,7 +15,7 @@ Parent Link :: [[使用規則]]<br>
 
 ## Generate a new SSH key
 ```shell
-$ ssh-keygen -t ed25519 -C "your_email@example.com"
+$ ssh-keygen -t ed25519 -C "901228@gmail.com"
 > Generating public/private ed25519 key pair.
 When you\'re prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 
@@ -36,6 +36,16 @@ $ eval "$(ssh-agent -s)"
 $ ssh-add ~/.ssh/id_ed25519
 $ sudo ssh-add /home/harry90/.ssh/id_ed25519
 ```
+
+> ```shell
+> 如果出現
+> > Could not open a connection to your authentication agent.
+> 
+> 進去 ssh bash 再繼續
+> $ ( sudo ) ssh-agent bash
+> $ ssh-add /home/harry90/.ssh/id_ed25519
+> ```
+
 <br>
 
 ## Copy the SSH key to the Github SSH key page
@@ -46,7 +56,7 @@ $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 
 ## Change the remote repository url
 ```shell
-$ git config --global remote.origin.url <Github Repository SSH URL>
+$ git config remote.origin.url <Github Repository SSH URL>
 ```
 <br>
 

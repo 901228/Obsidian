@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Image File Formats.md",
-            "mode": "source"
+            "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Image File Formats.md",
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "　",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Image File Formats.md"
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3ef55ca7bb803050",
@@ -148,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Image File Formats.md",
+                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,6 +221,7 @@
   },
   "active": "61b043540e924332",
   "lastOpenFiles": [
+    "Archives/使用規則/Git push remote to github with ssh key.md",
     "Inbox/🖥️Image File Formats.md",
     "Inbox/🖥️Indexed Color.md",
     "Inbox/🖥️The Simplest File.md",
@@ -230,7 +230,6 @@
     "Projects/CG/🖥️Computer Graphics MOC.md",
     "Archives/使用規則/使用規則.md",
     "Archives/使用規則/語法.md",
-    "Projects/CG/Introduction/🖥️VR and AR.md",
-    "Archives/使用規則/Git push remote to github with ssh key.md"
+    "Projects/CG/Introduction/🖥️VR and AR.md"
   ]
 }
