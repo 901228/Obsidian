@@ -53,3 +53,4 @@ Parent Link :: [[🖥️Digital Images]]<br>
 
 + Formats:
 	- [[🖥️GIF (Graphics Interchange Format)|GIF]]
+	- [[🖥️JPEG|JPEG]]

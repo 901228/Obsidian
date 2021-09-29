@@ -12,8 +12,15 @@ Parent Link :: [[🖥️Raster Images]]<br>
 ---
 # 🖥️GIF (Graphics Interchange Format)
 
-+ [[|Header]] - Color Table - Image Data - Extension
++ [[#Header|Header]] - [[#Color Table|Color Table]] - [[#Image Data|Image Data]] - Extension
 
 ## Header
+gives basic information such as **size of image** and **size of color table**.
+
 ## Color Table
+gives the colors found in the image.<br>
+Biggest it can be is 256 colors, smallest is 2
+
 ## Image Data
+Image data is LZW compressed color indices（指數？）
+

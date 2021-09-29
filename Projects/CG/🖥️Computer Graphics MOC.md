@@ -11,5 +11,6 @@ Parent Link :: [[MOC]]<br>
 # 🖥️Computer Graphics MOC
 
 - [[🖥️Introduction to Computer Graphics|Introduction to Computer Graphics]]
-- [[🖥️Image|Image]]
-- [[🖥️File and Compression|File and Compression]]
+- ![[🖥️Image#🖥️Image|Image]]
+- ![[🖥️File and Compression#🖥️File and Compression|File and Compression]]
+- [[🖥️Color and Light|Color and Light]]

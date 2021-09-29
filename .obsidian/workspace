@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "61b043540e924332",
+        "id": "850b959900929a3e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
+            "file": "Inbox/🖥️Color and Light.md",
             "mode": "source"
           }
         }
@@ -91,14 +91,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
+                "file": "Inbox/🖥️Color and Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md"
+                "file": "Inbox/🖥️Color and Light.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
+                "file": "Inbox/🖥️Color and Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,19 +216,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 348,
+    "collapsed": true
   },
-  "active": "61b043540e924332",
+  "active": "850b959900929a3e",
   "lastOpenFiles": [
-    "Inbox/🖥️GIF (Graphics Interchange Format).md",
-    "Inbox/🖥️Image File Formats.md",
-    "Projects/CG/Images/🖥️Raster Images.md",
-    "Inbox/🖥️The Simplest File.md",
-    "Inbox/🖥️Indexed Color.md",
-    "Archives/使用規則/Git push remote to github with ssh key.md",
-    "Inbox/🖥️File and Compression.md",
+    "Inbox/🖥️Color and Light.md",
     "Projects/CG/🖥️Computer Graphics MOC.md",
-    "Archives/使用規則/使用規則.md",
-    "Archives/使用規則/語法.md"
+    "Excalidraw/Drawing 2021-09-29 19.59.07.excalidraw.md",
+    "Inbox/🖥️Image Compression.md",
+    "Inbox/🖥️Image Size.md",
+    "Inbox/🖼️Trick.md",
+    "Projects/CG/File and Compression/🖥️File and Compression.md",
+    "Projects/CG/File and Compression/🖥️Image File Formats.md",
+    "Inbox/🖥️The Simplest File.md",
+    "Inbox/🖥️File and Compression.md"
   ]
 }
