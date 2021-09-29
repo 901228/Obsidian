@@ -50,3 +50,6 @@ Parent Link :: [[🖥️Digital Images]]<br>
 </table>
 
 ^cd42d4
+
++ Formats:
+	- [[🖥️GIF (Graphics Interchange Format)|GIF]]

@@ -29,3 +29,15 @@ Parent Link :: [[🖥️File and Compression]]<br>
 + Encyclopedia Briannica at 300 pixels/inch and 1 bit/pixel requires 25 gigabytes (25K pages)
 + 90 minute movie at 640x480, 24 bits per pixel, 24 frames per second requires 120 gigabytes ($\frac{90 \times 60 \times 24 \times 640 \times 480 \times 24}{8 \times 1024 \times 1024 \times 1024} \approx 120 \ GB$)
 + Application: HDTV, DVD, satellite image transmission, medial image processing, fax ...
+
+## Image Compression
++ **Indexed color** is one form of image compression
+	- Special case of ***vector quantization*** - in color space, reducing the range of available colors
++ **Alternative 1:** Store the image in a **simple format** and then compress with your favorite compressor
+	- Doesn't exploit image specific information
+	- Doesn't exploit perpectual shortcuts
++ **Alternative 2:** Design a specific algorithm fot an image
+	- Two historically common compressed file formats: [[🖥️GIF (Graphics Interchange Format)|GIF]] and JPEG
+		* [[🖥️GIF (Graphics Interchange Format)|GIF]] should now be replaced with PNG, because [[🖥️GIF (Graphics Interchange Format)|GIF]] id patened and the owner started enforcing the patent（專利）
+
+## [[🖥️GIF (Graphics Interchange Format)|GIF (Graphics Interchange Format)]]

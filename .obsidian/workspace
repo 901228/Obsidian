@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archives/使用規則/Git push remote to github with ssh key.md",
-            "mode": "preview"
+            "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
+            "mode": "source"
           }
         }
       }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,13 +91,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md"
+                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md"
               }
             }
           },
@@ -134,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3ef55ca7bb803050",
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Inbox/🖥️GIF (Graphics Interchange Format).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,20 +216,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348,
-    "collapsed": true
+    "width": 348
   },
   "active": "61b043540e924332",
   "lastOpenFiles": [
-    "Archives/使用規則/Git push remote to github with ssh key.md",
+    "Inbox/🖥️GIF (Graphics Interchange Format).md",
     "Inbox/🖥️Image File Formats.md",
-    "Inbox/🖥️Indexed Color.md",
-    "Inbox/🖥️The Simplest File.md",
     "Projects/CG/Images/🖥️Raster Images.md",
+    "Inbox/🖥️The Simplest File.md",
+    "Inbox/🖥️Indexed Color.md",
+    "Archives/使用規則/Git push remote to github with ssh key.md",
     "Inbox/🖥️File and Compression.md",
     "Projects/CG/🖥️Computer Graphics MOC.md",
     "Archives/使用規則/使用規則.md",
-    "Archives/使用規則/語法.md",
-    "Projects/CG/Introduction/🖥️VR and AR.md"
+    "Archives/使用規則/語法.md"
   ]
 }
