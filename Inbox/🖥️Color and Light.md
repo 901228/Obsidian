@@ -31,19 +31,4 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 + You probably know that we use three channels: R, G, B
 + We will see wht this is **perceptually（知覺上的） sufficient for display** and why it is **computationally an approximation**
 
-### Measuring Color
-#### Sensors
-+ Expressed as **a graph of sensitivity($\rho$)（sensor對光的靈敏度） vs. wavelength($\lambda$)** => $\rho(\lambda)$
-	- For each unit of energy at the given wavelength, how much voltage/impulses/whatever the sensor provides
-+ To compute the resonse, take **the integral** $$\int [\ \rho_k(\lambda)\ E(\lambda)]d\lambda$$
-	- $E(\lambda)$ is the **incoming energy** at the particular wavelength
-	- The integral multiplies **the amount of energy at each wavelength** by **the sensitivity at that wavelength**, and sums them all up
-
-##### Example: A "Red" Sensor
-![[red_sensor_spectrum.png]]<br>
-<br>
-This sensor will **respond to red light**, but **not to blue light**, and **little to green light**.
-
-![[red_sensor_response.png]]<br>
-<br>
-當sensor的
+### -[[🖥️Measuring Color - Sensors|Measuring Color - Sensors]]

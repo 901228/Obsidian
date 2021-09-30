@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Color and Light.md",
+            "file": "Inbox/🖥️Measuring Color - Sensors.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Color and Light.md",
+                "file": "Inbox/🖥️Measuring Color - Sensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Color and Light.md"
+                "file": "Inbox/🖥️Measuring Color - Sensors.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Color and Light.md",
+                "file": "Inbox/🖥️Measuring Color - Sensors.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "850b959900929a3e",
   "lastOpenFiles": [
+    "Inbox/🖥️Measuring Color - Sensors.md",
     "Inbox/🖥️Color and Light.md",
+    "Inbox/🖥️Measuring Color - Sensor.md",
     "Inbox/🖥️Light and Color.md",
     "Attachments/Pasted image 20210930172037.png",
     "Projects/CG/File and Compression/🖥️Image File Formats.md",
     "Projects/CG/Images/🖥️Digitize Images.md",
     "Projects/CG/File and Compression/🖥️The Simplest File.md",
     "Projects/CG/Images/🖥️Digital Images.md",
-    "Projects/CG/Images/🖥️Image.md",
-    "Projects/CG/Images/🖥️Raster Images.md",
-    "Projects/CG/🖥️Computer Graphics MOC.md"
+    "Projects/CG/Images/🖥️Image.md"
   ]
 }
