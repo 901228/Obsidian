@@ -25,7 +25,27 @@ Parent Link :: [[🖥️Color and Light]]<br>
 Most colros seen are a mix light of several wavelengths
 
 ### White
+![[white.png]]<br>
 + **Color** and **Intensity** are technically two different things
 + However, in common usage we use color to refer both
 	- $white = grey = black$ in terms of color
 + You will have to use **context（上下文）** to extract the meaning
+
+### Helium（氦） Neon（氖） Laser
+![[He-Ne-Laser.png]]<br>
++ **Lasers** emit light at a single wavelength, hence they appeat colored in a very **"pure"** way
+
+### Normal Daylight
+![[Normal_Daylight.png]]<br>
++ Note that hump（駝峰） at **short wavelengths** -> the sky is blue
++ Other bumps（顛簸） came from **solar emission spectra** and **atmospheric absorption（吸收）**
+
+### Tungsten Light Bulb
+![[Tungsten_Light_Bulb.png]]<br>
++ Most light sources are **not anywhere** near white（不是白色的）
++ It is a major research effort to develop light sources with **particular properties**
+
+
+## Absorption Spectra: Red Paint
+![[absorption_spectra_red_paint.png]]<br>
+**Red paint** **absorbs** **green** and **blue** wavelengths, and **reflects red** wavelengths, resulting in you seeing a red appearence.
