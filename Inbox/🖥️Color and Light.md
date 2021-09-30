@@ -33,3 +33,5 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 
 ### Measuring Color
 #### Sensors
++ Expressed as **a graph of sensitivity vs. wavelength**, $\rho(\lambda)$
+	- For each unit of energy at the given wavelength, how much voltage/impulses/whatever the sensor provides
