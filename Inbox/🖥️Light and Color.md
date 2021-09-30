@@ -12,7 +12,7 @@ Parent Link :: [[🖥️Color and Light]]<br>
 ---
 # 🖥️Light and Color
 + The **frequence**, $\omega$, of light determines its **"color"**
-	- **Wavelength**, $\lambda$, is related
+	- **Wavelength**, $\lambda$, is related: $\lambda = \frac{1}{\omega}$
 	- **Energy** also related
 + Describe incoming light by a **spectrum**
 	- Intensity of light at each frequency
