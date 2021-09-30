@@ -14,9 +14,14 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 
 ## Some fact about color
 + So far we have only discussed [[🖥️Digitize Images#Intensity Perception|intensities]] , so called **archromatic（無色的） light (shades of gray)**
-+ Accurate color reproduction is commercially valuable
++ Accurate **color reproduction（色彩再現）** is **commercially valuable**
 	- e.g. painting a house
 	- e.g. production artwork
-+ On the order of 10 color names are widely recognized by English speakers
++ On the order of **10 color names** are widely recognized by English speakers
 	- other language have fewer/more, but not much more
-+ E-commerce has accentuated color reproduction issues, as has the creation of digital libraries
++ **E-commerce（電子商務）** has accentuated（強調） **color reproduction issues**, as has the creation of digital libraries
++ **Color consistensy（一致性）** is also important in **user interfaces**
+	- e.g. what you see on the monitor should match the printed version
+
+
+## [[🖥️Light and Color|Light an Color]]

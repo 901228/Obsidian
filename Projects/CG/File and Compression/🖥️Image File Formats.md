@@ -18,7 +18,7 @@ Parent Link :: [[🖥️File and Compression]]<br>
 	- black and white image, a grayscale image, a color image, an indexed color image ...
 + Other information
 	- Color tables, compression, codebooks, creator information ...
-+ All image formats are a trade-off（權衡） between ease of use, size of file, and quality of reproduction（複製？）
++ All image formats are a trade-off（權衡） between ease of use, size of file, and quality of reproduction（再現）
 
 ## [[🖥️Raster Images|Raster Images]]
 + [[🖥️GIF (Graphics Interchange Format)|GIF (Graphics Interchange Format)]]
