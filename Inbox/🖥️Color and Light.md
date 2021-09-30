@@ -25,3 +25,11 @@ Parent Link :: [[🖥️Computer Graphics MOC]]<br>
 
 
 ## [[🖥️Light and Color|Light an Color]]
+
+## Representing Color
++ Our task with digital images is to **represent color**
++ You probably know that we use three channels: R, G, B
++ We will see wht this is **perceptually（知覺上的） sufficient for display** and why it is **computationally an approximation**
+
+### Measuring Color
+#### Sensors
