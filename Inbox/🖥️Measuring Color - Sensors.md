@@ -59,5 +59,15 @@ This sensor will **respond to red light**, but **not to blue light**, and **litt
 
 ```mermaid
 pie
-	"C": 100
+	"C": 1
 ```
+
+```mermaid
+pie
+	"R": 1
+	"G": 1
+	"B": 1
+```
+
+=> &nbsp;&nbsp; Result: all color can matched with three colors<br>
+=> Therefore: humans have trichromatic color vision

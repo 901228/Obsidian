@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "850b959900929a3e",
+        "id": "70ab059d33bfa8b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Inbox/🖥️Measuring Color - Sensors.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e78e056eefd5bf8d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Archives/使用規則/語法.md",
             "mode": "source"
           }
         }
@@ -231,9 +220,10 @@
     "width": 348,
     "collapsed": true
   },
-  "active": "850b959900929a3e",
+  "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
     "Inbox/🖥️Measuring Color - Sensors.md",
+    "Excalidraw/Drawing 2021-10-05 14.02.30.excalidraw.md",
     "Archives/使用規則/語法.md",
     "Inbox/🖥️Seeing in Color.md",
     "Attachments/Pasted image 20211005095959.png",
@@ -241,7 +231,6 @@
     "Attachments/Pasted image 20211005095143.png",
     "Inbox/Untitled.md",
     "Inbox/🖥️Color and Light.md",
-    "Attachments/CG/rod_spectrum.png",
-    "Attachments/Pasted image 20211005094615.png"
+    "Attachments/CG/rod_spectrum.png"
   ]
 }
