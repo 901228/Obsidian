@@ -50,10 +50,14 @@ This sensor will **respond to red light**, but **not to blue light**, and **litt
 |     Additive Color Matching      |
 |:--------------------------------:|
 | ![[additive_color_matching.png]] |
+**The primaries need not be RGB**
 
-**Adjust brightness** of three primaries to **"match"** color
+---
+
+**Adjust brightness** of three primaries to **"match"** color<br>
+<br>
 <center>
-	C — color to be matched
+	C — color to be matched<br>
 	Lasers: R = 700nm, G = 546nm, B = 435nm
 </center>
 
@@ -71,3 +75,23 @@ pie
 
 => &nbsp;&nbsp; Result: all color can matched with three colors<br>
 => Therefore: humans have trichromatic color vision
+
+## Color Matching Functions
+Match each **pure (monochromatic)** color in the visible **specreum (rainbow)** and record the color coordinates as a function of wavelength
+![[color_matching_functions.png]]
+
++ For a **monochromatic** light of wavelength, $\lambda_i$ we know the amount of each primary necessary to match it:
+$$\overline{r}(\lambda_i), \overline{g}(\lambda_i), \overline{b}(\lambda_i)$$
++ Given a new light input signal
+
+$$\Phi=
+\left(
+	\begin{array} 
+	.\phi(\lambda_1) \\
+	. \\
+	. \\
+	. \\
+	\phi(\lambda_N)
+	\end{array}
+\right)
+$$
