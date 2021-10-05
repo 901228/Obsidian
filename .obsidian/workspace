@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Inbox/🖥️Measuring Color - Sensors.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e78e056eefd5bf8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Archives/使用規則/語法.md",
             "mode": "source"
           }
         }
@@ -223,6 +234,7 @@
   "active": "850b959900929a3e",
   "lastOpenFiles": [
     "Inbox/🖥️Measuring Color - Sensors.md",
+    "Archives/使用規則/語法.md",
     "Inbox/🖥️Seeing in Color.md",
     "Attachments/Pasted image 20211005095959.png",
     "Attachments/Obsidian 使用規則 Example.png",
@@ -230,7 +242,6 @@
     "Inbox/Untitled.md",
     "Inbox/🖥️Color and Light.md",
     "Attachments/CG/rod_spectrum.png",
-    "Attachments/Pasted image 20211005094615.png",
-    "Inbox/🖥️Measuring Color - Sensor.md"
+    "Attachments/Pasted image 20211005094615.png"
   ]
 }

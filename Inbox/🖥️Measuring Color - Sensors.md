@@ -46,5 +46,18 @@ This sensor will **respond to red light**, but **not to blue light**, and **litt
 + We can **"fool"** it with **combination** of 3 signals
 + So **display devices** (monitors, printers, etc.) can generate perceivable（可感知的） colors as mix of 3 primaries
 
-### RGB Color
-+ Given
+### Color Matching
+|     Additive Color Matching      |
+|:--------------------------------:|
+| ![[additive_color_matching.png]] |
+
+**Adjust brightness** of three primaries to **"match"** color
+<center>
+	C — color to be matched
+	Lasers: R = 700nm, G = 546nm, B = 435nm
+</center>
+
+```mermaid
+pie
+	"C": 100
+```
