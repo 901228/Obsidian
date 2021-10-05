@@ -82,11 +82,13 @@ Match each **pure (monochromatic)** color in the visible **specreum (rainbow)** 
 
 + For a **monochromatic** light of wavelength, $\lambda_i$ we know the amount of each primary necessary to match it:
 $$\overline{r}(\lambda_i), \overline{g}(\lambda_i), \overline{b}(\lambda_i)$$
+![[monochromatic_light.png]]
+
 + Given a new light input signal
 
 $$\Phi=
 \left(
-	\begin{array} 
+	\begin{array}
 	.\phi(\lambda_1) \\
 	. \\
 	. \\
@@ -95,3 +97,32 @@ $$\Phi=
 	\end{array}
 \right)
 $$
+
+![[a_light_input_signal.png]]
+
++ Compute the primaries necessary to match it
++ Given color matching functions in matrix form and new light
+
+$$C=
+\left(
+	\begin{array}
+	\overline{r}(\lambda_1)\ ...\ \overline{r}(\lambda_N) \\
+	\overline{g}(\lambda_1)\ ...\ \overline{g}(\lambda_N) \\
+	\overline{b}(\lambda_1)\ ...\ \overline{b}(\lambda_N) \\
+	\end{array}
+\right)
+$$
+$$\Phi=
+\left(
+	\begin{array}
+	.\phi(\lambda_1) \\
+	. \\
+	. \\
+	. \\
+	\phi(\lambda_N)
+	\end{array}
+\right)
+$$
+![[color_matching_functions.png]]
+
+amount of each primary necessary to match is given by $C$, $\Phi$
