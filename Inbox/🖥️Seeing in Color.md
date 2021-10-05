@@ -63,8 +63,3 @@ The eye contains **rods** and **cones**
 		* Protanopia（紅色盲—第一色盲） - missing L-cone
 		* Deuteranopia（綠色盲—第二色盲） - missing M-cone
 		* Tritanopia（藍色盲—第三色盲） - missing S-cone
-
-## Trichromaticity（三色性？）
-+ Eye records color by **3 measurements**
-+ We can **"fool"** it with **combination** of 3 signals
-+ So **display devices** (monitors, printers, etc.) can generate perceivable（可感知的） colors as mix of 3 primaries

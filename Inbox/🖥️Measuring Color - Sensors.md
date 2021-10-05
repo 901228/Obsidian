@@ -40,3 +40,11 @@ This sensor will **respond to red light**, but **not to blue light**, and **litt
 	- Your eye isn't really a white sensor - it just approximates one
 
 ## [[🖥️Seeing in Color|Seeing in Color]]
+
+## Trichromaticity（三色性？）
++ Eye records color by **3 measurements**
++ We can **"fool"** it with **combination** of 3 signals
++ So **display devices** (monitors, printers, etc.) can generate perceivable（可感知的） colors as mix of 3 primaries
+
+### RGB Color
++ Given
