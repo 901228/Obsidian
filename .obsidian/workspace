@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Measuring Color - Sensors.md",
+            "file": "Inbox/🖥️Seeing in Color.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md",
+                "file": "Inbox/🖥️Seeing in Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md"
+                "file": "Inbox/🖥️Seeing in Color.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md",
+                "file": "Inbox/🖥️Seeing in Color.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "850b959900929a3e",
   "lastOpenFiles": [
+    "Inbox/🖥️Seeing in Color.md",
+    "Attachments/Pasted image 20211005095959.png",
     "Inbox/🖥️Measuring Color - Sensors.md",
+    "Attachments/Obsidian 使用規則 Example.png",
+    "Attachments/Pasted image 20211005095143.png",
+    "Inbox/Untitled.md",
     "Inbox/🖥️Color and Light.md",
-    "Inbox/🖥️Measuring Color - Sensor.md",
-    "Inbox/🖥️Light and Color.md",
-    "Attachments/Pasted image 20210930172037.png",
-    "Projects/CG/File and Compression/🖥️Image File Formats.md",
-    "Projects/CG/Images/🖥️Digitize Images.md",
-    "Projects/CG/File and Compression/🖥️The Simplest File.md",
-    "Projects/CG/Images/🖥️Digital Images.md",
-    "Projects/CG/Images/🖥️Image.md"
+    "Attachments/CG/rod_spectrum.png",
+    "Attachments/Pasted image 20211005094615.png",
+    "Inbox/🖥️Measuring Color - Sensor.md"
   ]
 }

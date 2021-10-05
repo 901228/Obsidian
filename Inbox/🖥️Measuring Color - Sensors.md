@@ -39,5 +39,4 @@ This sensor will **respond to red light**, but **not to blue light**, and **litt
 	- Such surfaces are **fluorescent（螢光的）**
 	- Your eye isn't really a white sensor - it just approximates one
 
-## Seeing in Color
-The eye contains *rods* and *cones*
+## [[🖥️Seeing in Color|Seeing in Color]]
