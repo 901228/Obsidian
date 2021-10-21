@@ -9,7 +9,8 @@ Parent Link :: [[MOC]]<br>
 
 ---
 # 🏗Data Structure MOC
-- [[🏗Instruction|Instruction]]
+- [[🏗Basics|Basics]]
+- [[🏗Recursive|Recursive]]
 - [[🏗Complexity|Complexity]]
 - [[🏗Arrays|Arrays]]
 - [[🏗Stacks|Stacks]]
