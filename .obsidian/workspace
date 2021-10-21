@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "a49309b925b447ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/🏗Arrays.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
