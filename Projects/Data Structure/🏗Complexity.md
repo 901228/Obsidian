@@ -1,7 +1,7 @@
 ---
 title : 🏗Complexity
 date : 2021-10-21_Thu 15:30
-aliases : []
+aliases : [complexity, space, time]
 ---
 Source Type :: #📥/📄 <br>
 Note Type :: #📝 <br>

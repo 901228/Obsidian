@@ -1,7 +1,7 @@
 ---
 title : 🏗Recursive
 date : 2021-10-21_Thu 15:17
-aliases : []
+aliases : [recursive]
 ---
 Source Type :: #📥/📄 <br>
 Note Type :: #📝 <br>
@@ -76,4 +76,6 @@ where $a \geq 1$ and $b > 1$ are constants and $f(n)$ is a positive function.
 	+ Case 1
 
 - Tips
-	1. In case
+	1. In case1, $f(n)$ and $n^{log_b a}$ are the same size.
+	2. In case2, $n^{log_b a}$ is larger than $f(n)$.
+	3. In case3, $f(n)$ is larger than $n^{log_b a}$.
