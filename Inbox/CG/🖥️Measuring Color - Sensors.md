@@ -9,7 +9,7 @@ Note Type :: #📝 <br>
 Topics :: [[🖥️Computer Graphics MOC]]<br>
 Parent Link :: [[🖥️Color and Light]]<br>
 
----
+--- 
 # 🖥️Measuring Color - Sensors
 + Expressed as **a graph of sensitivity($\rho$)（sensor對光的靈敏度） vs. wavelength($\lambda$)** => $\rho(\lambda)$
 	- For each unit of energy at the given wavelength, how much voltage/impulses/whatever the sensor provides

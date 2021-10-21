@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🖥️Measuring Color - Sensors.md",
+            "file": "Inbox/🏗Instruction.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md",
+                "file": "Inbox/🏗Instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md"
+                "file": "Inbox/🏗Instruction.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Measuring Color - Sensors.md",
+                "file": "Inbox/🏗Instruction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/🖥️Measuring Color - Sensors.md",
+    "Inbox/🏗Instruction.md",
+    "Inbox/🏗Data Structure MOC.md",
+    "Inbox/CG/🖥️Color and Light.md",
+    "Projects/MOC.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Inbox/Untitled.md",
+    "Inbox/CG/🖥️Measuring Color - Sensors.md",
     "Attachments/CG/monochromatic_light.png",
     "Attachments/Pasted image 20211005192349.png",
-    "Inbox/🖥️Color and Light.md",
-    "Inbox/🖥️Seeing in Color.md",
-    "Excalidraw/Drawing 2021-10-05 18.28.43.excalidraw.md",
-    "Excalidraw/Drawing 2021-10-05 14.02.30.excalidraw.md",
-    "Archives/使用規則/語法.md",
-    "Attachments/Pasted image 20211005095959.png",
-    "Attachments/Obsidian 使用規則 Example.png"
+    "Inbox/CG/🖥️Seeing in Color.md"
   ]
 }
