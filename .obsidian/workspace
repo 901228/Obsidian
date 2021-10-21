@@ -9,23 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🏗Complexity.md",
+            "file": "Inbox/🏗Recursive.md",
             "mode": "source"
           }
-        },
-        "group": "e4f7664adf2667cc"
+        }
       },
       {
-        "id": "f2f5f7e3c4bf5210",
+        "id": "213dbe3bd8d31653",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🏗Complexity.md",
+            "file": "Inbox/🏗Recursive.md",
             "mode": "preview"
           }
-        },
-        "group": "e4f7664adf2667cc"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🏗Complexity.md",
+                "file": "Inbox/🏗Recursive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🏗Complexity.md"
+                "file": "Inbox/🏗Recursive.md"
               }
             }
           },
@@ -161,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🏗Complexity.md",
+                "file": "Inbox/🏗Recursive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,15 +233,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/🏗Complexity.md",
-    "Inbox/🏗Data Structure MOC.md",
     "Inbox/🏗Recursive.md",
+    "Inbox/🏗Data Structure MOC.md",
+    "Inbox/🏗Complexity.md",
+    "Archives/使用規則/語法.md",
     "Inbox/🏗Basics.md",
     "Inbox/CG/🖥️Color and Light.md",
     "Projects/MOC.md",
     "Projects/Flutter/🍃Flutter MOC.md",
     "Inbox/Untitled.md",
-    "Inbox/CG/🖥️Measuring Color - Sensors.md",
-    "Attachments/CG/monochromatic_light.png"
+    "Inbox/CG/🖥️Measuring Color - Sensors.md"
   ]
 }
