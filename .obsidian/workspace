@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🏗Arrays.md",
+            "file": "Inbox/🏗Stacks.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "447bee19a3d7293d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/🏗Arrays.md",
-            "mode": "preview"
           }
         }
       }
@@ -85,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🏗Arrays.md",
+                "file": "Inbox/🏗Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🏗Arrays.md"
+                "file": "Inbox/🏗Stacks.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🏗Arrays.md",
+                "file": "Inbox/🏗Stacks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,15 +221,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/🏗Arrays.md",
+    "Inbox/🏗Stacks.md",
+    "Projects/Data Structure/🏗Data Structure MOC.md",
+    "Projects/Data Structure/🏗Arrays.md",
     "Excalidraw/Triangular Matrix.excalidraw.md",
     "Attachments/Pasted image 20211022124336.png",
     "Inbox/CG/🖥️Measuring Color - Sensors.md",
     "Inbox/CG/🖥️Light and Color.md",
     "Inbox/CG/🖥️Color and Light.md",
     "Projects/Data Structure/🏗Complexity.md",
-    "Projects/Data Structure/🏗Data Structure MOC.md",
-    "Projects/Data Structure/🏗Recursive.md",
-    "Projects/Data Structure/🏗Basics.md"
+    "Projects/Data Structure/🏗Recursive.md"
   ]
 }

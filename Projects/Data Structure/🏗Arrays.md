@@ -110,17 +110,34 @@ A<sub>i,j</sub> = l<sub>s</sub> + \[ (i-1) \* n + (j-1) \] \* d
 
 ![[Lower-Triangular Matrix.png]]
 
-> #### Row-major
-$\begin{split}
-\forall i \geq j,\,Location(A_{i,j})
-& = l_s + \bigg[\Big(\frac{1 + (i - 1)}{2} \times (i - 1)\Big) + (j - 1)\bigg] \times d \\
-& = l_s + \bigg[ \frac{i \times (i - 1)}{2} + j - 1 \bigg] \times d
-\end{split}$
++ size of A is $m \times m$
+	> #### Row-major
+	> $\begin{split}
+	> \forall i \geq j,\,Location(A_{i,j})
+	> & = l_s + \bigg[\Big(\frac{1 + (i - 1)}{2} \times (i - 1)\Big) + (j - 1)\bigg] \times d \\
+	> & = l_s + \bigg[ \frac{i \times (i - 1)}{2} + j - 1 \bigg] \times d
+	> \end{split}$
 
-> #### Column-major
-$\begin{split}
-\forall i \geq j,\,Location(A_{i,j})
-& = l_s + \Big[\frac{(1+m)}{2} \times m - \frac{\big(1+(m-j+1)\big)}{2} \times (m-j+1) + (i-j) \Big] \times d \\
-& = l_s + \Big[ i+m \times (j-1) - \frac{j \times (j-1)}{2} - 1 \Big] \times d
-\end{split}$
-![[Triangular Matrix.excalidraw]]
+	> #### Column-major
+	> $\begin{split}
+	> \forall i \geq j,\,Location(A_{i,j})
+	> & = l_s + \Big[\frac{(1+m)}{2} \times m - \frac{\big(1+(m-j+1)\big)}{2} \times (m-j+1) + (i-j) \Big] \times d \\
+	> & = l_s + \Big[ i+m \times (j-1) - \frac{j \times (j-1)}{2} - 1 \Big] \times d
+	> \end{split}$
+	> ![[Triangular Matrix.excalidraw]]
+
+
+### Upper-Triangular Matrix
+基本上就是 Lower-Triangular Matrix 的相反
+![[Upper-Triangular Matrix.png]]
+
++ size of A is $n \times n$
+	> #### Row-major
+	> $
+	> \forall i \leq j,\,Location(A_{i,j}) = l_s + \Big[ j+n \times (i-1) - \frac{i \times (i-1)}{2} - 1 \Big] \times d
+	> $
+
+	> #### Column-major
+	> $
+	> \forall i \leq j,\,Location(A_{i,j}) = l_s + \bigg[ \frac{j \times (j - 1)}{2} + i - 1 \bigg] \times d
+	> $
