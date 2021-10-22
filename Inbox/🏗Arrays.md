@@ -105,7 +105,7 @@ A<sub>i,j</sub> = l<sub>s</sub> + \[ (i-1) \* n + (j-1) \] \* d
 反過來
 
 ## Triangular Matrix
-如果只有要用到一個矩陣以對角線切出的一半三角形區域，則使用 Triangular Matrix 以一維陣列儲存較為節省空間。
+如果只有要用到一個**正方形矩陣**以對角線切出的一半三角形區域，則使用 Triangular Matrix 以一維陣列儲存較為節省空間。
 ### Lower-Triangular Matrix
 
 ![[Lower-Triangular Matrix.png]]
@@ -120,6 +120,7 @@ $\begin{split}
 > #### Column-major
 $\begin{split}
 \forall i \geq j,\,Location(A_{i,j})
-& = l_s + \Big[ \frac{(1+m)}{2} \times m - \frac{\big(1+(m-j+1)\big)}{2} \times (m-j+1) + (i-j) \Big] \times d \\
+& = l_s + \Big[\frac{(1+m)}{2} \times m - \frac{\big(1+(m-j+1)\big)}{2} \times (m-j+1) + (i-j) \Big] \times d \\
 & = l_s + \Big[ i+m \times (j-1) - \frac{j \times (j-1)}{2} - 1 \Big] \times d
 \end{split}$
+![[Triangular Matrix.excalidraw]]
