@@ -16,3 +16,4 @@ Parent Link :: [[MOC]]<br>
 - [[🏗Stacks|Stacks]]
 - [[🏗Prefix, Infix, Postfix|Prefix, Infix, Postfix]]
 - [[🏗Queues|Queues]]
+- [[🏗Trees|Trees]]

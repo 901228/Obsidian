@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🏗Stacks.md",
+            "file": "Inbox/🏗Prefix, Infix, Postfix.md",
             "mode": "source"
           }
         }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🏗Stacks.md",
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🏗Stacks.md"
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🏗Stacks.md",
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/🏗Stacks.md",
+    "Inbox/🏗Prefix, Infix, Postfix.md",
     "Projects/Data Structure/🏗Data Structure MOC.md",
+    "Inbox/🏗Stacks.md",
     "Projects/Data Structure/🏗Arrays.md",
     "Excalidraw/Triangular Matrix.excalidraw.md",
     "Attachments/Pasted image 20211022124336.png",
     "Inbox/CG/🖥️Measuring Color - Sensors.md",
     "Inbox/CG/🖥️Light and Color.md",
     "Inbox/CG/🖥️Color and Light.md",
-    "Projects/Data Structure/🏗Complexity.md",
-    "Projects/Data Structure/🏗Recursive.md"
+    "Projects/Data Structure/🏗Complexity.md"
   ]
 }
