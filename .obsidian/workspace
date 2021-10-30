@@ -7,9 +7,10 @@
         "id": "70ab059d33bfa8b0",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md"
+            "file": "Inbox/📶network edge.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
+                "file": "Inbox/📶network edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md"
+                "file": "Inbox/📶network edge.md"
               }
             }
           },
@@ -146,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
+                "file": "Inbox/📶network edge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
-    "Inbox/📶Introduction.md",
-    "Archives/使用規則/語法.md",
+    "Inbox/📶network edge.md",
+    "Attachments/note.png",
+    "Attachments/Networking/DSL.png",
     "Inbox/📶Computer Networking.md",
+    "Inbox/📶Introduction.md",
+    "Excalidraw/nuts and botls of internet.excalidraw.md",
+    "Archives/使用規則/語法.md",
     "Projects/MOC.md",
     "Inbox/Untitled.md",
-    "Inbox/🏗Prefix, Infix, Postfix.md",
-    "Projects/Data Structure/🏗Data Structure MOC.md",
-    "Inbox/🏗Stacks.md",
-    "Projects/Data Structure/🏗Arrays.md"
+    "Inbox/🏗Prefix, Infix, Postfix.md"
   ]
 }

@@ -11,3 +11,4 @@ Parent Link :: [[MOC]]<br>
 # 📶Computer Networking
 
 - [[📶Introduction|Introduction]]
+- [[📶network edge|network edge]]
