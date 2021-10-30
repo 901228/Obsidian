@@ -53,5 +53,14 @@ Parent Link :: [[📶Computer Networking]]<br>
 + access point: shared wireless access network connects end system to router
 
 ##### wireless LANs (Local Area Network):
-+ within building
-+ 802.11b/g/n (WiFi): 11, 54, 450Mbps trans
++ within building, 100 ft.
++ 802.11b/g/n (WiFi): 11, 54, 450Mbps transmission rate
+
+##### wide-area wireless access (WAN (Wide Area Network))
++ provided by telco (cellular) operator, 10's km
++ between 1 and 10Mbps
++ 3G, 4G:LTE
+
+### Phsical media
+
+##
