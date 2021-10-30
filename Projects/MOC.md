@@ -21,3 +21,4 @@ Note Type :: #📘 <br>
 - [[Anki MOC|Anki]]
 - [[🖥️Computer Graphics MOC|Computer Graphics]]
 - [[🏗Data Structure MOC|Data Structure]]
+- [[📶Computer Networking|Computer Networking]]

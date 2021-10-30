@@ -7,10 +7,9 @@
         "id": "70ab059d33bfa8b0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Inbox/🏗Prefix, Infix, Postfix.md",
-            "mode": "source"
+            "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md"
           }
         }
       }
@@ -74,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
+                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md"
+                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md"
               }
             }
           },
@@ -148,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
+                "file": "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +220,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-10-30 19.34.03.excalidraw.md",
+    "Inbox/📶Introduction.md",
+    "Archives/使用規則/語法.md",
+    "Inbox/📶Computer Networking.md",
+    "Projects/MOC.md",
+    "Inbox/Untitled.md",
     "Inbox/🏗Prefix, Infix, Postfix.md",
     "Projects/Data Structure/🏗Data Structure MOC.md",
     "Inbox/🏗Stacks.md",
-    "Projects/Data Structure/🏗Arrays.md",
-    "Excalidraw/Triangular Matrix.excalidraw.md",
-    "Attachments/Pasted image 20211022124336.png",
-    "Inbox/CG/🖥️Measuring Color - Sensors.md",
-    "Inbox/CG/🖥️Light and Color.md",
-    "Inbox/CG/🖥️Color and Light.md",
-    "Projects/Data Structure/🏗Complexity.md"
+    "Projects/Data Structure/🏗Arrays.md"
   ]
 }
