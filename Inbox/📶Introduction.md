@@ -13,22 +13,16 @@ Parent Link :: [[📶Computer Networking]]<br>
 
 ## What's the Internet
 
-+ **hosts** = **end systems**
-+ communication links
-	+ via fiber, copper, radio, satellite...
-	+ transmission rate: **bandwidth** (bps)
++ **hosts** == **end systems** == **連上網路的裝置**
++ **end systems** connected by
+	+ <u>communication links</u>
+		+ via fiber, copper, radio, satellite...
+		+ transmission rate: **bandwidth** (bps)
+	+ <u>packet switches</u>
 
 ### "nuts and bolts" view
 
 ![[nuts and botls of internet.excalidraw]]
-
-```mermaid
-graph TD;
- 	A["mobile network"]---B["global ISP"];
-	C["region ISP"]---B;
-	D["home network"]---C;
-	C---E["institutional network"];
-```
 
 + **Internet:** "network of networks"
 	+ Interconnected ISPs

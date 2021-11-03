@@ -46,3 +46,15 @@ div[data-path="Notes/Daily"] .nav-folder-title-content::before
 {
   content: "📆 ";
 }
+
+/*
+div[data-path$=".png"] .nav-file-title-content::before
+{
+  content: "❄ ";
+}
+*/
+
+div[data-path$=".excalidraw.md"] .nav-file-title-content::before
+{
+  content: "❄ ";
+}
