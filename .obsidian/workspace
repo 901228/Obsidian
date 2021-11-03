@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Introduction.md",
+            "file": "Projects/Networking/📶Computer Networking.md",
             "mode": "source"
           }
         }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Introduction.md",
+                "file": "Projects/Networking/📶Computer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Introduction.md"
+                "file": "Projects/Networking/📶Computer Networking.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Introduction.md",
+                "file": "Projects/Networking/📶Computer Networking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,11 +221,11 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/📶Introduction.md",
+    "Projects/Networking/📶Computer Networking.md",
+    "Inbox/📶Network Edge.md",
+    "Projects/Networking/📶Introduction.md",
     "Attachments/Networking/nuts and botls of internet.excalidraw.md",
-    "Inbox/📶network edge.md",
     "Attachments/Ethernet.png",
-    "Inbox/📶Computer Networking.md",
     "Inbox/🍃Flutter usable package list.md",
     "Attachments/Data Structure/Triangular Matrix.excalidraw.md",
     "Attachments/note.png",
