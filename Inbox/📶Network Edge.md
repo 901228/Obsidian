@@ -11,38 +11,41 @@ Parent Link :: [[📶Computer Networking]]<br>
 ---
 # 📶network edge
 
-> 不一樣的東西<br>
-> <u>**edge**</u> computing: 在<u>接近 client 的 server</u> computing<br>
-> <u>cloud</u> computing: 在<u>遠離 client 的 server</u> computing
-
 + network edge (host): clients and servers
 + network core:
 	+ interconnected ==routers==
 	+ network of networks
 
 ## Access network
-### Methods of connecting to central office
+### Home Access	
 #### Digital Subscriber Line (DSL)
 ![[DSL.png]]
 
-+ use *existing* telephone line to central office DSLAM (DSL access multiplexer（匯集器）)
-	+ datas over DSL phone line goes to Internet
-	+ voice over DSL phone line goes to telephone net
-+ < 2.5Mbps upstream transmission rate (typically < 1Mbps)
-+ < 24Mbps downstream transmission rate (typically < 10Mbps)
++ use *existing* telephone line to exchange data from DSLAM (DSL access multiplexer（匯集器、多工器）) in CO (central office)
+	+ data upstream use bandwidth between 50kHz ～ 1MHz
+	+ data downstream use bandwidth between 4kHz ～ 50kHz
+	+ voice (telephone) use bandwidth between 0 ～ 4kHz
++ asymmetric（不對稱性）:
+	+ 15Mbps upstream transmission rate
+	+ 55Mbps downstream transmission rate
++ 只適用於距離 CO 距離較短的情況。
 
-#### cable network
-+ network of cable, fiber attaches hoomes to ISP router
+#### Cable Internet access
++ network of cable, fiber attaches homes to ISP router
 	+ home share access network to cable headend
-	+ unlike DSL, which has dedicated（專用） access to central office
+	+ use *existing* television cable to exchange data from CMTS (Cable modem termination system) in CO (central office)
 
-+ HFC (fybird fiber coax) （混合光纖同軸網路）
-	+ ayymmetric（不對稱性）: up to 30Mbps downstream rate, 2Mbps updtream rate.
++ HFC (fybird fiber coax) （混合<u>光纖</u><span style="font-size: 0.3em;"> </span><u>同軸網路</u>）
+	+ 先用<u>光纖</u>送到住宅區附近的交換站，再用<u>同軸電纜</u>送到各個家庭中。
+	+ asymmetric: up to 42.8Mbps downstream rate, 30.7Mbps updtream rate.
 
-##### home network
-![[home network.png]]
++ FTTH (fiber to the home) （光纖到府）: 全都是光纖
+	+ direct fiber（導向光纖）: 每戶家庭都有一條光纖直接接到 CO
+	+ 較常見: 到住家附近前都還是一條線路
+		+ AON (active optical network)
+		+ PON (passive optical network)
 
-### Method of access Internet
+### Access in the Enterprise (and the Home)
 #### Enterprise access networks (Ethernet)
 ![[Ethernet.png]]
 + Typically used in companies, universities, etc.
@@ -53,14 +56,24 @@ Parent Link :: [[📶Computer Networking]]<br>
 + access point: shared wireless access network connects end system to router
 
 ##### wireless LANs (Local Area Network):
-+ within building, 100 ft.
-+ 802.11b/g/n (WiFi): 11, 54, 450Mbps transmission rate
++ 距離: 數十<u>公尺</u>內。
++ 802.11 (WiFi): > 100Mbps transmission rate
 
 ##### wide-area wireless access (WAN (Wide Area Network))
-+ provided by telco (cellular) operator, 10's km
++ 距離: 基地台為中心方圓數十<u>公里</u>内。
 + between 1 and 10Mbps
-+ 3G, 4G:LTE
++ 3G, 4G LTE
 
-### Phsical media
+## Phsical media
++ guided media: wire, fiber...
++ unguided media: WiFi, satellite...
 
-##
+### <u>Twisted-Pair</u> Copper Wire
++ Used in the networks in buildings (LAN)
++ 10Mbps ～ 1Gbps transmission rate
+
+### Coaxial（同軸（平行）） Cable
+### Fiber Optics
++ 传输速率高
+
+### Terrestrial Radio Channels

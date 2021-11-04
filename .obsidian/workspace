@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Flutter/🍃Flutter build and release.md",
+            "file": "Inbox/📶Network Edge.md",
             "mode": "source"
           }
         }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter build and release.md",
+                "file": "Inbox/📶Network Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter build and release.md"
+                "file": "Inbox/📶Network Edge.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter build and release.md",
+                "file": "Inbox/📶Network Edge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
+    "Inbox/📶Network Edge.md",
+    "Attachments/Networking/nuts and botls of internet.excalidraw.md",
+    "Attachments/Networking/home network.png",
+    "Attachments/Networking/DSL.png",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Projects/Networking/📶Computer Networking.md",
-    "Inbox/📶Network Edge.md",
     "Projects/Networking/📶Introduction.md",
-    "Attachments/Networking/nuts and botls of internet.excalidraw.md",
     "Attachments/Ethernet.png",
     "Inbox/🍃Flutter usable package list.md",
-    "Attachments/Data Structure/Triangular Matrix.excalidraw.md",
-    "Attachments/note.png",
-    "Attachments/Networking/DSL.png"
+    "Attachments/Data Structure/Triangular Matrix.excalidraw.md"
   ]
 }
