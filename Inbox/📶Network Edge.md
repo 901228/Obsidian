@@ -6,7 +6,7 @@ aliases : []
 Source Type :: #📥/📄 <br>
 Note Type :: #📝 <br>
 Topics :: [[📶Computer Networking]]<br>
-Parent Link :: [[📶Computer Networking]]<br>
+Parent Link :: [[📶Computer Networks and the Internets]]<br>
 
 ---
 # 📶network edge
@@ -74,6 +74,28 @@ Parent Link :: [[📶Computer Networking]]<br>
 
 ### Coaxial（同軸（平行）） Cable
 ### Fiber Optics
-+ 传输速率高
++ 優
+	+ 傳輸速率高
+	+ 衰弱程度低
+	+ 不易被竊聽
++ 缺
+	+ 高成本
 
 ### Terrestrial Radio Channels
++ 優
+	+ 不須安裝實體網路
+	+ 可穿牆
+	+ 可長距離載送訊號
++ 缺
+	+ 路徑遺失 (path loss)
+	+ 遮蔽衰減 (shadow fading)
+	+ 多路徑衰減 (multipath fading)
+	+ 干擾
+
+### Satellite Radio Channels
+#### 同步衛星 (geostationary satellite)
++ signal propagation delay: 280ms
++ used in areas without access to DSL or cable-based Internet access
+
+#### 低軌道衛星 (low-earth orbiting \[LEO\] satellite)
++ 現在還未使用在網路連線上。

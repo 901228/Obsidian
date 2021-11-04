@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Network Edge.md",
+            "file": "Inbox/📶Network Core.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Network Edge.md",
+                "file": "Inbox/📶Network Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Network Edge.md"
+                "file": "Inbox/📶Network Core.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Network Edge.md",
+                "file": "Inbox/📶Network Core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
+    "Inbox/📶Network Core.md",
+    "Inbox/📶Computer Networks and the Internets.md",
     "Inbox/📶Network Edge.md",
+    "Projects/Networking/📶Introduction.md",
+    "Projects/Networking/📶Computer Networking.md",
     "Attachments/Networking/nuts and botls of internet.excalidraw.md",
     "Attachments/Networking/home network.png",
     "Attachments/Networking/DSL.png",
     "Projects/Flutter/🍃Flutter build and release.md",
-    "Projects/Networking/📶Computer Networking.md",
-    "Projects/Networking/📶Introduction.md",
-    "Attachments/Ethernet.png",
-    "Inbox/🍃Flutter usable package list.md",
-    "Attachments/Data Structure/Triangular Matrix.excalidraw.md"
+    "Attachments/Ethernet.png"
   ]
 }
