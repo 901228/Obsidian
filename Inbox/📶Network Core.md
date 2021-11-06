@@ -104,6 +104,4 @@ router 還在處理前一個 packet 時，有另一個 packet 被傳過來，後
 
 
 ## Network of Networks
-
-```mermaid
-```
+![[network of networks.excalidraw]]
