@@ -60,4 +60,14 @@ router 還在處理前一個 packet 時，有另一個 packet 被傳過來，後
 
 
 ## Circuit Switching
-### 
++ 要傳送 data 時，佔一條線路，佔了之後別人就不能用這條線了。
++ 比起 packet switching，效率較差，但較穩定。
++ Example: 傳統電話網路
+
+|                ![[circuit switching.excalidraw]]                 |
+|:----------------------------------------------------------------:|
+| <span style="margin: 10em;">A to B: end-to-end connection</span> |
+
+### Multiplexing: <small>實做 circuit switching</small>
++ FDM (Frequency Division Multiplexing): use different frequency as circuits
++ TDM (Time Division Multiplexing)
