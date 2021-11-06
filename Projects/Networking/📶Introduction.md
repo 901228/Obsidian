@@ -13,10 +13,10 @@ Parent Link :: [[📶Computer Networks and the Internets]]<br>
 
 ## hosts == end systems == 連上網路的裝置
 + **end systems** connected by
-	+ <u>communication links</u>
+	+ <u>communication link</u>
 		+ via fiber, copper, radio, satellite...
 		+ transmission rate: **bandwidth** (bps)
-	+ <u>packet switches</u>
+	+ <u>packet switch</u>
 		+ types:
 			+ router
 			+ link-layer switch
