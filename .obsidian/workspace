@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "58052d522c624d4b",
+        "id": "df732af28230f1ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -233,14 +233,14 @@
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
     "Inbox/📶Network Core.md",
+    "Attachments/Networking/FDM & TDM.excalidraw.md",
+    "Inbox/📶Computer Networks and the Internets.md",
     "Attachments/Networking/circuit switching.excalidraw.md",
-    "Inbox/📶Network Edge.md",
+    "Projects/Networking/📶Network Edge.md",
     "Attachments/Networking/home network.png",
     "Attachments/Networking/DSL.png",
     "Attachments/Networking/Ethernet.png",
     "Projects/Networking/📶Introduction.md",
-    "Attachments/Networking/nuts and botls of internet.excalidraw.md",
-    "Attachments/note.png",
-    "Attachments/Obsidian 使用規則 Example.png"
+    "Attachments/Networking/nuts and botls of internet.excalidraw.md"
   ]
 }
