@@ -97,10 +97,13 @@ graph LR;
 ### Internet scenario（設想）
 ```mermaid
 graph TD;
-	A--R_s-->D;
-	B--R_s-->D;
-	C--R_s-->D;
-	D-->E;
-	D-->F;
-	D-->G;
+	A[server A]--R_s-->D[(bottleneck R)];
+	B[server B]--R_s-->D;
+	C[server C]--R_s-->D;
+	D--R_c-->E[client E];
+	D--R_c-->F[client F];
+	D--R_c-->G[client G];
 ```
+
++ All connections fairly share backbone bottleneck link **R (bps)**.
++ 產出率為 $min\{R_s, R_c, \cfrac{R}{connections}\}$
