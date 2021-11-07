@@ -5,8 +5,8 @@ aliases : []
 ---
 Source Type :: #📥/📄 <br>
 Note Type :: #📝 <br>
-Topics :: [[Network]]<br>
-Parent Link :: [[]]<br>
+Topics :: [[📶Computer Networking]]<br>
+Parent Link :: [[📶Computer Networks and the Internets]]<br>
 
 ---
 # 📶Network Under Attack
