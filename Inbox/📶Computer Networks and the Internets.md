@@ -13,3 +13,4 @@ Parent Link :: [[📶Computer Networking]]<br>
 - [[📶Introduction]]
 - [[📶Network Edge]]
 - [[📶Network Core]]
+- [[📶Delay, loss, throughput in networks]]

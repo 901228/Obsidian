@@ -30,7 +30,7 @@ graph LR;
 ```
 
 + Takes $\bf{\frac{L}{R}}$ seconds to transmit **L**-bit packet into link at **R** bps.
-+ *store and forward:* entire packet must arrive at router before it can be transmitted on next link.
++ **store and forward:** entire packet must arrive at router before it can be transmitted on next link.
 	+ resulting in **delay: $\bf{\frac{L}{R}}$**
 	+ end-end delay: （視其他 delay 為 0）
 		+ $(\ packet數 - 1 + link數\ ) \times \frac{L}{R}$
@@ -105,3 +105,8 @@ router 還在處理前一個 packet 時，有另一個 packet 被傳過來，後
 
 ## Network of Networks
 ![[network of networks.excalidraw]]
+
++ **Tier-1 ISP:** national & international converge.
+	+ e.g. Sprint, AT&T, NTT, 中華電信
++ **Content Provider Network:** private network that connects it data centers to Internet, often by passing tier-1, regional ISPs.
+	+ e.g. Google
