@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Internet History.md",
+            "file": "Inbox/📶Application Layer.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Internet History.md",
+                "file": "Inbox/📶Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Internet History.md"
+                "file": "Inbox/📶Application Layer.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Internet History.md",
+                "file": "Inbox/📶Application Layer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
-    "Inbox/📶Internet History.md",
+    "Inbox/📶Application Layer.md",
+    "Projects/Networking/📶Computer Networking.md",
     "Inbox/📶Computer Networks and the Internets.md",
+    "Inbox/📶Internet History.md",
     "Inbox/📶Network Under Attack.md",
     "Inbox/📶Protocol layers, service model.md",
     "Inbox/📶Delay, loss, throughput in networks.md",
     "Inbox/📶Network Core.md",
     "Projects/Networking/📶Network Edge.md",
-    "Projects/Networking/📶Introduction.md",
-    "Projects/Networking/📶Computer Networking.md",
-    "Attachments/Networking/network of networks.excalidraw.md"
+    "Projects/Networking/📶Introduction.md"
   ]
 }

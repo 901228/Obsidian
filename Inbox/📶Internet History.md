@@ -79,9 +79,6 @@ Parent Link :: [[📶Computer Networks and the Internets]]<br>
 + increasing ubiquity（無所不在？） of high-speed wireless access
 + <u>emergence of</u>（…的出現） online social networks
 	+ Facebook: ~ one billion users
-+ service providers (Google, Microsoft) create their own
-networks
-+ bypass Internet, providing instantaneous access to
-search, video content, email, etc.
-+ e-commerce, universities, enterprises running their
-services in cloud (e.g., Amazon EC2)
++ service providers (Google, Microsoft) create their own networks
+	+ bypass（繞過） Internet, providing instantaneous access to search, video content, email, etc.
++ e-commerce, universities, enterprises running their services in <u>"cloud"</u>（cloud computing） (e.g., Amazon EC2)
