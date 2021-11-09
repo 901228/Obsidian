@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Principles of Network Applications.md",
+            "file": "Inbox/📶The Web and HTTP.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Principles of Network Applications.md",
+                "file": "Inbox/📶The Web and HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Principles of Network Applications.md"
+                "file": "Inbox/📶The Web and HTTP.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Principles of Network Applications.md",
+                "file": "Inbox/📶The Web and HTTP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
+    "Inbox/📶The Web and HTTP.md",
+    "Projects/Networking/📶Computer Networking.md",
+    "Projects/Networking/📶Computer Networks and the Internets.md",
+    "Inbox/📶Application Layer.md",
     "Inbox/📶Principles of Network Applications.md",
     "Projects/Networking/📶Introduction.md",
-    "Inbox/📶Application Layer.md",
-    "Projects/Networking/📶Computer Networks and the Internets.md",
-    "Projects/Networking/📶Computer Networking.md",
     "Projects/Networking/📶Internet History.md",
     "Projects/Networking/📶Network Under Attack.md",
     "Projects/Networking/📶Protocol layers, service model.md",
-    "Projects/Networking/📶Delay, loss, throughput in networks.md",
-    "Projects/Networking/📶Network Core.md"
+    "Projects/Networking/📶Delay, loss, throughput in networks.md"
   ]
 }

@@ -145,7 +145,12 @@ data integrity, throughput, timing, security
 > 	+ cleartext（明文） passwords sent into socket traverse Internet in cleartext
 > + SSL (Secure Socket Layer)
 > 	+ provides encrypted TCP connection
-> 	+ data integrity
+> 	+ data integrity (app layer)
+> 	+ end-point authentication
+> 	+ run at application layer
+> 		+ apps use SSL libraries, that "talk" to TCP
+> 	+ SSL socket API
+> 		+ cleartext passwords sent into socket traverse Internet encrypted
 
 ##  Application-Layer Protocols
 |                   application | application layer protocol                                              | underlying（底層） transport protocols |
