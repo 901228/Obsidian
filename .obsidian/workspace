@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proprietary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ef55ca7bb803050",
@@ -222,6 +223,7 @@
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
     "Inbox/📶Principles of Network Applications.md",
+    "Projects/Networking/📶Introduction.md",
     "Inbox/📶Application Layer.md",
     "Projects/Networking/📶Computer Networks and the Internets.md",
     "Projects/Networking/📶Computer Networking.md",
@@ -229,7 +231,6 @@
     "Projects/Networking/📶Network Under Attack.md",
     "Projects/Networking/📶Protocol layers, service model.md",
     "Projects/Networking/📶Delay, loss, throughput in networks.md",
-    "Projects/Networking/📶Network Core.md",
-    "Projects/Networking/📶Network Edge.md"
+    "Projects/Networking/📶Network Core.md"
   ]
 }
