@@ -61,10 +61,28 @@ sequenceDiagram;
 	end
 ```
 
+#### response time
 + RTT (Round Trip Time)
 	+ **Definition:** time for small packet to travel from client to server and back
 + HTTP response time
-	+ 
+	+ 2RTT + file transmission time
+![[non-persistent HTTP response time.excalidraw]]
+
+#### issues
++ requires 2 RTTs per objects
++ browsers often open **parallel TCP** connections to fetch referenced (from requested files) objects
 
 ### persistent HTTP
 + multiple objects can be sent over single TCP connection between client and server
++ server leaves connections open after response
++ client sends requests as soon as it encounters a referenced object
+
+#### response time
++ (2RTT + T) + (RTT + T) \* 10
+	+ T: file transmission time
+
+##### pipelining => 一次 request 全部 referenced objects
++ (2RTT + T) + RTT + 10T
+
+
+## HTTP request message

@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "125478f6e12c57f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/📶The Web and HTTP.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -234,6 +223,7 @@
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
     "Inbox/📶The Web and HTTP.md",
+    "Excalidraw/non-persistent HTTP response time.excalidraw.md",
     "Projects/Data Structure/🏗Arrays.md",
     "Archives/使用規則/語法.md",
     "Attachments/note.png",
@@ -241,7 +231,6 @@
     "Projects/Networking/📶Computer Networking.md",
     "Projects/Networking/📶Computer Networks and the Internets.md",
     "Inbox/📶Application Layer.md",
-    "Inbox/📶Principles of Network Applications.md",
-    "Projects/Networking/📶Introduction.md"
+    "Inbox/📶Principles of Network Applications.md"
   ]
 }
