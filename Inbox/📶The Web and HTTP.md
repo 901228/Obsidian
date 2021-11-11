@@ -239,15 +239,55 @@ graph RL;
 + assumption
 	+ average object size: 1 Mbits
 	+ average request rate from browsers to origin servers: 15 / sec
-	+ average data rate to browser: 15 Mbps
-	+ average data rate via LAN: 100 Mbps
+	+ average data rate to browser: 15 Mbps = (1 Mbits * 15 / sec)
+	+ access link rate to public Internet: 15 Mbps
+	+ access link rate to LAN: 100 Mbps
 	+ RTT from institutional router to any origin server: 2 sec
 		+ Internet delay
-	+ access link rate: 
 
 - consequences
-	-  The [[📶Delay, loss, throughput in networks#Queueing delay|traffic intensity]] on the LAN: $$(15 / sec) \times (1 Mbits) \div (100 Mbps) = 0.15$$
-	-  The traffic intensity on the access link: $$(15 / sec) \times (1 Mbits) \div (15 Mbps) = 1$$
+	-  The [[📶Delay, loss, throughput in networks#Queueing delay|traffic intensity]] on the LAN: $$(15 Mbps) \div (100 Mbps) = 0.15$$
+	-  The traffic intensity on the access link: $$(15 Mbps) \div (15 Mbps) = 1$$
 		-  traffic intensity 為 1 -> queueing delay 很大
 	-  total delay = Internet delay + access delay + LAN delay
-		-  =
+		-  = 2 sec + minutes + milliseconds
+		-  = minutes 數分鐘
+
+##### 解決延遲過長
+1. increase the access rate
+	+ e.g. 15 -> 100
+2. use cache
+
+#### with cache
++ assumption
+	+ average object size: 1 Mbits
+	+ average request rate from browsers to origin servers: 15 / sec
+	+ average data rate to browser: 15 Mbps = (1 Mbits * 15 / sec)
+	+ access link rate to public Internet: 15 Mbps
+	+ access link rate to LAN: 100 Mbps
+	+ RTT from institutional router to any origin server: 2 sec
+		+ Internet delay
+	+ cache hit rate（cache 能滿足 request 的比例）: 0.4
+		+ 40% requests satisfied at cache
+		+ 60% requests satisfied at origin
+
+- consequences
+	-  The traffic intensity on the LAN: $$(15 Mbps) \div (100 Mbps) = 0.15 \approx 10毫秒$$
+	-  The traffic intensity on the access link: $$(15 Mbps) \times (60\%) \div (15 Mbps) = 0.6 \approx 數十毫秒$$
+	-  total delay$$\begin{split}
+		total\ delay
+		& = 0.4 \times (delay\ from\ cache)\ +\ 0.6 \times (delay\ from\ origin) \\
+		& \approx 0.4 \times 0.01 sec + 0.6 \times (2 + 0.01)sec \\
+		& \approx 1.2sec
+		\end{split}$$
+
+### Conditional GET
+1. cache 向 origin server 發出 request，request 沒有的檔案
+2. origin server 發出 response
+	+ 包含 Last-Modified field
+		+ 最後修改時間與日期
+3. cache 向 origin server 確認該檔案是否修改
+	+ 包含 If-modified-since field
+		+ 在某時間與日期之後是否有修改檔案
+4. 若沒修改，origin server 發出 response
+	+ 304 Not Modified

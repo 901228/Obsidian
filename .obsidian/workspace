@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶The Web and HTTP.md",
+            "file": "Inbox/📶Electronic Mail in the Internet.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶The Web and HTTP.md",
+                "file": "Inbox/📶Electronic Mail in the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "times",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶The Web and HTTP.md"
+                "file": "Inbox/📶Electronic Mail in the Internet.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶The Web and HTTP.md",
+                "file": "Inbox/📶Electronic Mail in the Internet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +222,15 @@
   },
   "active": "70ab059d33bfa8b0",
   "lastOpenFiles": [
+    "Inbox/📶Electronic Mail in the Internet.md",
+    "Inbox/📶Application Layer.md",
     "Inbox/📶The Web and HTTP.md",
+    "Projects/Data Structure/🏗Arrays.md",
+    "Archives/使用規則/語法.md",
     "Projects/Networking/📶Delay, loss, throughput in networks.md",
     "Projects/Networking/📶Computer Networks and the Internets.md",
     "Projects/Networking/📶Introduction.md",
     "Excalidraw/Drawing 2021-11-11 16.30.55.excalidraw.md",
-    "Attachments/Networking/non-persistent HTTP response time.excalidraw.md",
-    "Attachments/Networking/cookie.excalidraw.md",
-    "Attachments/response message format.png",
-    "Attachments/Networking/request message format.png",
-    "Projects/Data Structure/🏗Arrays.md"
+    "Attachments/Networking/non-persistent HTTP response time.excalidraw.md"
   ]
 }
