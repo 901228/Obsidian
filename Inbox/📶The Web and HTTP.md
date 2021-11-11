@@ -190,3 +190,28 @@ request and response
 	- 404 Not Found
 		- request document not found on this server
 	- 505 HTTP Version Not Supported
+
+
+## User-Server Interaction (State): Cookie
+
++ cookie have four components:
+	+ a cookie header line in the **HTTP response message**
+	+ a cookie header line in the **HTTP request message**
+	+ a cookie file **kept on the user’s end system**, managed by the user’s browser
+	+ a back-end database at the Web site
+
+![[cookie.excalidraw]]
+
++ what can be use for
+	+ authorization
+	+ shopping carts
+	+ recommendations
+	+ user session state (Web e-mail)
+	+ ...
+
+### privacy
++ cookies permit site to learn a lot about user
+	+ e.g. name, e-mail, password, address...
+
+
+## Web caching（網頁快取） (Proxy server（代理伺服器）)
