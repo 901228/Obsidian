@@ -81,8 +81,103 @@ sequenceDiagram;
 + (2RTT + T) + (RTT + T) \* 10
 	+ T: file transmission time
 
-##### pipelining => 一次 request 全部 referenced objects
-+ (2RTT + T) + RTT + 10T
+> ##### pipelining => 一次 request 全部 referenced objects
+> + (2RTT + T) + RTT + 10T
 
 
 ## HTTP request message
+request and response
+
+### request message
+<div style="margin: 1em;">
+	<p align="center">request Example</p>
+<p style="border: 0.1em solid lightgray; padding: 0.5em;">
+	GET /index.html HTTP/1.1<span style="color: lightgray">\r\n</span> <br>
+	Host: www.someschool.edu<span style="color: lightgray">\r\n</span> <br>
+	Connection: close<span style="color: lightgray">\r\n</span> <br>
+	User-agent: Mozilla/5.0<span style="color: lightgray">\r\n</span> <br>
+	Accept-language: fr<span style="color: lightgray">\r\n</span> <br>
+	<span style="color: lightgray">\r\n</span>
+</p>
+</div>
+
+![[request message format.png]]
+
++ 每行末尾都有 carriage return（歸位） 和 line feed（換行）
+	+ 最後一行只有 cr 和 lf
++ 第一行為 request line
+	+ Method
+		+ GET, POST, HEAD, PUT, DELETE...
+	+ URL
+		+ e.g. 若 Method 為 GET，URL 為請求之物件。
+	+ HTTP Version
++ 後續的行（到 \\r\\n 為止）則為 header line
+	+ in Example
+		+ Host: www\.someschool\.edu
+			+ 請求之物件所在之 host
+		+ Connection: close
+			+ 瀏覽器告知 server 要使用 non-persistent connection
+		+ User-agent: Mozilla/5.0
+			+ 使用者代理程式（瀏覽器）
+		+ Accept-language: fr
+			+ 希望收到該物件的法文版，若無則傳送預設版本。
++ 最後為 entity body
+	+ GET 用不到
+	+ POST 會用到
+
+#### other methods
+- POST (HTTP/1.0)
+	- use it when the user fills out a form
+	- entity body: form content
+	- 經常使用 GET 代替: 加在 URL 裡
+		- e.g. fill form with monkeys & bananas
+			- www\.somesite\.com/animalsearch?monkeys&bananas
+- HEAD (HTTP/1.0)
+	- 跟 GET 類似，但會忽略請求之物件，回傳一則 HTTP message。
+	- 通常用於 Debug
+- PUT (HTTP/1.1)
+	- 上傳 object 到 web server
+- DELETE (HTTP/1.1)
+	- 刪除 web server 上的 object
+
+
+### response message
+<div style="margin: 1em;">
+	<p align="center">response Example</p>
+<p style="border: 0.1em solid lightgray; padding: 0.5em;">
+	HTTP/1.1 200 OK<span style="color: lightgray">\r\n</span> <br>
+	Connection: close<span style="color: lightgray">\r\n</span> <br>
+	Date: Tue, 18 Aug 2015 15:44:04 GMT<span style="color: lightgray">\r\n</span> <br>
+	Server: Apache/2.2.3 (CentOS)<span style="color: lightgray">\r\n</span> <br>
+	Last-Modified: Tue, 18 Aug 2015 15:11:03 GMT<span style="color: lightgray">\r\n</span> <br>
+	Content-Length: 6821<span style="color: lightgray">\r\n</span> <br>
+	Content-Type: text/html<span style="color: lightgray">\r\n</span> <br>
+	<span style="color: lightgray">\r\n</span> <br>
+	(data data data data data ...)
+</p>
+</div>
+
+![[response message format.png]]
+
++ 第一行為 status line
+	+ http version
+	+ status code
+		+ 
+	+ phrase
++ header line
+	+ in Example
+		+ Connection: close
+			+ server 告知 browser 送出 message 後就要 close TCP connection
+		+ Date: Tue, 18 Aug 2015 15:44:04 GMT
+			+ 送出 response message 的時間與日期
+		+ Server: Apache/2.2.3
+			+ 用 Apache 建的 server
+		+ Last-Modified: Tue, 18 Aug 2015 15:11:03 GMT
+			+ object 建立或最後修改時間與日期
+		+ Content-Length: 6821
+			+ number of bytes in the object being sent
+		+ Content-Type: text/html
+			+ 
++ entity body
+	+ GET 用不到
+	+ POST 會用到
