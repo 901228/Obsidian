@@ -215,3 +215,39 @@ request and response
 
 
 ## Web caching（網頁快取） (Proxy server（代理伺服器）)
+
++ users set browser to 優先向 proxy server request
+
+```mermaid
+graph RL;
+	D--HTTP response-->B;
+	B--HTTP request-->D[(origin server)];
+	A(["client<br>(browser)"])--HTTP request-->B((proxy server));
+	B--HTTP response-->A;
+```
++ cache acrs as both client and server
++ typically cache (proxy server) is installed by ISP (university, company, residential ISP)
+
+### 優點
++ reduce response time for client request
+	+ proxy server 與 client 的距離會比 origin server 還近。
++ reduce traffic on an institution's access link
+	+ 指的是從 ISP 往外流的流量。
+
+### Example
+#### without cache
++ assumption
+	+ average object size: 1 Mbits
+	+ average request rate from browsers to origin servers: 15 / sec
+	+ average data rate to browser: 15 Mbps
+	+ average data rate via LAN: 100 Mbps
+	+ RTT from institutional router to any origin server: 2 sec
+		+ Internet delay
+	+ access link rate: 
+
+- consequences
+	-  The [[📶Delay, loss, throughput in networks#Queueing delay|traffic intensity]] on the LAN: $$(15 / sec) \times (1 Mbits) \div (100 Mbps) = 0.15$$
+	-  The traffic intensity on the access link: $$(15 / sec) \times (1 Mbits) \div (15 Mbps) = 1$$
+		-  traffic intensity 為 1 -> queueing delay 很大
+	-  total delay = Internet delay + access delay + LAN delay
+		-  =
