@@ -162,8 +162,7 @@ request and response
 + 第一行為 status line
 	+ http version
 	+ status code
-		+ 
-	+ phrase
+	+ status phrase
 + header line
 	+ in Example
 		+ Connection: close
@@ -177,7 +176,17 @@ request and response
 		+ Content-Length: 6821
 			+ number of bytes in the object being sent
 		+ Content-Type: text/html
-			+ 
+			+ 指出 entity body 中的 object 是 html file
 + entity body
-	+ GET 用不到
-	+ POST 會用到
+
+#### HTTP response status codes and phrase
+- some sample codes
+	- 200 OK
+		- request succeeded, requested object later in this message
+	- 301 Moved Permanently
+		- request object moved, new location specified later in this message (Location:)
+	- 400 Bad Pequest
+		- request message not understood by server
+	- 404 Not Found
+		- request document not found on this server
+	- 505 HTTP Version Not Supported
