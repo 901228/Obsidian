@@ -58,6 +58,22 @@ graph LR;
 ```
 
 #### Sample SMTP interaction
-```mermaid
-sequence
-```
+
++ init TCP connection
++ S: 220 \<server-name\>
++ C: HELO \<client-name\>
++ S: 250 Hello \<client-name\>, pleased to meet you
++ C: MAIL FROM: \<\<client-user-name@client-name\>\>
++ S: 250 \<client-user-name@client-name\> ... Sender ok
++ C: RCPT TO: \<\<server-user-name@server-name\>\>
++ S: 250 \<server-user-name@server-name\> ... Recipient
++ C: DATA
++ S: 254 Enter mail, end with "." on a line by itself
++ C: Do you linke ketchup?
++ C: How about pickles?
++ C: .
++ S: 250 Message accepted for delivery
++ C: QUIT
++ S: 221 \<server-name\> closing connection
+
+## Comparison with HTTP
