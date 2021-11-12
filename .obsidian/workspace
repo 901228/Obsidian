@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "fcd7044bf1d2c5ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/📶Electronic Mail in the Internet.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -224,13 +235,13 @@
   "lastOpenFiles": [
     "Inbox/📶Electronic Mail in the Internet.md",
     "Inbox/📶Application Layer.md",
+    "Inbox/📶Principles of Network Applications.md",
     "Inbox/📶The Web and HTTP.md",
     "Projects/Data Structure/🏗Arrays.md",
     "Archives/使用規則/語法.md",
     "Projects/Networking/📶Delay, loss, throughput in networks.md",
     "Projects/Networking/📶Computer Networks and the Internets.md",
     "Projects/Networking/📶Introduction.md",
-    "Excalidraw/Drawing 2021-11-11 16.30.55.excalidraw.md",
-    "Attachments/Networking/non-persistent HTTP response time.excalidraw.md"
+    "Excalidraw/Drawing 2021-11-11 16.30.55.excalidraw.md"
   ]
 }
