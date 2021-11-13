@@ -187,7 +187,7 @@ graph TD;
 	+ identification（識別代碼）: 16 bit number for query, reply to query uses same number
 	+ flags:
 		+ query(0) or reply(1)
-		+ reply is authoritative(1): 是否為 DNS server 所查詢之名稱的 authoritative server
+		+ reply is authoritative(1): 是否為 DNS server 所查詢之 name 的 authoritative server
 		+ recursion desired (1): 希望 DNS server 能在沒有 records 時，用遞迴進行查詢
 		+ recursion available (1): 若 DNS server 支援遞迴式查詢
 	+ 剩下四個 number-of fields，指出在 header section 之後出現的 section 的數量。
@@ -196,8 +196,47 @@ graph TD;
 	+ **a type field:** 指出對該 name 所 query 的問題類型
 		+ e.g. Type A, Type MX...
 + answer section
-	+ 
+	+ 存放所查詢之 name 的相關資訊 (RRs)
+		+ each RR includes $Type,\ Value,\ TTL$
+	+ 可以傳回多筆 RR，因為一個 hostname 可能有多個 IP address
 + authority section
-	+ 
+	+ 包含其他 authoritative server 的 RR
 + additional section
-	+ 
+	+ 包含其他有用的 RR
+		+ e.g. 在 Type MX query 回覆訊息中，answer section 存了一組提供 canonical name of mail server 的 RR。additional section 則會包含一筆 Type A RR，提供該 mail server 的 IP address。
+
+#### Inserting Records into the DNS Database
++ 若要註冊新的網域，要向 DNS registrar 申請。
+	+ DNS registrar（網域名稱註冊商）
+		+ 驗證該 name 的唯一性
+		+ 將網域名稱輸入 DNS database
+
+##### Example
++ 註冊 networkutopia\.com
++ 向 DNS registrar 提供主要及次要 authoritative server 的 name 與 IP address
+	+ dns1\.networkutopia\.com, dns2\.networkutopia\.com
+	+ 212.212.212.1, 212.212.212.2
++ 針對主要 DNS server，registrar 會在 DNS 系統中加入兩筆 RR
+	+ (networkutopia\.com, dns1\.networkutopia\.com, NS)
+	+ (dns1\.networkutopia\.com, 212.212.212.1, A)
++ 也要確定 web server (www\.networkutopia\.com) 和 mail server (mail\.networkutopia\.com) 的 Type MX RR 已經輸入到 authoritative server 中
+
+
+## Attacking DNS
++ DDos attacks
+	+ bombard（轟炸） root servers with traffic
+		+ not successful to date
+		+ 原因
+			+ packet filter (traffic filtering ?)
+			+ local DNS server cache IPs of TLD servers, allowing 繞過 root server
+	+ bombard TLD servers
+		+ potentially more dangerous
+		+ 也可以被 cache 所化解
++ redirect attacks
+	+ main-in-middle
+		+ Intercept（攔截） queries, 回傳假的 replies
+	+ DNS poisoning
+		+ Send bogus（假的） 回覆給 DNS server，讓 DNS server 快取假的紀錄
++ exploit（利用） DNS for DDos
+	+ send queries with spoofed（騙人的） source address: target IP
+	+ requires amplification（放大） ？

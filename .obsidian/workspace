@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶DNS.md",
+            "file": "Inbox/📶P2P.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶DNS.md",
+                "file": "Inbox/📶P2P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶DNS.md"
+                "file": "Inbox/📶P2P.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶DNS.md",
+                "file": "Inbox/📶P2P.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "0d9b602cb02eacfd",
   "lastOpenFiles": [
-    "Inbox/📶DNS.md",
-    "Attachments/Networking/DNS message format.excalidraw.md",
-    "Attachments/Networking/network of networks.excalidraw.md",
+    "Inbox/📶P2P.md",
     "Inbox/📶Application Layer.md",
+    "Inbox/📶DNS.md",
+    "Attachments/Networking/network of networks.excalidraw.md",
+    "Attachments/Networking/DNS message format.excalidraw.md",
     "Inbox/📶Electronic Mail in the Internet.md",
     "Inbox/📶The Web and HTTP.md",
     "Inbox/📶Principles of Network Applications.md",
     "Projects/Data Structure/🏗Arrays.md",
-    "Archives/使用規則/語法.md",
-    "Projects/Networking/📶Delay, loss, throughput in networks.md"
+    "Archives/使用規則/語法.md"
   ]
 }
