@@ -82,3 +82,37 @@ graph TD;
 	+ alos called **default name server**
 + when host makes DNS query, query is sent to its local DNS server
 	+ acts as proxy, forward query into hierarchy
+
+### DNS name resolution example
+host at cis.poly.edu wants IP address for gaia.cs.umass.edu
+
+#### iterated query（實務上較常使用）
+```mermaid
+graph LR;
+	B--1-->A[local DNS server&nbsp&nbsp<br>dns.poly.edu];
+	A--8-->B[requesting host&nbsp&nbsp<br>cis.poly.edu];
+	A--2-->C[root DNS server&nbsp&nbsp];
+	C--3-->A;
+	A--4-->D[TLD DNS server&nbsp&nbsp];
+	D--5-->A;
+	A--6-->E[authoritative DNS server&nbsp&nbsp<br>dns.cs.umass.edu];
+	E--7-->A;
+```
++ 從上游的 server 得到下游的 server name，在不斷迭代到找到目標 server 為止。
+	+ "I don't know this name, but ask this server"
+
+#### recursive query
+```mermaid
+graph TD;
+	A--7-->B[local DNS server&nbsp&nbsp<br>dns.poly.edu];
+	B--2-->A[root DNS server&nbsp&nbsp];
+	A--3-->C[TLD DNS server&nbsp&nbsp];
+	C--6-->A;
+	B--8-->D[requesting host&nbsp&nbsp<br>cis.poly.edu];
+	D--1-->B;
+	C--4-->E[authoritative DNS server&nbsp&nbsp<br>dns.cs.umass.edu];
+	E--5-->C;
+```
+
+### DNS Caching
++ 當 local DNS server 
