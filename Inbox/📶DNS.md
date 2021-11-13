@@ -115,4 +115,89 @@ graph TD;
 ```
 
 ### DNS Caching
-+ 當 local DNS server 
++ DNS server 可以將查詢過的某一對 hostname／IP address 快取在 server 中
+	+ local DNS server 也可以快取 authoritative server, TLD server 的 IP address
++ 一段時間後 DNS server 會丟棄其快取的資訊（通常設定為 2 天）
+
+
+## DNS Records and Messages
+### DNS Records
++ distribute database (DNS) storing resource records (RRs（資源紀錄）)
++ RR format: $(Name,\ Value,\ Type,\ TTL)$
+	+ $TTL$ 是 RR 存活的時間，以下範例中將會省略。
+
+#### Type=A
++ **name:** hostname
++ **value:** IP address
++ example
+	+ (relay1.bar.foo.com, 145.37.93.126, A)
+
+#### Type=NS
++ **name:** domain
++ **value:** hostname of authoritative name of server of this domain
++ example
+	+ (foo.com, dns.foo.com, NS)
+
+#### Type=CNAME
++ **name:** alias name of **value**
++ **value:** canonical name （除了 mail server 以外的 server）
++ example
+	+ (foo.com, relay1.bar.foo.com, CNAME)
+
+#### Type=MX
++ **name:** alias name of **value**
++ **value:** canonical name of mail server
++ example
+	+ (foo.com, mail.bar.foo.com, MX)
+
+
+### DNS Messages
+**query** and **reply** messages, which are the only two kinds of DNS messages, both with same message format.
+
+![[DNS message format.excalidraw]]
+
+<table align="center">
+	<tr align="center">
+		<td>identification</td>
+		<td>flags</td>
+	</tr>
+	<tr align="center">
+		<td>Number of questions</td>
+		<td>Number of answer RRs</td>
+	</tr>
+	<tr align="center">
+		<td>Number of authority RRs</td>
+		<td>Number of additional RRs</td>
+	</tr>
+	<tr align="center">
+		<td colspan="2">questions (variable number of questions)</td>
+	</tr>
+	<tr align="center">
+		<td colspan="2">answers (variable number of RRs)</td>
+	</tr>
+	<tr align="center">
+		<td colspan="2">authority (variable number of RRs)</td>
+	</tr>
+	<tr align="center">
+		<td colspan="2">additional info (variable number of RRs)</td>
+	</tr>
+</table>
+
++ header section: 12 bytes
+	+ identification（識別代碼）: 16 bit number for query, reply to query uses same number
+	+ flags:
+		+ query(0) or reply(1)
+		+ reply is authoritative(1): 是否為 DNS server 所查詢之名稱的 authoritative server
+		+ recursion desired (1): 希望 DNS server 能在沒有 records 時，用遞迴進行查詢
+		+ recursion available (1): 若 DNS server 支援遞迴式查詢
+	+ 剩下四個 number-of fields，指出在 header section 之後出現的 section 的數量。
++ question section: 正在進行的 query 的相關資訊
+	+ **a name field:** 存放正在查詢的 name
+	+ **a type field:** 指出對該 name 所 query 的問題類型
+		+ e.g. Type A, Type MX...
++ answer section
+	+ 
++ authority section
+	+ 
++ additional section
+	+ 

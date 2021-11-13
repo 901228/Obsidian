@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "70ab059d33bfa8b0",
+        "id": "0d9b602cb02eacfd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Inbox/📶DNS.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2310520e327c52e0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/📶DNS.md",
-            "mode": "preview"
           }
         }
       }
@@ -146,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3ef55ca7bb803050",
@@ -231,17 +219,17 @@
     "width": 348,
     "collapsed": true
   },
-  "active": "70ab059d33bfa8b0",
+  "active": "0d9b602cb02eacfd",
   "lastOpenFiles": [
     "Inbox/📶DNS.md",
+    "Attachments/Networking/DNS message format.excalidraw.md",
+    "Attachments/Networking/network of networks.excalidraw.md",
     "Inbox/📶Application Layer.md",
     "Inbox/📶Electronic Mail in the Internet.md",
     "Inbox/📶The Web and HTTP.md",
     "Inbox/📶Principles of Network Applications.md",
     "Projects/Data Structure/🏗Arrays.md",
     "Archives/使用規則/語法.md",
-    "Projects/Networking/📶Delay, loss, throughput in networks.md",
-    "Projects/Networking/📶Computer Networks and the Internets.md",
-    "Projects/Networking/📶Introduction.md"
+    "Projects/Networking/📶Delay, loss, throughput in networks.md"
   ]
 }
