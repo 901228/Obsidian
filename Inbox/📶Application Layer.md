@@ -13,3 +13,4 @@ Parent Link :: [[📶Computer Networking]]<br>
 - [[📶Principles of Network Applications]]
 - [[📶The Web and HTTP]]
 - [[📶Electronic Mail in the Internet]]
+- [[📶DNS]]

@@ -77,3 +77,82 @@ graph LR;
 + S: 221 \<server-name\> closing connection
 
 ## Comparison with HTTP
+| SMTP                                                 | HTTP                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| push（推） protocol                                  | pull（拉） protocol                                          |
+| persistent connections                               | non-persistent or persistent                                 |
+| requires message to be in 7-bits ASCII               | Not impose（施加） this restriction                          |
+| places all of the message’s objects into one message | encapsulates（封裝） each object in its own response message |
+
+## Mail Message Formats
++ RFC 5322: standard for mail message format
+	+ header line
+		+ e.g. To, From, Subject...
+		+ ==different from SMTP commands (MAIL FROM, RCPT TO...)==
+	+ separated by a <u>blank line</u> (CRLF)
+	+ body: the "message"
+		+ ASCII characters only
+
+## Mail Access Protocols
+
+若 receiver 的 mail server 在 reciever's PC 上，則 receiver's PC 必須保持全天開啟。很明顯這是不實際的。<br>
+通常 mail server 是由 ISP 所維護，多個 user 共用這個 mail server。<br>
+當 user 要獲取 mail server 上寄給自己的郵件，須利用 **mail access protocols**。
+```mermaid
+graph LR;
+	A[user agent <br>A]--SMTP-->B([mail server <br>A]);
+	B--SMTP-->C([mail server <br>B]);
+	C--mail access protocols<br>POP3, IMAP, HTTP--->D[user agent <br>B];
+```
+
+### POP3 (Post Office Protocols-Version 3) \[RFC 1939\]
++ authorization phase
+	+ client commands
+		+ **user:** declare username
+		+ **pass:** password
+	+ server responses
+		+ **\+OK:**
+		+ **\-ERR:** 拼錯指令
+	+ example
+		+ S: \+OK POP3 server ready
+		+ C: user bob
+		+ S: \+OK
+		+ S: pass hungry
+		+ C: \+OK user successfully logged on
++ transaction phase
+	+ client commands
+		+ **list:** list message numbers
+		+ **retr:** retrieve message by number
+		+ **dele:** delete
+		+ **quit**
+	+ example
+		+ C: list
+		+ S: 1 498
+		+ S: 2 912
+		+ S: .
+		+ C: retr 1
+		+ S: \<message 1 contents\>
+		+ S: .
+		+ C: dele 1
+		+ C: retr 2
+		+ S: \<message 2 contents\>
+		+ S: .
+		+ C: dele 2
+		+ C: quit
+		+ S: \+OK POP3 server signing off
++ update phase
+
+- POP3 is stateless across sessions
+
+### IMAP (Internet Mail Access Protocols) \[RFC 1730\]
++ keeps all messages in one place at server
++ allows user to organize messages in folders
+	+ e.g. create folder, move messages between folders, search messages in specific folders...
++ keeps user state across sessions
+	+ names of folders and mappings between messages IDs and folder name
++ 可以取得 message 的部份元件。
+
+### HTTP
++ e.g. Gmail, Yahoo Mail, Hotmail...
++ receive message from mail server **via HTTP**
++ send message to mail server **via HTTP**
