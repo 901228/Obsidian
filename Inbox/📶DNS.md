@@ -38,3 +38,47 @@ Parent Link :: [[📶Application Layer]]<br>
 	+ 結論: <u>doesn't scale</u>（無法擴充）
 
 ### A Distributed, Hierarchical（階層式） Database
++ DNS classes
+	1. root（根） DNS servers
+	2. top-level domain (TDL)（高階網域） DNS servers
+	3. authoritative（官方） DNS servers
+
+```mermaid
+graph TD;
+	A[Root DNS Servers&nbsp&nbsp]-->B[com&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	B-->E[yahoo.com&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	B-->F[amazon.com&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	A-->C[org&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	C-->G[pbs.org&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	A-->D[edu&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	D-->H[poly.edu&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+	D-->I[umass.edu&nbsp&nbsp<br>DNS servers&nbsp&nbsp];
+```
+
++ Example: client wants IP for www\.amazon\.com
+	1. client queries root server to find com DNS server
+	2. client queries .com DNS server to get amazon.com DNS server
+	3. client queries amazon.com DNS server to get IP address for www\.amazon\.com
+
+#### Root DNS Servers
++ 共 13 個 logical root name (\<A to M\>.root-servers.net)，分別由 13 個不同的組織管理。
++ 世界各地都有各個 root name server 的鏡像。
++ [root name server list](https://en.wikipedia.org/wiki/Root_name_server#Root_server_addresses)
+
+#### TLD DNS Servers
++ 包含高階網域 com, org, sdu, gov...，與所有國家級的高階網域 uk, fs, ca, jp...，都有 TLD Servers。
+	+ com 高階網域的 TLD Server 由 Verisign Global Registry Services 公司負責維護。
+	+ edu 高階網域的 TLD Server 由 Educause 公司負責維護。
+
+#### Authoritative DNS Servers
++ 所有機構，只要有 publicly accessible hosts on the Internet，就必須提供 publicly accessible DNS records, which mapping hostnames to IP Address。
++ DNS records can be stored in
+	+ DNS Servers maintained by organization, university, company...
+	+ 某家 service provider（服務供應商） 的 DNS Server 中（付費）。
+
+#### Local DNS Name Servers
++ 不屬於 servers 階層架構中
++ each ISP has one
+	+ alos called **default name server**
++ when host makes DNS query, query is sent to its local DNS server
+	+ acts as proxy, forward query into hierarchy
