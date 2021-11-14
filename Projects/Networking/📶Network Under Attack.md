@@ -14,10 +14,10 @@ Parent Link :: [[📶Computer Networks and the Internets]]<br>
 
 ## malware（惡意軟體）
 + **virus:** self-replicating infection by ==receiving/executing== object.
-	+ 被動
+	+ 被動傳播
 	+ e.g. e-mail attachment
-+ **worm:** self-replicating infection by ==passivelt receiving== object that gets itself executing.
-	+ 主動
++ **worm:** self-replicating infection by ==passively receiving== object that gets itself executing.
+	+ 主動傳播
 
 - **spyware malware** can *record keystrokes*, *web sites visited*, *upload info* to collection sire
 - infected host can be enrolled in botnet（殭屍／傀儡網路）, used for spam.

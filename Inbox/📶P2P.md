@@ -59,6 +59,7 @@ graph LR;
 		+ distribution time: $$D_{P2P} \ge max\bigg\{\frac{F}{u_s}, \frac{F}{d_{min}}, \frac{NF}{u_{total}}\bigg\}$$
 			+ 只要 $N$ 夠大，$D_{P2P}$ 就是 $NF\ /\ u_{total}$。
 			+ 因此 $D_{P2P}$ 可視為隨著 $N$ 的增加而非線性增加。
+
 ![[client-server versus P2P.png]]
 
 ## BitTorrent
@@ -72,6 +73,7 @@ graph LR;
 	3. 嘗試向 list 上的所有 peers 建立 TCP connections
 	4. 若成功建立連線，該節點稱為 **neighbors**
 	5. ==neighbor 數量會隨著時間（節點增加、離開）而改變。==
+
 - 任一時刻，每個 peers 都持有部份的 chunks，不同 peers 持有不同的 chunks
 - 週期性的，Alice 詢問所有 neighbors，取得他們所擁有的 chunks lists
 - requesting

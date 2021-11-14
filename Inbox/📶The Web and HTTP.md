@@ -66,6 +66,7 @@ sequenceDiagram;
 	+ **Definition:** time for small packet to travel from client to server and back
 + HTTP response time
 	+ 2RTT + file transmission time
+
 ![[non-persistent HTTP response time.excalidraw]]
 
 #### issues

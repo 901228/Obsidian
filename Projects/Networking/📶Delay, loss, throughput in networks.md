@@ -97,12 +97,14 @@ graph LR;
 ### Internet scenario（設想）
 ```mermaid
 graph TD;
-	A[server A]--R_s-->D[(bottleneck R)];
+	A[server A]--R_s-->D((router));
 	B[server B]--R_s-->D;
 	C[server C]--R_s-->D;
-	D--R_c-->E[client E];
-	D--R_c-->F[client F];
-	D--R_c-->G[client G];
+	D-->I[(<br><br><br>bottleneck<br>R<br><br><br>&nbsp)];
+	I-->H((router));
+	H--R_c-->E[client E];
+	H--R_c-->F[client F];
+	H--R_c-->G[client G];
 ```
 
 + All connections fairly share backbone bottleneck link **R (bps)**.

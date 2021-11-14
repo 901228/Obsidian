@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9b602cb02eacfd",
+        "id": "6edd700c5ad72fa8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -219,17 +219,17 @@
     "width": 348,
     "collapsed": true
   },
-  "active": "0d9b602cb02eacfd",
+  "active": "6edd700c5ad72fa8",
   "lastOpenFiles": [
     "Inbox/📶Video Streaming and CDNs.md",
     "Inbox/📶Application Layer.md",
     "Inbox/📶P2P.md",
     "Inbox/📶DNS.md",
-    "Attachments/Networking/network of networks.excalidraw.md",
-    "Attachments/Networking/DNS message format.excalidraw.md",
     "Inbox/📶Electronic Mail in the Internet.md",
     "Inbox/📶The Web and HTTP.md",
     "Inbox/📶Principles of Network Applications.md",
-    "Projects/Data Structure/🏗Arrays.md"
+    "Projects/Networking/📶Computer Networking.md",
+    "Projects/Networking/📶Computer Networks and the Internets.md",
+    "Projects/Networking/📶Internet History.md"
   ]
 }

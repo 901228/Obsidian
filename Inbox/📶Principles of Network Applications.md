@@ -115,13 +115,13 @@ data integrity, throughput, timing, security
 
 |                  application | data loss     | throughput                                | time sensitive          |
 | ----------------------------:|:------------- |:----------------------------------------- |:----------------------- |
-|                file transfer | no less       | elastic                                   | no                      |
-|                       e-mail | no less       | elastic                                   | no                      |
-|                Web documents | no less       | elastic                                   | no                      |
+|                file transfer | no loss       | elastic                                   | no                      |
+|                       e-mail | no loss       | elastic                                   | no                      |
+|                Web documents | no loss       | elastic                                   | no                      |
 |        real-time audio/video | loss-tolerant | audio: 5Kbps-1Mbps<br>video: 10Kbps-5Mbps | yes, 100's milliseconds |
 |           stored audio/video | loss-tolerant | audio: 5Kbps-1Mbps<br>video: 10Kbps-5Mbps | yes, few seconds        |
 |            interactive games | loss-tolerant | few Kbps up                               | yes, 100's milliseconds |
-| <u>text messaging</u> (data) | no less       | elastic                                   | yes and no              |
+| <u>text messaging</u> (data) | no loss       | elastic                                   | yes and no              |
 
 ### TCP service
 + **connection-oriented service（連線導向服務）**
