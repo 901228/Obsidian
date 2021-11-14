@@ -73,4 +73,33 @@ graph LR;
 	4. 若成功建立連線，該節點稱為 **neighbors**
 	5. ==neighbor 數量會隨著時間（節點增加、離開）而改變。==
 - 任一時刻，每個 peers 都持有部份的 chunks，不同 peers 持有不同的 chunks
-- 週期性的，Alice 
+- 週期性的，Alice 詢問所有 neighbors，取得他們所擁有的 chunks lists
+- requesting
+	- Alice 向 neighbors request missing chunks, with <u>rarest first</u>（最稀有者優先）
+		- rare 的定義: 在其 neighbors 中重複副本最少的 chunks
+		- **rarest first:** 期望能平均分配 torrents 中每個 chunks 的副本數量。
+- sending: tit-for-tat（以德報德）
+	- Alice 選擇**四個** neighbors, which currently sending her chunks at highest speed
+		- 這四個 neightbors 被稱為 unchoked（無阻的）
+		- 每隔 **10 秒**，Alice 會重新計算傳輸速率，並重新選擇最高速率的四個節點
+	- every 30 seconds, Alice 會隨機選擇一個 extra peer
+		- 這個 peer 被稱為 <u>optimistically unchoked</u>（樂觀無阻的）
+		- 這個 peer 可能成為 unchoked 中的一個
+			- 意思是這個 peer 是試用的。
+	- consequence
+		- 每次選４＋１個 peers。
+		- 其他 peers 被稱為 choked（受阻的）。
+		- 如此一來，能夠找到<u>與自己最匹配的 peers</u>（傳輸速率最高的），加快總傳輸速度。
+- 還有其他特性:
+	- pieces（切片） (mini-chunks（迷你片段）)
+	- pipelining（管線化）
+	- random first selection（隨機優先選擇）
+	- endgame mode（終局模式）
+	- anti-snubbing（冷落情形的防範）
+	- ...
+
+## DHT (Distributed Hast Table)（分散式雜湊表）
+一個簡單的資料庫，資料庫紀錄分佈在 P2P 系統中的各個 peers 中。
++ 已廣泛實施
+	+ e.g. BitTorrent
++ 一直是廣泛研究主題
