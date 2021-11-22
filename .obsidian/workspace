@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Video Streaming and CDNs.md",
+            "file": "Inbox/🏗Prefix, Infix, Postfix.md",
             "mode": "source"
           }
         }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Video Streaming and CDNs.md",
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Video Streaming and CDNs.md"
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Video Streaming and CDNs.md",
+                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +220,15 @@
   },
   "active": "6edd700c5ad72fa8",
   "lastOpenFiles": [
-    "Inbox/📶Video Streaming and CDNs.md",
+    "Inbox/🏗Prefix, Infix, Postfix.md",
+    "Projects/Data Structure/🏗Data Structure MOC.md",
+    "Projects/Data Structure/🏗Stacks.md",
     "Inbox/📶Application Layer.md",
-    "Inbox/📶P2P.md",
-    "Inbox/📶DNS.md",
-    "Inbox/📶Electronic Mail in the Internet.md",
-    "Inbox/📶The Web and HTTP.md",
-    "Inbox/📶Principles of Network Applications.md",
-    "Projects/Networking/📶Computer Networking.md",
-    "Projects/Networking/📶Computer Networks and the Internets.md",
-    "Projects/Networking/📶Internet History.md"
+    "Projects/Networking/📶The Web and HTTP.md",
+    "Inbox/📶Video Streaming and CDNs.md",
+    "Projects/Networking/📶P2P.md",
+    "Projects/Networking/📶DNS.md",
+    "Projects/Networking/📶Electronic Mail in the Internet.md",
+    "Projects/Networking/📶Principles of Network Applications.md"
   ]
 }
