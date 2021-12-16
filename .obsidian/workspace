@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/🏗Prefix, Infix, Postfix.md",
+            "file": "Inbox/📶Application Layer.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
+                "file": "Inbox/📶Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md"
+                "file": "Inbox/📶Application Layer.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🏗Prefix, Infix, Postfix.md",
+                "file": "Inbox/📶Application Layer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,12 +220,12 @@
   },
   "active": "6edd700c5ad72fa8",
   "lastOpenFiles": [
+    "Inbox/📶Application Layer.md",
+    "Inbox/📶Video Streaming and CDNs.md",
     "Inbox/🏗Prefix, Infix, Postfix.md",
     "Projects/Data Structure/🏗Data Structure MOC.md",
     "Projects/Data Structure/🏗Stacks.md",
-    "Inbox/📶Application Layer.md",
     "Projects/Networking/📶The Web and HTTP.md",
-    "Inbox/📶Video Streaming and CDNs.md",
     "Projects/Networking/📶P2P.md",
     "Projects/Networking/📶DNS.md",
     "Projects/Networking/📶Electronic Mail in the Internet.md",
