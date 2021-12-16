@@ -10,7 +10,6 @@ Parent Link :: [[📶Transport Layer]]<br>
 
 ---
 # 📶transport-layer services
-
 + provide **logical communication（邏輯通訊）** between app processes running on different hosts
 + transport protocols run in end systems
 	+ send side: breaks app messages into segments, passes to network layer
@@ -19,12 +18,10 @@ Parent Link :: [[📶Transport Layer]]<br>
 	+ Internet: TCP and UDP
 
 ## Transport layer vs Network layer
-
 + **network layer:** logical communication between **hosts**
 + **transport layer:** logical communication between **processes**
 
 ## Internet transport layer protocols
-
 + reliable, in-order delivery (TCP)
 	+ congestion control
 	+ flow control

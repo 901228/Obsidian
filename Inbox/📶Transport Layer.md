@@ -11,3 +11,4 @@ Parent Link :: [[📶Computer Networking]]<br>
 # 📶Transport Layer
 
 - [[📶transport-layer services]]
+- [[📶Multiplexing and Demultiplexing]]
