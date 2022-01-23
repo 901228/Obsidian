@@ -14,7 +14,7 @@
   "autoexportPNG": false,
   "autoexportExcalidraw": false,
   "syncExcalidraw": false,
-  "experimentalFileType": false,
+  "experimentalFileType": true,
   "experimentalFileTag": "✏️",
   "compatibilityMode": false,
   "loadCount": 54,

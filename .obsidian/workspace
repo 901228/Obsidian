@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/📶Multiplexing and Demultiplexing.md",
+            "file": "Inbox/Blender Hotkeys.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "219422b733779cf1"
+      },
+      {
+        "id": "89750a54110ee019",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Blender Hotkeys.md",
+            "mode": "preview"
+          }
+        },
+        "group": "219422b733779cf1"
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/📶Multiplexing and Demultiplexing.md",
+                "file": "Inbox/Blender Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/📶Multiplexing and Demultiplexing.md"
+                "file": "Inbox/Blender Hotkeys.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/📶Multiplexing and Demultiplexing.md",
+                "file": "Inbox/Blender Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +234,15 @@
   },
   "active": "6edd700c5ad72fa8",
   "lastOpenFiles": [
-    "Inbox/📶Multiplexing and Demultiplexing.md",
-    "Inbox/📶Transport Layer.md",
-    "Inbox/📶transport-layer services.md",
-    "Projects/Networking/📶Computer Networking.md",
-    "Inbox/📶Application Layer.md",
-    "Inbox/📶Video Streaming and CDNs.md",
+    "Inbox/Blender Hotkeys.md",
+    "Archives/使用規則/語法.md",
     "Inbox/🏗Prefix, Infix, Postfix.md",
-    "Projects/Data Structure/🏗Data Structure MOC.md",
-    "Projects/Data Structure/🏗Stacks.md",
-    "Projects/Networking/📶The Web and HTTP.md"
+    "Inbox/Something.md",
+    "Inbox/🖼️Trick.md",
+    "Archives/People/@朱騏.md",
+    "Archives/People/@People.md",
+    "Archives/People/@Github.md",
+    "Archives/People/@賴祐吉.md",
+    "Archives/使用規則/Obsidian 使用規則.md"
   ]
 }
