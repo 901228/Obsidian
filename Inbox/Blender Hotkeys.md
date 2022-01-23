@@ -63,6 +63,7 @@ Parent Link :: [[]]<br>
 | focus object             | Numberpad .        |
 
 ## Objects
+### Basic
 | name                    | key       |
 | ----------------------- | --------- |
 | new object              | Shift + A |
@@ -73,13 +74,34 @@ Parent Link :: [[]]<br>
 | copy object             | Shift + D |
 | copy object (reference) | Alt + D   |
 
-## Mode
-| name         | key |
-| ------------ | --- |
-| shading mode | Z   |
-|              |     |
+### Parent
+| name         | key      |
+| ------------ | -------- |
+| parent       | Ctrl + P |
+| clear parent | Alt + P  |
 
-## 3D cursor
-| name | key |
-| ---- | --- |
-| move 3D cursor     |     |
+## Mode
+| name                                   | key        |
+| -------------------------------------- | ---------- |
+| shading mode                           | Z          |
+| object interaction mode                | Ctrl + Tab |
+| switch between object mode & edit mode | Tab        |
+
+### Edit Mode
+| name               | key          |
+| ------------------ | ------------ |
+| points             | 1            |
+| lines              | 2            |
+| surfaces           | 3            |
+| extrude（拉伸）    | E            |
+| new loop（分割線） | Ctrl + R     |
+| 選一整圈           | Alt + Left   |
+| 連選               | Shift + Left |
+| 選最短路徑         | Ctrl + Left  |
+| 填補               | F            |
+
+## 3D Cursor
+| name              | key           |
+| ----------------- | ------------- |
+| move 3D cursor    | Shift + Right |
+| 3D cursor context | Shift + S     |
