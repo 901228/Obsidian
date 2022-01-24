@@ -62,8 +62,14 @@ Parent Link :: [[]]<br>
 | Orthographic/Perspective | Numberpad 5        |
 | focus object             | Numberpad .        |
 
-## Objects
-### Basic
+## Mode
+| name                                   | key        |
+| -------------------------------------- | ---------- |
+| shading mode                           | Z          |
+| object interaction mode                | Ctrl + Tab |
+| switch between object mode & edit mode | Tab        |
+
+### Object Mode
 | name                    | key       |
 | ----------------------- | --------- |
 | new object              | Shift + A |
@@ -73,32 +79,35 @@ Parent Link :: [[]]<br>
 | show object             | Alt + H   |
 | copy object             | Shift + D |
 | copy object (reference) | Alt + D   |
+| join                    | Ctrl + J  |
 
-### Parent
+#### Parent
 | name         | key      |
 | ------------ | -------- |
 | parent       | Ctrl + P |
 | clear parent | Alt + P  |
 
-## Mode
-| name                                   | key        |
-| -------------------------------------- | ---------- |
-| shading mode                           | Z          |
-| object interaction mode                | Ctrl + Tab |
-| switch between object mode & edit mode | Tab        |
-
 ### Edit Mode
-| name               | key          |
-| ------------------ | ------------ |
-| points             | 1            |
-| lines              | 2            |
-| surfaces           | 3            |
-| extrude（拉伸）    | E            |
-| new loop（分割線） | Ctrl + R     |
-| 選一整圈           | Alt + Left   |
-| 連選               | Shift + Left |
-| 選最短路徑         | Ctrl + Left  |
-| 填補               | F            |
+| name                      | key              |
+| ------------------------- | ---------------- |
+| points                    | 1                |
+| lines                     | 2                |
+| surfaces                  | 3                |
+| extrude（拉伸）           | E                |
+| new loop（分割線）        | Ctrl + R         |
+| 選一整圈                  | Alt + Left       |
+| 連選                      | Shift + Left     |
+| 選最短路徑                | Ctrl + Left      |
+| 填補                      | F                |
+| knife（切割）             | K                |
+| bevel (points)            | Ctrl + Shift + B |
+| bevel (lines)             | Ctrl + B         |
+| seperate                  | P                |
+| select object under mouse | L                |
+| select object linked      | Ctrl + L         |
+| invert selection          | Ctrl + I         |
+| hide                      | H                |
+| show                      | Clt + H          |
 
 ## 3D Cursor
 | name              | key           |
