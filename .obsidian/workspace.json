@@ -51,6 +51,7 @@
       {
         "id": "052ea64d2daac878",
         "type": "tabs",
+        "dimension": 51.73076923076923,
         "children": [
           {
             "id": "2ba4cabdc66f470a",
@@ -75,6 +76,7 @@
       {
         "id": "0fb25f870fc10d16",
         "type": "tabs",
+        "dimension": 48.26923076923077,
         "children": [
           {
             "id": "a27c0b3b807e3216",
@@ -104,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -164,8 +165,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5c0df5735086787b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3ef55ca7bb803050",
@@ -246,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +274,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6edd700c5ad72fa8",
+  "active": "82a4a253bf933845",
   "lastOpenFiles": [
     "Inbox/Blender Hotkeys.md",
     "Archives/使用規則/語法.md",
