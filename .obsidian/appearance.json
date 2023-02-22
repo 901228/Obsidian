@@ -18,5 +18,6 @@
     "bigger-link-popup-preview",
     "custom-icons-differing-files-and-folders",
     "custom-icons-differing-files-and-folders + custom-icons-for-specific-folders"
-  ]
+  ],
+  "accentColor": ""
 }
