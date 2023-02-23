@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "219422b733779cf1"
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -51,7 +51,7 @@
       {
         "id": "052ea64d2daac878",
         "type": "tabs",
-        "dimension": 51.73076923076923,
+        "dimension": 51.73076923076924,
         "children": [
           {
             "id": "2ba4cabdc66f470a",
@@ -76,7 +76,7 @@
       {
         "id": "0fb25f870fc10d16",
         "type": "tabs",
-        "dimension": 48.26923076923077,
+        "dimension": 48.26923076923076,
         "children": [
           {
             "id": "a27c0b3b807e3216",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md"
+                "file": "Projects/Flutter/🍃Flutter SDK Installation.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,17 +275,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82a4a253bf933845",
+  "active": "89750a54110ee019",
   "lastOpenFiles": [
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
+    "Archives/使用規則/Git push remote to github with ssh key.md",
+    "Inbox/🏗Linked List & Binary Tree Traversal.md",
     "Inbox/Blender Hotkeys.md",
     "Archives/使用規則/語法.md",
     "Inbox/🏗Prefix, Infix, Postfix.md",
     "Inbox/Something.md",
     "Inbox/🖼️Trick.md",
-    "Archives/People/@朱騏.md",
-    "Archives/People/@People.md",
-    "Archives/People/@Github.md",
-    "Archives/People/@賴祐吉.md",
-    "Archives/使用規則/Obsidian 使用規則.md"
+    "Archives/People/@朱騏.md"
   ]
 }

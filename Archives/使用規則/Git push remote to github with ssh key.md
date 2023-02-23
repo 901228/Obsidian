@@ -34,7 +34,7 @@ $ eval "$(ssh-agent -s)"
 
 ```shell
 $ ssh-add ~/.ssh/id_ed25519
-$ sudo ssh-add /home/harry90/.ssh/id_ed25519
+$ sudo ssh-add ~/.ssh/id_ed25519
 ```
 
 > ```shell
@@ -43,7 +43,7 @@ $ sudo ssh-add /home/harry90/.ssh/id_ed25519
 > 
 > 進去 ssh bash 再繼續
 > $ ( sudo ) ssh-agent bash
-> $ ssh-add /home/harry90/.ssh/id_ed25519
+> $ ssh-add ~/.ssh/id_ed25519
 > ```
 
 <br>
@@ -52,6 +52,8 @@ $ sudo ssh-add /home/harry90/.ssh/id_ed25519
 ```shell
 $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 ```
+Goto your Github and add a new SSH Key.
+
 <br>
 
 ## Change the remote repository url
