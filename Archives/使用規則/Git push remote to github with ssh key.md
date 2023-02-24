@@ -79,7 +79,7 @@ Hi 901228! You\'ve successfully authenticated, but GitHub does not provide shell
 > <p style="font-size:12">(Settings -> Developer Settings -> Personal Access Token -> Generate New Token -> Fillup the form -> click Generate token -> Copy the generated Token)</p>
 
 ```shell
-$ git remote set-url origin https://<token>@github.com/<username>/<repo>
+$ git remote set-url origin https://<token>@github.com/901228/Obsidian
 ```
 <br>
 
