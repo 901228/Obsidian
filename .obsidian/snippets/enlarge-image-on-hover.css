@@ -2,7 +2,7 @@
 /* author: https://forum.obsidian.md/u/den/summary */
 /* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29 */
 
-.markdown-preview-view img {
+.markdown-preview-view img:not(.emoji) {
   display: block;
   margin-top: 20pt;
   margin-bottom: 20pt;
@@ -10,6 +10,8 @@
   margin-right: auto;
   width: 50%; /* experiment with values */
   transition: transform 0.25s ease;
+  position: relative;
+  z-index: 2147483647;
 }
 
 .markdown-preview-view img:hover {

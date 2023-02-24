@@ -4,40 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "547e9bdf56adde33",
+        "id": "dde0742548227b90",
         "type": "tabs",
         "children": [
           {
-            "id": "6edd700c5ad72fa8",
+            "id": "645e806e5a8405a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
+                "file": "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "219422b733779cf1"
-          }
-        ]
-      },
-      {
-        "id": "33c597759b6f2c1a",
-        "type": "tabs",
-        "children": [
+            "group": "b49946e42c879bed"
+          },
           {
-            "id": "89750a54110ee019",
+            "id": "b0fd1216bd2b0e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
+                "file": "Inbox/🖥️Computer Graphics MOC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "19570b226d5bbae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c368169c61e4d175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "219422b733779cf1"
+            "group": "b49946e42c879bed"
           }
         ]
       }
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
+                "file": "Inbox/🖥️Computer Graphics MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter SDK Installation.md"
+                "file": "Inbox/🖥️Computer Graphics MOC.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "3ef55ca7bb803050",
@@ -187,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Flutter/🍃Flutter SDK Installation.md",
+                "file": "Inbox/🖥️Computer Graphics MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,17 +288,33 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89750a54110ee019",
+  "active": "b0fd1216bd2b0e69",
   "lastOpenFiles": [
-    "Projects/Flutter/🍃Flutter MOC.md",
-    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
-    "Archives/使用規則/Git push remote to github with ssh key.md",
-    "Inbox/🏗Linked List & Binary Tree Traversal.md",
-    "Inbox/Blender Hotkeys.md",
-    "Archives/使用規則/語法.md",
-    "Inbox/🏗Prefix, Infix, Postfix.md",
-    "Inbox/Something.md",
     "Inbox/🖼️Trick.md",
-    "Archives/People/@朱騏.md"
+    "Inbox/Anki Add-ons.md",
+    "Inbox/Blender Hotkeys.md",
+    "Inbox/Something.md",
+    "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
+    "Archives/Data Structure/🏗Prefix, Infix, Postfix.md",
+    "Archives/Data Structure/🏗Arrays.md",
+    "Archives/使用規則/Obsidian 使用規則.md",
+    "Archives/Data Structure/🏗Data Structure MOC.md",
+    "Archives/Data Structure/🏗Basics.md",
+    "Archives/Data Structure/🏗Complexity.md",
+    "Projects/Flutter/🍃InkWell with backgroundColor.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Projects/MOC.md",
+    "Inbox/🖥️Computer Graphics MOC.md",
+    "Attachments/Obsidian 使用規則 Example.png",
+    "Attachments/note.png",
+    "Archives/使用規則/語法.md",
+    "Archives/使用規則/使用規則.md",
+    "Archives/使用規則/Git push remote to github with ssh key.md",
+    "Projects/Flutter/🍃Genymotion Installation.md",
+    "Projects/Flutter/🍃Flutter SDK Installation.md",
+    "Projects/Flutter/🍃Flutter build and release.md",
+    "Projects/Flutter/🍃Error-compileDebugKotlin.md",
+    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
+    "Projects/Flutter/🍃Attributes.md"
   ]
 }
