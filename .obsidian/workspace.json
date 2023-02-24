@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dde0742548227b90",
+        "id": "f82a7a8b202bdaa2",
         "type": "tabs",
         "children": [
           {
-            "id": "645e806e5a8405a1",
+            "id": "501938b0505caa7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
+                "file": "Projects/MOC.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "b49946e42c879bed"
-          },
-          {
-            "id": "b0fd1216bd2b0e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/🖥️Computer Graphics MOC.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+            "group": "51b86d0f3cf041c3"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "19570b226d5bbae6",
+        "id": "ee65c9394894cef7",
         "type": "tabs",
         "children": [
           {
-            "id": "c368169c61e4d175",
+            "id": "76eaf665150ea0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
+                "file": "Projects/MOC.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             },
-            "group": "b49946e42c879bed"
+            "group": "51b86d0f3cf041c3"
           }
         ]
       }
@@ -64,7 +51,6 @@
       {
         "id": "052ea64d2daac878",
         "type": "tabs",
-        "dimension": 51.73076923076924,
         "children": [
           {
             "id": "2ba4cabdc66f470a",
@@ -89,7 +75,6 @@
       {
         "id": "0fb25f870fc10d16",
         "type": "tabs",
-        "dimension": 48.26923076923076,
         "children": [
           {
             "id": "a27c0b3b807e3216",
@@ -110,16 +95,16 @@
               "state": {
                 "file": "Archives/使用規則/Obsidian 使用規則.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -135,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🖥️Computer Graphics MOC.md",
+                "file": "Projects/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🖥️Computer Graphics MOC.md"
+                "file": "Projects/MOC.md"
               }
             }
           },
@@ -178,17 +163,8 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "5c0df5735086787b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3ef55ca7bb803050",
@@ -200,9 +176,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🖥️Computer Graphics MOC.md",
+                "file": "Projects/MOC.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -211,7 +187,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#📘",
@@ -269,15 +245,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 348,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -285,36 +257,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b0fd1216bd2b0e69",
+  "active": "76eaf665150ea0ab",
   "lastOpenFiles": [
+    "Inbox/Arduino MOC.md",
+    "Projects/MOC.md",
+    "Inbox/Proce55ing MOC.md",
     "Inbox/🖼️Trick.md",
-    "Inbox/Anki Add-ons.md",
+    "Inbox/Conan.md",
+    "Archives/使用規則/Git push remote to github with ssh key.md",
+    "Projects/Flutter/🍃Genymotion Installation.md",
+    "Archives/使用規則/語法.md",
+    "Projects/Flutter/🍃InkWell with backgroundColor.md",
+    "Projects/Flutter/🍃MainAxisAlignment.md",
     "Inbox/Blender Hotkeys.md",
+    "Inbox/Anki Add-ons.md",
+    "Inbox/🖥️Computer Graphics MOC.md",
+    "Inbox/🍃Flutter usable package list.md",
+    "Archives/使用規則/Obsidian 使用規則.md",
+    "Archives/使用規則/使用規則.md",
     "Inbox/Something.md",
+    "Projects/Flutter/🍃Error-compileDebugKotlin.md",
+    "Projects/Flutter/🍃Attributes.md",
+    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
+    "Projects/Flutter/🍃Flutter build and release.md",
+    "Projects/Flutter/🍃Flutter SDK Installation.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
     "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
     "Archives/Data Structure/🏗Prefix, Infix, Postfix.md",
     "Archives/Data Structure/🏗Arrays.md",
-    "Archives/使用規則/Obsidian 使用規則.md",
-    "Archives/Data Structure/🏗Data Structure MOC.md",
-    "Archives/Data Structure/🏗Basics.md",
-    "Archives/Data Structure/🏗Complexity.md",
-    "Projects/Flutter/🍃InkWell with backgroundColor.md",
-    "Projects/Flutter/🍃Flutter MOC.md",
-    "Projects/MOC.md",
-    "Inbox/🖥️Computer Graphics MOC.md",
     "Attachments/Obsidian 使用規則 Example.png",
-    "Attachments/note.png",
-    "Archives/使用規則/語法.md",
-    "Archives/使用規則/使用規則.md",
-    "Archives/使用規則/Git push remote to github with ssh key.md",
-    "Projects/Flutter/🍃Genymotion Installation.md",
-    "Projects/Flutter/🍃Flutter SDK Installation.md",
-    "Projects/Flutter/🍃Flutter build and release.md",
-    "Projects/Flutter/🍃Error-compileDebugKotlin.md",
-    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
-    "Projects/Flutter/🍃Attributes.md"
+    "Attachments/note.png"
   ]
 }

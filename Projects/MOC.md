@@ -20,5 +20,7 @@ Note Type :: #📘 <br>
 - [[Arduino MOC|Arduino]]
 - [[Anki MOC|Anki]]
 - [[🖥️Computer Graphics MOC|Computer Graphics]]
+
+## Archives
 - [[🏗Data Structure MOC|Data Structure]]
 - [[📶Computer Networking|Computer Networking]]

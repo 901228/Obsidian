@@ -114,3 +114,12 @@ Parent Link :: [[]]<br>
 | ----------------- | ------------- |
 | move 3D cursor    | Shift + Right |
 | 3D cursor context | Shift + S     |
+
+
+## Dial
+| name              | key       |
+| ----------------- | --------- |
+| rendering mode    | Z         |
+| 3D cursor context | Shift + S |
+| Pivot point       | .         |
+| Orientation       | ,         |

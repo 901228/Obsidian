@@ -11,7 +11,8 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "smartIndentList": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "trashOption": "local",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "livePreview": false
 }
