@@ -19,3 +19,16 @@ npm install
 npm run dev
 npm run watch
 ```
+
+2. add
+```html
+<head>
+	...
+    @viteReactRefresh
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    ...
+</head>
+```
+to the `.blade.php` file
+
+3. complete => you can use react on laravel !

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/🌐Laravel & React.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/🌐Laravel & React.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "mode": "preview",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🌐Laravel & React.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🌐Laravel & React.md"
+                "file": "Projects/web/🌐Laravel.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🌐Laravel & React.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,12 +274,13 @@
   },
   "active": "501938b0505caa7a",
   "lastOpenFiles": [
+    "Projects/web/🌐Laravel & React.md",
+    "Projects/web/🌐Laravel.md",
     "Projects/web/🌐網頁 Moc.md",
-    "Inbox/🌐Laravel & React.md",
+    "Projects/web/🌐Laravel & Apache.md",
     "Projects/web/🌐Laravel & Database.md",
     "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
     "Projects/Flutter/🍃Flutter MOC.md",
-    "Projects/web/🌐Laravel & Apache.md",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Inbox/Something.md",
     "Inbox/🍃Flutter usable package list.md",
@@ -301,7 +302,6 @@
     "Inbox/Anki Add-ons.md",
     "Inbox/🖥️Computer Graphics MOC.md",
     "Archives/使用規則/使用規則.md",
-    "Projects/Flutter/🍃Error-compileDebugKotlin.md",
     "Attachments/Obsidian 使用規則 Example.png",
     "Attachments/note.png"
   ]
