@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/🌐Laravel & Database.md",
+                "file": "Inbox/🌐Laravel & React.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/🌐Laravel & Database.md",
+                "file": "Inbox/🌐Laravel & React.md",
                 "mode": "preview",
                 "source": true
               }
@@ -67,6 +67,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a20b6f36932af8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -104,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -121,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🌐Laravel & Database.md",
+                "file": "Inbox/🌐Laravel & React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🌐Laravel & Database.md"
+                "file": "Inbox/🌐Laravel & React.md"
               }
             }
           },
@@ -177,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🌐Laravel & Database.md",
+                "file": "Inbox/🌐Laravel & React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,15 +272,16 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "680921fbf2050789",
+  "active": "501938b0505caa7a",
   "lastOpenFiles": [
     "Projects/web/🌐網頁 Moc.md",
+    "Inbox/🌐Laravel & React.md",
+    "Projects/web/🌐Laravel & Database.md",
     "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
     "Projects/Flutter/🍃Flutter MOC.md",
     "Projects/web/🌐Laravel & Apache.md",
     "Projects/Flutter/🍃Flutter build and release.md",
     "Inbox/Something.md",
-    "Inbox/🌐Laravel & Database.md",
     "Inbox/🍃Flutter usable package list.md",
     "Untitled.canvas",
     "Projects/web",
@@ -294,7 +302,6 @@
     "Inbox/🖥️Computer Graphics MOC.md",
     "Archives/使用規則/使用規則.md",
     "Projects/Flutter/🍃Error-compileDebugKotlin.md",
-    "Projects/Flutter/🍃Attributes.md",
     "Attachments/Obsidian 使用規則 Example.png",
     "Attachments/note.png"
   ]
