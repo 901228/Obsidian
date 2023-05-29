@@ -19,8 +19,19 @@
               }
             },
             "group": "51b86d0f3cf041c3"
+          },
+          {
+            "id": "525905a7f968221c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ee65c9394894cef7",
@@ -272,7 +283,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "501938b0505caa7a",
+  "active": "525905a7f968221c",
   "lastOpenFiles": [
     "Projects/web/🌐Laravel & React.md",
     "Projects/web/🌐Laravel.md",
