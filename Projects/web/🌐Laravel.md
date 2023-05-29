@@ -3,12 +3,10 @@ title : 🌐Laravel
 date : 2023-05-05_Fri 15:31
 aliases : [laravel]
 ---
-Source Type :: <br>
-Source URL :: <br>
-Source Author :: [[]]<br>
-Note Type :: <br>
-Topics :: [[]]<br>
-Parent Link :: [[]]<br>
+Source Type :: #📥/📄 <br>
+Note Type :: #📝 <br>
+Topics :: [[🌐網頁 Moc]]<br>
+Parent Link :: [[🌐網頁 Moc]]<br>
 
 ---
 # Laravel

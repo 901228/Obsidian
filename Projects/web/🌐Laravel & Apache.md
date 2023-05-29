@@ -7,7 +7,7 @@ Source Type :: #📥/📄<br>
 Source URL :: https://tobyisme.gitbook.io/laravel/she-ding-apachejiang-laravel-zhuan-an-run-qi-lai<br>
 Note Type :: #📝 <br>
 Topics :: [[🌐網頁 Moc]]<br>
-Parent Link :: [[🌐網頁 Moc]]<br>
+Parent Link :: [[🌐Laravel]]<br>
 
 ---
 # 把 Laravel 和 Apache 串接起來

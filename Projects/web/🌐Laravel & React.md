@@ -6,7 +6,7 @@ aliases : [laravel, react]
 Source Type :: #📥/📄 <br>
 Note Type :: #📝 <br>
 Topics :: [[🌐網頁 Moc]]<br>
-Parent Link :: [[🌐網頁 Moc]]<br>
+Parent Link :: [[🌐Laravel]]<br>
 
 ---
 # Laravel & React

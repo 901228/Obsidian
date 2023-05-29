@@ -7,7 +7,7 @@ Source Type :: #📥/📄 <br>
 Source URL :: https://hackmd.io/gr6O3d_HTRSgNlaEjKShVg<br>
 Note Type :: #📝 <br>
 Topics :: [[🌐網頁 Moc]]<br>
-Parent Link :: [[🌐網頁 Moc]]<br>
+Parent Link :: [[🌐Laravel]]<br>
 
 ---
 # Laravel & Database
