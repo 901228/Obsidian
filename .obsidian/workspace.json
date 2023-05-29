@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f82a7a8b202bdaa2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "501938b0505caa7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/web/🌐Laravel.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "51b86d0f3cf041c3"
-          },
-          {
-            "id": "525905a7f968221c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "ee65c9394894cef7",
         "type": "tabs",
         "children": [
@@ -47,8 +17,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "51b86d0f3cf041c3"
+            }
           }
         ]
       }
@@ -123,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -283,13 +253,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "525905a7f968221c",
+  "active": "76eaf665150ea0ab",
   "lastOpenFiles": [
     "Projects/web/🌐Laravel & React.md",
     "Projects/web/🌐Laravel.md",
-    "Projects/web/🌐網頁 Moc.md",
-    "Projects/web/🌐Laravel & Apache.md",
     "Projects/web/🌐Laravel & Database.md",
+    "Projects/web/🌐Laravel & Apache.md",
+    "Projects/web/🌐網頁 Moc.md",
     "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
     "Projects/Flutter/🍃Flutter MOC.md",
     "Projects/Flutter/🍃Flutter build and release.md",
