@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd5ce60ee8d29d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b9ed4078c4709ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/web/🌐Laravel.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "58ffdb979a7af5d4"
-          }
-        ]
-      },
-      {
         "id": "0ea60434ee49e2eb",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/web/🌐Laravel.md",
+                "file": "Projects/web/🌐Laravel & Database.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "58ffdb979a7af5d4"
+            }
           }
         ]
       }
@@ -129,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/web/🌐Laravel.md",
+                "file": "Projects/web/🌐Laravel & Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/web/🌐Laravel.md"
+                "file": "Projects/web/🌐Laravel & Database.md"
               }
             }
           },
@@ -185,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/web/🌐Laravel.md",
+                "file": "Projects/web/🌐Laravel & Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,10 +253,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4b9ed4078c4709ef",
+  "active": "e55ce4d9acd59db5",
   "lastOpenFiles": [
-    "Projects/web/🌐Laravel & React.md",
     "Projects/web/🌐Laravel.md",
+    "Projects/web/🌐Laravel & React.md",
     "Projects/web/🌐Laravel & Database.md",
     "Projects/web/🌐Laravel & Apache.md",
     "Projects/web/🌐網頁 Moc.md",
