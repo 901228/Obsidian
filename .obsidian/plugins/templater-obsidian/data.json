@@ -23,9 +23,7 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "template_folder": "Archives/Template",
   "empty_file_template": "Archives/Template/default_template"
 }

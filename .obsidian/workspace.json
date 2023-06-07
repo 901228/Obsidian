@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f82a7a8b202bdaa2",
+        "id": "4cd5ce60ee8d29d2",
         "type": "tabs",
         "children": [
           {
-            "id": "501938b0505caa7a",
+            "id": "4b9ed4078c4709ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "51b86d0f3cf041c3"
+            "group": "58ffdb979a7af5d4"
           }
         ]
       },
       {
-        "id": "ee65c9394894cef7",
+        "id": "0ea60434ee49e2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "76eaf665150ea0ab",
+            "id": "e55ce4d9acd59db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "51b86d0f3cf041c3"
+            "group": "58ffdb979a7af5d4"
           }
         ]
       }
@@ -53,7 +53,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ba4cabdc66f470a",
+            "id": "680921fbf2050789",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "72dd9a83db0ce590",
+            "id": "8a20b6f36932af8e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md"
+                "file": "Projects/web/🌐Laravel.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archives/使用規則/Git push remote to github with ssh key.md",
+                "file": "Projects/web/🌐Laravel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,34 +273,36 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "76eaf665150ea0ab",
+  "active": "4b9ed4078c4709ef",
   "lastOpenFiles": [
-    "Archives/使用規則/Obsidian 使用規則.md",
+    "Projects/web/🌐Laravel & React.md",
+    "Projects/web/🌐Laravel.md",
+    "Projects/web/🌐Laravel & Database.md",
+    "Projects/web/🌐Laravel & Apache.md",
+    "Projects/web/🌐網頁 Moc.md",
+    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
+    "Projects/Flutter/🍃Flutter MOC.md",
+    "Projects/Flutter/🍃Flutter build and release.md",
+    "Inbox/Something.md",
+    "Inbox/🍃Flutter usable package list.md",
+    "Untitled.canvas",
+    "Projects/web",
+    "Projects/Flutter/🍃Flutter SDK Installation.md",
+    "Projects/Flutter/🍃Genymotion Installation.md",
+    "Projects/Flutter/🍃InkWell with backgroundColor.md",
     "Projects/MOC.md",
     "Inbox/Arduino MOC.md",
-    "Inbox/Proce55ing MOC.md",
-    "Inbox/🖼️Trick.md",
+    "Archives/使用規則/Obsidian 使用規則.md",
     "Inbox/Conan.md",
     "Archives/使用規則/Git push remote to github with ssh key.md",
-    "Projects/Flutter/🍃Genymotion Installation.md",
+    "Inbox/Proce55ing MOC.md",
+    "Inbox/🖼️Trick.md",
     "Archives/使用規則/語法.md",
-    "Projects/Flutter/🍃InkWell with backgroundColor.md",
     "Projects/Flutter/🍃MainAxisAlignment.md",
     "Inbox/Blender Hotkeys.md",
     "Inbox/Anki Add-ons.md",
     "Inbox/🖥️Computer Graphics MOC.md",
-    "Inbox/🍃Flutter usable package list.md",
     "Archives/使用規則/使用規則.md",
-    "Inbox/Something.md",
-    "Projects/Flutter/🍃Error-compileDebugKotlin.md",
-    "Projects/Flutter/🍃Attributes.md",
-    "Projects/Flutter/🍃Android emulator CPU HIGH usage.md",
-    "Projects/Flutter/🍃Flutter build and release.md",
-    "Projects/Flutter/🍃Flutter SDK Installation.md",
-    "Projects/Flutter/🍃Flutter MOC.md",
-    "Archives/Data Structure/🏗Linked List & Binary Tree Traversal.md",
-    "Archives/Data Structure/🏗Prefix, Infix, Postfix.md",
-    "Archives/Data Structure/🏗Arrays.md",
     "Attachments/Obsidian 使用規則 Example.png",
     "Attachments/note.png"
   ]
