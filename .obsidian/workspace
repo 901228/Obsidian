@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Blender Hotkeys.md",
+            "file": "Inbox/🖼️Trick.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Blender Hotkeys.md",
+            "file": "Inbox/🖼️Trick.md",
             "mode": "preview"
           }
         },
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Inbox/🖼️Trick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md"
+                "file": "Inbox/🖼️Trick.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Blender Hotkeys.md",
+                "file": "Inbox/🖼️Trick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,15 +233,15 @@
   },
   "active": "6edd700c5ad72fa8",
   "lastOpenFiles": [
+    "Inbox/🖼️Trick.md",
+    "Inbox/🍃Flutter usable package list.md",
+    "Inbox/🖥️Computer Graphics MOC.md",
+    "Inbox/Something.md",
     "Inbox/Blender Hotkeys.md",
     "Archives/使用規則/語法.md",
     "Inbox/🏗Prefix, Infix, Postfix.md",
-    "Inbox/Something.md",
-    "Inbox/🖼️Trick.md",
     "Archives/People/@朱騏.md",
     "Archives/People/@People.md",
-    "Archives/People/@Github.md",
-    "Archives/People/@賴祐吉.md",
-    "Archives/使用規則/Obsidian 使用規則.md"
+    "Archives/People/@Github.md"
   ]
 }
