@@ -12,3 +12,4 @@ Parent Link :: [[MOC]]<br>
 - ![[🍃Tricks#Tricks]]
 - ![[🍃Widgets#Widgets]]
 - ![[🍃Attributes#Attributes]]
+- ![[🍃Labs#Labs]]
