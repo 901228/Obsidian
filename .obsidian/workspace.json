@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inbox/typescript-express-starter with mongoose(MongoDB).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
