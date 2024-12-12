@@ -54,7 +54,7 @@ Parent Link :: [[]]<br>
 + database
 	+ 連接上mongdb
 + dtos
-	+ ㄇㄧㄠ
+	+ 新增或更新table的時候做validation用的
 + exceptions
 + http
 + interfaces
@@ -75,9 +75,8 @@ Parent Link :: [[]]<br>
 	+ 只有欄位與型別
 2. 新增`models/xxx.model.ts`，並寫入schema
 	+ 根據`interface`訂好的欄位，加入需要的validator
-3. 新增`services/xxx.service.ts`，並寫入table的service
-	+ 主要應該是CRUD
+3. 新增`services/xxx.service.ts`，並寫入table的邏輯控制
 4. 新增`controllers/xxx.controller.ts`，並寫入table的controller
-	+ 主要應該是CRUD
-5. 新增`routes/xxx.route.ts`，並寫入需要的route
-	+ 主要應該是CRUD
+5. 新增`dtos/xxx.dto.ts`，並寫入新增或更新table時要做的validation
+6. 新增`routes/xxx.route.ts`，並寫入需要的route
+7. 在`server.ts`的`App`中新增剛剛新增的`xxxRoute`
