@@ -10,24 +10,19 @@
   --font-size-h4:                   1em;
   --font-size-h5:                   1em;
   --font-size-h6:                   1em;
-  --font-size-preview-h1:           1.6em;
-  --font-size-preview-h2:           1.5em;
-  --font-size-preview-h3:           1.4em;
-  --font-size-preview-h4:           1.3em;
-  --font-size-preview-h5:           1.2em;
-  --font-size-preview-h6:           1.1em;
-  --header-before-size-h1:          1.6em;
-  --header-before-size-h2:          1.5em;
-  --header-before-size-h3:          1.4em;
-  --header-before-size-h4:          1.3em;
-  --header-before-size-h5:          1.2em;
-  --header-before-size-h6:          1.1em;
-  --text-title-h1:                  purple;
+  --font-size-preview-h1:           2em;
+  --font-size-preview-h2:           1.6em;
+  --font-size-preview-h3:           1.37em;
+  --font-size-preview-h4:           1.25em;
+  --font-size-preview-h5:           1.12em;
+  --font-size-preview-h6:           1.12em;
+  --text-title-h1:                  #800080;
   --text-title-h2:                  #3fcc1c;
   --text-title-h3:                  #e73d1f;
   --text-title-h4:                  #d79921;
   --text-title-h5:                  #458588;
   --text-title-h6:                  #b16286;
+  --header-before-color:            #800080;
   --margin-top-preview-h1:          1.6em;
   --margin-top-preview-h2:          1.5em;
   --margin-top-preview-h3:          1.4em;
@@ -37,14 +32,6 @@
   --padding-bottom-preview:         0em;
   /* --border-bottom-preview:          0.08em solid currentColor; */
   --border-bottom-preview:          0em;
-  /*
-  --text-title-h1:                  #d65d0e;
-  --text-title-h2:                  #d79921;
-  --text-title-h3:                  #98971a;
-  --text-title-h4:                  #689d6a;
-  --text-title-h5:                  #458588;
-  --text-title-h6:                  #b16286;
-  */
 }
 
 /* headings for editor and preview */
@@ -57,42 +44,42 @@
 
 .cm-header-1 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h1) !important;
   color: var(--text-title-h1);
 }
 
 .cm-header-2 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h2) !important;
   color: var(--text-title-h2);
 }
 
 .cm-header-3 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h3) !important;
   color: var(--text-title-h3);
 }
 
 .cm-header-4 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h4) !important;
   color: var(--text-title-h4);
 }
 
 .cm-header-5 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h5) !important;
   color: var(--text-title-h5);
 }
 
 .cm-header-6 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-h6) !important;
   color: var(--text-title-h6);
 }
@@ -100,7 +87,7 @@
 
 .markdown-preview-view h1 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h1) !important;
   color: var(--text-title-h1);
   margin-top: var(--margin-top-preview-h1);
@@ -111,7 +98,7 @@
 
 .markdown-preview-view h2 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h2) !important;
   color: var(--text-title-h2);
   margin-top: var(--margin-top-preview-h2);
@@ -122,7 +109,7 @@
 
 .markdown-preview-view h3 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h3) !important;
   color: var(--text-title-h3);
   margin-top: var(--margin-top-preview-h3);
@@ -133,7 +120,7 @@
 
 .markdown-preview-view h4 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h4) !important;
   color: var(--text-title-h4);
   margin-top: var(--margin-top-preview-h4);
@@ -144,7 +131,7 @@
 
 .markdown-preview-view h5 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h5) !important;
   color: var(--text-title-h5);
   margin-top: var(--margin-top-preview-h5);
@@ -156,7 +143,7 @@
 
 .markdown-preview-view h6 {
 
-  font-weight: 500;
+  font-weight: bold;
   font-size: var(--font-size-preview-h6) !important;
   color: var(--text-title-h6);
   margin-top: var(--margin-top-preview-h6);
@@ -166,66 +153,8 @@
 }
 
 
-/*
 h1:before {
 
   content: "§ ";
-  font-size: 1em;
   color: var(--header-before-color);
 }
-h2:before {
-
-  content: "## ";
-  font-size: var(--header-before-size-h2);
-  color: var(--header-before-color);
-}
-h3:before {
-
-  content: "### ";
-  font-size: var(--header-before-size-h3);
-  color: var(--header-before-color);
-}
-h4:before {
-
-  content: "#### ";
-  font-size: var(--header-before-size-h4);
-  color: var(--header-before-color);
-}
-h5:before {
-
-  content: "##### ";
-  font-size: var(--header-before-size-h5);
-  color: var(--header-before-color);
-}
-h6:before {
-
-  content: "###### ";
-  font-size: var(--header-before-size-h6);
-  color: var(--header-before-color);
-}
-*/
-
-/*
-.markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-preview-view h4,
-.markdown-preview-view h5,
-.markdown-preview-view h6 {
-    color: green;
-}
-
-.cm-header-1,
-.cm-header-2,
-.cm-header-3,
-.cm-header-4,
-.cm-header-5,
-.cm-header-6 {
-    font-size: 16pt;
-    color: green;
-}
-
-.markdown-preview-view h1,
-.cm-header-1 {
-    color: purple;
-}
-*/
