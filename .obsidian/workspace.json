@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ea60434ee49e2eb",
+        "id": "df1c33c66ae79960",
         "type": "tabs",
         "children": [
           {
-            "id": "e55ce4d9acd59db5",
+            "id": "911a62a96962f5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/🍃HomeWidget.md",
+                "file": "Inbox/typescript-express-starter with mongoose(MongoDB).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🍃HomeWidget"
+              "title": "typescript-express-starter with mongoose(MongoDB)"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "63a8dc02e73a8bff",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/🍃HomeWidget.md",
+                "file": "Inbox/typescript-express-starter with mongoose(MongoDB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "🍃HomeWidget 的反向連結"
+              "title": "typescript-express-starter with mongoose(MongoDB) 的反向連結"
             }
           },
           {
@@ -156,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/🍃HomeWidget.md"
+                "file": "Inbox/typescript-express-starter with mongoose(MongoDB).md"
               },
               "icon": "lucide-list",
-              "title": "🍃HomeWidget 的大綱"
+              "title": "typescript-express-starter with mongoose(MongoDB) 的大綱"
             }
           },
           {
@@ -184,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/🍃HomeWidget.md",
+                "file": "Inbox/typescript-express-starter with mongoose(MongoDB).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🍃HomeWidget 的關聯圖"
+              "title": "typescript-express-starter with mongoose(MongoDB) 的關聯圖"
             }
           }
         ]
@@ -271,20 +272,28 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e55ce4d9acd59db5",
+  "active": "911a62a96962f5a9",
   "lastOpenFiles": [
+    "Inbox/Something.md",
+    "Inbox/Conan.md",
+    "Inbox/Blender Hotkeys.md",
+    "Inbox/typescript-express-starter with mongoose(MongoDB).md",
+    "Inbox/Arduino MOC.md",
+    "Projects/MOC.md",
+    "Inbox/Anki Add-ons.md",
+    "Inbox/🖥️Computer Graphics MOC.md",
+    "README.md",
+    "Archives/使用規則/Obsidian 使用規則.md",
+    "Inbox/🍃HomeWidget.md",
+    "Inbox/MongoDB.md",
     "Inbox/🍃Labs.md",
     "Inbox/🍃Flutter usable package list.md",
-    "Inbox/🍃HomeWidget.md",
     "Projects/Flutter/🍃Flutter MOC.md",
-    "Inbox/Anki Add-ons.md",
-    "Inbox/Blender Hotkeys.md",
-    "Inbox/Arduino MOC.md",
-    "Inbox/Conan.md",
-    "Inbox/Something.md",
     "Projects/web/🌐Laravel.md",
     "Projects/web/🌐Laravel & React.md",
     "Projects/web/🌐Laravel & Database.md",
@@ -297,12 +306,7 @@
     "Projects/Flutter/🍃Flutter SDK Installation.md",
     "Projects/Flutter/🍃Genymotion Installation.md",
     "Projects/Flutter/🍃InkWell with backgroundColor.md",
-    "Projects/MOC.md",
-    "Archives/使用規則/Obsidian 使用規則.md",
     "Archives/使用規則/Git push remote to github with ssh key.md",
-    "Inbox/Proce55ing MOC.md",
-    "Inbox/🖼️Trick.md",
-    "Archives/使用規則/語法.md",
     "Attachments/Obsidian 使用規則 Example.png",
     "Attachments/note.png"
   ]

@@ -2,12 +2,11 @@
   "baseFontSize": 20,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Atom",
+  "cssTheme": "Catppuccin",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "dot_relationship_line",
     "theme_dark_grapgview",
-    "smaller_headings",
     "font-family",
     "subtler-folding-gutter-arrows",
     "image-cards",
@@ -16,10 +15,11 @@
     "custom-icons-differing-files-and-folders + custom-icons-for-specific-folders",
     "tag-pills",
     "bigger-link-popup-preview",
-    "enlarge-image-on-hover"
+    "enlarge-image-on-hover",
+    "smaller_headings"
   ],
   "accentColor": "",
-  "monospaceFontFamily": "Operator Mono,jf open 粉圓 1.1",
-  "textFontFamily": "Fira Code,jf open 粉圓 1.1",
+  "monospaceFontFamily": "Symbols Nerd Font,Fira Code,jf open 粉圓 2.0",
+  "textFontFamily": "Symbols Nerd Font,芫荽,jf open 粉圓 2.0",
   "interfaceFontFamily": ""
 }
